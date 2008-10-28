@@ -1,0 +1,20 @@
+Le numéro SIREN est facultatif pour une association mais il permet entre autres
+de :
+- réserver des noms de domaine en .fr
+- recevoir des subventions (ville, région, état, europe)
+
+Voir http://www.insee.fr/fr/publications-et-services/services/reponse.asp?id=78
+
+La demande de numéro SIREN a été effectuée en mai 2008. L'inscription est
+effective depuis le 25 mai 2008. La demande a été envoyé (voir lettres) à :
+INSEE ILE-DE-FRANCE
+7, rue Stephenson
+Montigny-le-Bretonneux
+78188 ST QUENTIN-EN-YVELINES CEDEX
+
+
+Identifiant SIREN          504 398 355
+Identifiant SIRET du siège 504 398 355 00017 
+
+Il est possible de récupérer un nouvel avis de situation ici :
+http://avis-situation-sirene.insee.fr

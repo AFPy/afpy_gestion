@@ -1,0 +1,142 @@
+Les notes prises pendant l'AG, avec le détail des présents et du résultat des
+votes
+
+Présence
+========
+
+Nom Prénom [login afpy.org] (membre depuis plus de 6 mois)
+
+Larlet David [] (oui)
+Combelles Christophe [ccomb] (oui)
+Bord Bruno [brunobord] (oui)
+Amicel Ronan [ronnix] (oui)
+Allouche David [] (non)
+Pascual Emilie [] (oui)
+Julien Stéphane [] (non)
+Pettier Grabriel [] (non)
+Bryon Benoit [] (non)
+Bonhommeau Gwenael [gwen] (oui)
+Pasgrimmaud Gael [gawel] (oui)
+Charpentier Johan [cyberj] (non)
+Belmont Marc [marcbelmont] (non)
+Didio Salvatore [Salvator] (non)
+Barnoud Jonathan [pitijo] (non)
+Saliez Etienne [] (non)
+Lejeunz John [mightybuild] (oui)
+Douche Sebastien [yota] (oui)
+Fernandez Alexandre [lunatik] (oui)
+Launay Michael [michaellaunay] (oui)
+Van Den Bulke Eugène [] (non)
+Aubinaeau Yoann [] (non)
+Kanschine Stephane [carxwol] ()
+Tarek Ziadé [tarek] (oui)
+Olivier Grisel [ogrisel] (oui)
+
+Pouvoirs
+--------
+
+Laurent Godard => ogrisel
+Olivier Deckmyn => gwen
+Jean Philippe Camguilhem => gawel
+
+
+Bilan Moral
+===========
+
+approuvent: 23
+désapprouvent: 0
+abstentions: 3
+
+
+Remarques / suggestions:
+
+-> lancer un kit educatif pour assister ceux qui veulent promouvoir python
+dans les ecoles / lycées / facs
+
+-> Location bus pour déplacements afpy
+
+-> Contacter l'auteur de mailman pour lancer l'idée de mailwoman
+
+
+Bilan financier
+===============
+
+approuvent: 25
+désapprouvent: 0
+abstentions: 1
+
+
+Quitus
+======
+
+approuvent: 25
+désapprouvent: 0
+abstentions: 1
+
+
+Comité directeur
+=================
+
+Rappel AG 2005 (fondation)
+--------------------------
+
+Röder Maik
+Pasgrimmaud Gaël
+Bonhommeau Gwenael
+Grimaldi Jean-mat
+Meurant Alain
+Convent David
+Fernandez Alexandre
+Ziadé Tarek
+Camguilhem Jean-Philippe
+Cauvelier Hervé (démissionnaire)
+Guilloux Olivier (démissionnaire)
+Fernandez Roger
+Roche Jean-François
+Tonal Hugues (démissionnaire)
+
+Rappel AG 2006 (nouveau membres)
+--------------------------------
+
+Ladjemi Bader (démissionnaire? timeout host unreachable)
+Degoute Encolpe
+Boucard Damien
+Grisel Olivier
+Mann Christopher (démissionnaire)
+Laurelli Olivier
+
+
+AG 2008 (nouveau membres)
+-------------------------
+
+Douche Sébastien
+Combelles Christophe
+Pascual Émilie
+Larlet David
+
+approuvent: 15
+désapprouvent: 0
+abstentions: 0
+
+
+Bureau 2008
+===========
+
+Président: Tarek Ziadé
+Vice président: Christophe Combelles
+Trésorier: Gwenael Bonhommeau
+Vice-trésorier: Gael Pasgrimmaud
+Secrétaire: Jean-Philippe Camguilhem
+Vice-secrétaire: Olivier Grisel
+
+approuvent: 12
+désapprouvent: 0
+abstentions: 0
+
+
+Vote du président par l'AG 2008
+===============================
+
+approuvent: 25
+désapprouvent: 0
+abstentions: 1 
