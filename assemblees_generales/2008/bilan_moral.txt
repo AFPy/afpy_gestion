@@ -1,0 +1,49 @@
+Bilan moral
+===========
+
+Dates des AG
+============
+
+Première AG Depuis octobre 2006:
+
+- AG annulée en 2007 par manque de monde à Dijon
+- Décision de synchroniser avec PyCON
+
+Actions menées par l'Asso
+=========================
+
+Conférences:
+
+- RMLL'06: salle Python + stand - mitigé
+- FOSDEM'07: salle Python - grande réussite
+- Solutions Linux 2007 / 2008 : stand - positif
+
+Actions menées par l'Asso
+=========================
+
+En ligne:
+
+- irc: rendez-vous journalier pour certains, en // de python-fr
+- site web: forum actif mais rien d'autre
+
+Actions menées par l'Asso
+=========================
+
+Dans la vrai vie:
+
+- AFPYRO: 5 à 10 membres réguliers
+- Journées Python/ Pycon - 2007/2008:
+    - 2007: pic de 80 personnes
+    - 2008: puc de 100 personnes
+    - supporté par la PSF
+- rencontres à Charleroi (Tux), Paris, Dijon (Sprint)
+
+Objectifs 2008/2009
+===================
+
+- Afpy Computer Camp cet été
+- PyconFR'09
+- ateliers
+- vos idées
+- dé-parisianner ! :D
+
