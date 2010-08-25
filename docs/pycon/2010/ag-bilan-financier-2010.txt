@@ -52,6 +52,13 @@ Postes Dépenses
 |OSDC              |    100   |
 +------------------+----------+
 
+Conclusion
+===========
+
+Rapport un peu biaisé par le sponsoring de Pycon 2009
+
+L'AFPy s'auto-finance sans difficulté et est globalement équilibrée.
+
 Prévisionnel
 ============
 
