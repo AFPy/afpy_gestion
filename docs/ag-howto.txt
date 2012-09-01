@@ -27,13 +27,16 @@ Voir les modèles de documents dans le dossier 'modeles de documents'
 - Rédiger un Procès Verbal d'Assemblée Générale,
 - Rédiger un rapport moral
 - Rédiger un rapport financier
-- Stocker tout ça dans le classeur rouge de l'afpy
+- Numériser tout ça, pixelliser les signatures des membres, et le stocker dans ce dépôt
+(le classeur rouge de l'afpy est maintenant hébergé à la Maison des Assos Paris 15)
+
+**IMPORTANT :**
 
 - Envoyer un courrier + enveloppe timbrée à la préfecture. Voir les explications ici :
 
- * http://www.prefecture-police-paris.interieur.gouv.fr/demarches/article/association.htm
+ * http://www.prefecturedepolice.interieur.gouv.fr/Vos-demarches/Declarations-autorisations-et-habilitations/Associations
 
- * http://www.prefecture-police-paris.interieur.gouv.fr/demarches/associations/associations.htm
+ * http://www.prefecturedepolice.interieur.gouv.fr/Vos-demarches/Declarations-autorisations-et-habilitations/Associations/Associations-declaration-de-modifications-statutaires
 
 Si un changement administratif a eu lieu (bureau, comité directeur, siège
 social, etc.) il faut envoyer un courrier à la prefecture de police en indiquant
