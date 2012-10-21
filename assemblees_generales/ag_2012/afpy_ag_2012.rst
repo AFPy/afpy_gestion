@@ -58,10 +58,12 @@ Lopez Castillo José-Louis
  + pouvoirs : 7
 
 Benoit Chesnaud       ->       Olivier Grisel
+Victor Stinner        ->       Tarek Ziadé
 Olivier Deckmyn       ->       Gael Pasgrimaud
 Emanuelle Gouillart   ->       Gael Varoquaux
-
-+ TODO checker les mails de JP
+Cyprien Le Pannérer   ->       Jean-Philippe Camguilhem
+Jacques Hertzberg     ->       Jean-Philippe Camguilhem
+Eric Bréhault         ->       Jean-Philippe Camguilhem
 
 
 Ordre du jour
