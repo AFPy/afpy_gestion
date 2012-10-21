@@ -138,4 +138,4 @@ Rapport Moral de l'année par le Pdt.
 
 Le Président Tarek Ziadé
 
-Le secrétaire Jean-Philipe Camguilhem
+Le vice-secrétaire Olivier Grisel
