@@ -125,8 +125,8 @@ Rapport Moral de l'année par le Pdt.
 
     Nelle Varoquaux: Présidente
     Tarek Ziade: Vice-Président
-    Gael Pasgrimaud: Tresident
-    Arthur : Vice-Président
+    Gaël Pasgrimaud: Trésorier
+    Arthur : Vice-Trésorier
     Secretaire: Jean-Philippe Camguilhem
     Vice-Secretaire: Olivier Grisel
 
