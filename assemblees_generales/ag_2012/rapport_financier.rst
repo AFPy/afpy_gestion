@@ -4,7 +4,7 @@ Rapport financier
 
 .. contents:: Sommaire
 
-Opérations 2011
+Opérations 2012
 ================
 
 Période du 28/08/2011 au 10/09/2012
