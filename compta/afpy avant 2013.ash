@@ -2451,7 +2451,7 @@
     IZIKADO
     Mug
 
-2013/01/27 -258.0€ Check SponsoringEvents P
+2013/01/27 -258.0€ Check SponsoringEvents X
     Lyon Ruby Brigade
     Sponso code retreat
 
