@@ -152,9 +152,18 @@
 
 -- Janvier 2014
 
-2014/01/20 400.0€ Transfer Fosdem14 P
+2014/01/07 10.0€ Check CotisationReduite X
+    1 cotisation
+
+2014/01/07 20.0€ Check Cotisation X
+    1 cotisation
+
+2014/01/13 -71.96€ Order Hosting X
+    Dedibox
+
+2014/01/20 396.39€ Transfer Fosdem14 X
     Github
-    Montant USD 540.00 = ? €
+    Montant USD 540.00 $ = 396.39 €
 
 2014/01/30 500.0€ Transfer Fosdem14 P
     Python Software Foundation
@@ -174,3 +183,16 @@
 
 2014/02/05 -333.23€ Paypal Fosdem14 X
     Remboursement location matériel vidéo
+
+2014/02/05 -29 Order Bank X
+    Frais de virement international
+
+2014/02/26 -71.96€ Order Hosting X
+    Dedibox
+
+2014/02/28 60.0€ Paypal Cotisation X
+    Transaction ID 6ML46700HG8006317
+    Transaction ID 7BF64539DT2298046
+    Transaction ID 50356326PK616963V
+
+2014/02/28 -2.79€ Paypal CommissionPaypal X
