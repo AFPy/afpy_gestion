@@ -2430,6 +2430,9 @@
     xxx
     paypal
 
+2013/01/10 60.0€ Check Cotisation X
+    3 * cotisation membres
+
 2013/01/15 -35.86€ Order Hosting X
     Dedibox
 
@@ -2683,26 +2686,3 @@
 
 2013/09/30 500.0€ Transfer Pycon13 X
     XCG SAS
-
-2013/10/04 200.0€ Check Pycon13 P
-    Capensis
-
-2013/10/04 200.0€ Check Pycon13 P
-    Net NG
-
-2013/10/15 -35.86€ Order Hosting P
-    Dedibox
-
-2013/10/18 20.0€ Transfer Cotisation P
-    Encolpe Degoute
-    Paypal
-
-2013/10/18 20.0€ Transfer Cotisation P
-    Bertrand Lecervoisier
-    Paypal
-
-2013/10/22 30.0€ Check Cotisation P
-    Nelle Varoquaux / Claire Revillet
-    10:Nelle / 20:Claire
-
--- 2014
