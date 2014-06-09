@@ -165,7 +165,7 @@
     Github
     Montant USD 540.00 $ = 396.39 €
 
-2014/01/30 500.0€ Transfer Fosdem14 P
+2014/01/30 487.0€ Transfer Fosdem14 X
     Python Software Foundation
 
 2014/01/31 10.0€ Paypal CotisationReduite X
@@ -196,3 +196,22 @@
     Transaction ID 50356326PK616963V
 
 2014/02/28 -2.79€ Paypal CommissionPaypal X
+
+-- Mars 2014
+
+2014/03/31 20.0€ Paypal Cotisation X
+    Transaction ID 8U741850RC268440A
+
+2014/03/31 -0.93€ Paypal CommissionPaypal X
+
+2014/03/14 -15.0€ Order Bank X
+    Frais de virement international
+
+2014/03/19 520.9€ Transfer Fosdem14 X
+    Vente de Tshirt et goodies
+
+2014/03/26 -9.5€ Order Bank X
+    Cotisation carte
+
+2014/03/26 -71.96€ Order Hosting X
+    Dedibox
