@@ -211,3 +211,19 @@
 
 2014/03/26 -71.96€ Order Hosting X
     Dedibox
+
+-- Avril 2014
+
+2014/04/03 40.0€ Check Cotisation X
+    2 cotisations
+
+2014/04/10 -71.96€ Order Hosting X
+    Dédibox
+
+2014/04/25 -9.5€ Order Bank X
+    Cotistation carte
+
+2014/04/30 40.0€ Check Cotisation X
+    2 cotisations
+
+
