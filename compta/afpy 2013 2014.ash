@@ -6,20 +6,18 @@
 2013/10/04 200.0€ Check Pycon13 X
     Net NG
 
-2013/10/07 -563,31 Transfer Unknown X
+2013/10/07 -563.31€ Transfer Unknown X
 
-2013/10/09 500 Transfer Pycon13 X
+2013/10/09 500.0€ Transfer Pycon13 X
     Budget Insight
 
 2013/10/15 -35.86€ Order Hosting X
     Dedibox
 
 2013/10/18 20.0€ Transfer Cotisation X
-    Encolpe Degoute
     Paypal
 
 2013/10/18 20.0€ Transfer Cotisation X
-    Bertrand Lecervoisier
     Paypal
 
 2013/10/23 100.0€ Check CotisationEntreprise X
@@ -122,8 +120,6 @@
 2013/11/20 500.0€ Transfer Pycon13 X
     Unlish/Mathieu Pesin
 
-2013/11/21 -258.0€ Paypal Unknown X
-
 2013/11/30 10.0€ Paypal CotisationReduite X
     Transaction 1DK73293HM841811D
 
@@ -139,7 +135,7 @@
 
 -- Décembre 2013
 
-2013/12/10 71.72€ Order Hoting X
+2013/12/10 -71.72€ Order Hosting X
     Dedibox
 
 2013/12/30 500.0€ Transfer Fosdem14 X
