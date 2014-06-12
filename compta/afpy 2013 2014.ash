@@ -233,3 +233,8 @@
 
 2014/05/24 -9.5€ Order Bank X
     Cotisation carte
+
+-- Juin 2014
+
+2014/06/12 500.0€ Transfer PyConFr2014 P
+    Qanop SAS
