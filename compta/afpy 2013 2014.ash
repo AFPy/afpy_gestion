@@ -138,7 +138,7 @@
 2013/12/10 -71.72€ Order Hosting X
     Dedibox
 
-2013/12/30 500.0€ Transfer Fosdem14 X
+2013/12/30 500.0€ Transfer Pycon13 X
     Atlassian
 
 2013/12/31 20.0€ Paypal Cotisation X
