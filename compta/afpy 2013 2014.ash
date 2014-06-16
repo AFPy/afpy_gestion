@@ -241,3 +241,6 @@
 
 2014/06/12 500.0€ Transfer PyConFr2014 P
     Akretion France
+
+2014/06/16 500.0€ Transfer PyConFr2014 P
+    Ask'interactive
