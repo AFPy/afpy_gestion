@@ -244,3 +244,6 @@
 
 2014/06/16 500.0€ Transfer PyConFr2014 P
     Ask'interactive
+
+2014/06/25 500.0€ Transfer PyConFr2014 P
+    Yaal
