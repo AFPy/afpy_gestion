@@ -2502,6 +2502,14 @@
     xxx
     Paypal
 
+2013/04/01 -293.17€ Transfer SponsoringEvents X
+    sprint afpy
+    réglé le 10/06/2014
+
+2013/04/30 -230.0€ Transget SponsoringEvents X
+    software carpentry bootcamp avril 2013
+    réglé le 10/06/2014
+
 2013/04/07 10.0€ Transfer Cotisation P
     xxx
     Paypal

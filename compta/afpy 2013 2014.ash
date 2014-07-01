@@ -87,7 +87,7 @@
     Diner du vendredi soir
     Remboursement Enki Multimedia
 
-2013/10/28 -900.0€ Transfer Pycon13 P
+2013/10/28 -900.0€ Transfer Pycon13 X
     Captation vidéo
 
 2013/10/29 -190.87€ Card Pycon13 X
@@ -148,6 +148,9 @@
 
 -- Janvier 2014
 
+2014/01/01 -363.44€ Transfer Assurance X
+    Réglé par virement le 10/06/2014
+
 2014/01/07 10.0€ Check CotisationReduite X
     1 cotisation
 
@@ -160,6 +163,9 @@
 2014/01/20 396.39€ Transfer Fosdem14 X
     Github
     Montant USD 540.00 $ = 396.39 €
+
+2014/01/23 -21.8€ Transfer SponsoringEvents X
+    Pot 1er meetup grenoble
 
 2014/01/30 487.0€ Transfer Fosdem14 X
     Python Software Foundation
@@ -236,17 +242,39 @@
 
 -- Juin 2014
 
+2014/06/05 -273.0€ Transfer SponsoringEvents X
+    stand afpy à Solutions Linux
+
+2014/06/10 3.83€ Order Bank X
+    Régularistaion cotisation carte
+
+2014/06/10 -71.96€ Order Hosting X
+    Dédibox
+
+2014/06/12 500.0€ Transfer PyConFr2014 X
+    Akretion France
+
+2014/06/13 60.0€ Check Cotisation X
+    4 cotisations
+
+2014/06/25 500.0€ Transfer PyConFr2014 X
+    Yaal
+
+2014/06/25 -9.5€ Order Bank X
+    Cotisation carte
+
+2014/03/30 20.0€ Paypal Cotisation X
+    Transaction ID 3PU91594HF684805A
+
+2014/06/30 -0.93€ Paypal CommissionPaypal X
+
+-- Pending
+
 2014/06/12 500.0€ Transfer PyConFr2014 P
     Qanop SAS
 
-2014/06/12 500.0€ Transfer PyConFr2014 P
-    Akretion France
-
 2014/06/16 500.0€ Transfer PyConFr2014 P
     Ask'interactive
-
-2014/06/25 500.0€ Transfer PyConFr2014 P
-    Yaal
 
 2014/06/25 200.0€ Transfer PyConFr2014 P
     Anybox
