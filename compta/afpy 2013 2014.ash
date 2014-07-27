@@ -281,3 +281,9 @@
 
 2014/07/18 500.0€ Transfer PyConFr2014 P
     Always Data
+
+2014/07/21 500.0€ Transfer PyConFr2014 P
+    XCG Consulting
+
+2014/07/22 500.0€ Transfer PyConFr2014 P
+    Unlish
