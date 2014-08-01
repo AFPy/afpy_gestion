@@ -263,27 +263,51 @@
 2014/06/25 -9.5€ Order Bank X
     Cotisation carte
 
-2014/03/30 20.0€ Paypal Cotisation X
+2014/06/30 20.0€ Paypal Cotisation X
     Transaction ID 3PU91594HF684805A
 
 2014/06/30 -0.93€ Paypal CommissionPaypal X
+
+2014/06/25 200.0€ Transfer PyConFr2014 X
+    Anybox
+
+-- Juillet 2014
+
+2014/07/04 -318.0€ Transfer Fosdem14 X
+    Presta cameraman
+
+2014/07/15 -71.96€ Order Hosting X
+    Dédibox
+
+2014/07/15 20.0€ Check Cotisation X
+
+2014/07/21 500.0€ Transfer PyConFr2014 X
+    XCG Consulting
+
+2014/07/22 500.0€ Transfer PyConFr2014 X
+    Unlish
+
+2014/07/26 -9.5€ Order Bank X
+    Cotisation carte
+
+2014/07/30 -8.39€ Paypal Hosting X
+    Changement de propriétaire pycon.fr
+
+2014/07/31 80.0€ Paypal Cotisation X
+    Transaction ID 2YL063846A135910B
+    Transaction ID 34B03930V2800262U
+    Transaction ID 4U020025K0310582N
+    Transaction ID 31P56255JP2719331
+
+2014/07/31 -3.72€ Paypal CommissionPaypal X
 
 -- Pending
 
 2014/06/12 500.0€ Transfer PyConFr2014 P
     Qanop SAS
 
-2014/06/16 500.0€ Transfer PyConFr2014 P
+2014/06/16 500.0€ Check PyConFr2014 P
     Ask'interactive
-
-2014/06/25 200.0€ Transfer PyConFr2014 P
-    Anybox
 
 2014/07/18 500.0€ Transfer PyConFr2014 P
     Always Data
-
-2014/07/21 500.0€ Transfer PyConFr2014 P
-    XCG Consulting
-
-2014/07/22 500.0€ Transfer PyConFr2014 P
-    Unlish
