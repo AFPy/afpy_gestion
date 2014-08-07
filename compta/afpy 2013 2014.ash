@@ -311,3 +311,6 @@
 
 2014/07/18 500.0€ Transfer PyConFr2014 P
     Always Data
+
+2014/08/07 500.0€ Transfer PyConFr2014 P
+    Clever Cloud
