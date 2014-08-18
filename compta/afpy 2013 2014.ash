@@ -320,3 +320,6 @@
 
 2014/08/07 500.0€ Transfer PyConFr2014 P
     Clever Cloud
+
+2014/08/18 500.0€ Transfer PyConFr2014 P
+    Bearstech
