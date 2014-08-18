@@ -303,6 +303,15 @@
 
 -- Pending
 
+2013/10/30 500.0€ Transfer Pycon13 P
+    Bearstech
+
+2013/10/30 200.0€ Transfer Pycon13 P
+    Hackcendo
+
+2013/10/30 200.0€ Transfer Pycon13 P
+    Vodata
+
 2014/06/12 500.0€ Transfer PyConFr2014 P
     Qanop SAS
 
