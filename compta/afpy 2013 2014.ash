@@ -257,6 +257,9 @@
 2014/06/13 60.0€ Check Cotisation X
     4 cotisations
 
+2014/06/16 500.0€ Check PyConFr2014 X
+    Ask'interactive
+
 2014/06/25 500.0€ Transfer PyConFr2014 X
     Yaal
 
@@ -301,6 +304,23 @@
 
 2014/07/31 -3.72€ Paypal CommissionPaypal X
 
+-- Août 2014
+
+2014/08/07 500.0€ Transfer PyConFr2014 X
+    Clever Cloud
+
+2014/08/08 -71.96€ Order Hosting X
+    Dédibox
+
+2014/08/26 -9.5€ Order Bank X
+    Cotisation carte
+
+2014/08/31 40.0€ Paypal Cotisation X
+    Transaction ID 92D83764VL6782445
+    Transaction ID 6X642248GL084694U
+
+2014/08/31 -1.86€ Paypal CommissionPaypal X
+
 -- Pending
 
 2013/10/30 500.0€ Transfer Pycon13 P
@@ -312,14 +332,8 @@
 2014/06/12 500.0€ Transfer PyConFr2014 P
     Qanop SAS
 
-2014/06/16 500.0€ Check PyConFr2014 P
-    Ask'interactive
-
 2014/07/18 500.0€ Transfer PyConFr2014 P
     Always Data
-
-2014/08/07 500.0€ Transfer PyConFr2014 P
-    Clever Cloud
 
 2014/08/18 500.0€ Transfer PyConFr2014 P
     Bearstech
