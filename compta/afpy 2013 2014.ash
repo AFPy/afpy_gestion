@@ -337,3 +337,6 @@
 
 2014/08/18 500.0€ Transfer PyConFr2014 P
     Bearstech
+
+2014/09/17 200.0€ Transfer PyConFr2014 P
+    Novapost
