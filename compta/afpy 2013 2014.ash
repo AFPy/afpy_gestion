@@ -254,6 +254,9 @@
 2014/06/12 500.0€ Transfer PyConFr2014 X
     Akretion France
 
+2014/06/12 500.0€ Transfer PyConFr2014 X
+    Qanop SAS
+
 2014/06/13 60.0€ Check Cotisation X
     4 cotisations
 
@@ -283,6 +286,9 @@
     Dédibox
 
 2014/07/15 20.0€ Check Cotisation X
+
+2014/07/18 500.0€ Transfer PyConFr2014 X
+    Always Data
 
 2014/07/21 500.0€ Transfer PyConFr2014 X
     XCG Consulting
@@ -321,6 +327,24 @@
 
 2014/08/31 -1.86€ Paypal CommissionPaypal X
 
+-- Septembre 2014
+
+2014/09/11 -71.96€ Order Hosting X
+    Dédibox
+
+2014/09/12 20.0€ Check Cotisation X
+    1 cotisation normale
+
+2014/09/25 -9.5€ Order Bank X
+    Cotisation carte
+
+2014/09/30 60.0€ Paypal Cotisation X
+    Transaction ID 6MA01363U8763043J
+    Transaction ID 527366499A1312549
+    Transaction ID 9EJ37707S5849633T
+
+2014/09/30 -3.05€ Paypal CommissionPaypal X
+
 -- Pending
 
 2013/10/30 500.0€ Transfer Pycon13 P
@@ -328,12 +352,6 @@
 
 2013/10/30 200.0€ Transfer Pycon13 P
     Vodata
-
-2014/06/12 500.0€ Transfer PyConFr2014 P
-    Qanop SAS
-
-2014/07/18 500.0€ Transfer PyConFr2014 P
-    Always Data
 
 2014/08/18 500.0€ Transfer PyConFr2014 P
     Bearstech
