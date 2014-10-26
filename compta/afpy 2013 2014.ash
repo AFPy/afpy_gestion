@@ -6,7 +6,8 @@
 2013/10/04 200.0€ Check Pycon13 X
     Net NG
 
-2013/10/07 -563.31€ Transfer Unknown X
+2013/10/07 -563.31€ Transfer Pycon13 X
+    Tshirts
 
 2013/10/09 500.0€ Transfer Pycon13 X
     Budget Insight
