@@ -2694,3 +2694,9 @@
 
 2013/09/30 500.0€ Transfer Pycon13 X
     XCG SAS
+
+2013/10/30 500.0€ Transfer Pycon13 X
+    Bearstech
+
+2013/10/30 200.0€ Transfer Pycon13 P
+    Vodata

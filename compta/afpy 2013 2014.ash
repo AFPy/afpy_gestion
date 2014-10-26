@@ -325,6 +325,9 @@
     Transaction ID 92D83764VL6782445
     Transaction ID 6X642248GL084694U
 
+2014/08/18 500.0€ Transfer PyConFr2014 X
+    Bearstech
+
 2014/08/31 -1.86€ Paypal CommissionPaypal X
 
 -- Septembre 2014
@@ -345,16 +348,38 @@
 
 2014/09/30 -3.05€ Paypal CommissionPaypal X
 
+-- Octobre 2014
+
+2014/10/31 -203.0€ Paypal Goodies X
+    badges
+
+2014/10/01 20.0€ Check Cotisation X
+
+2014/10/09 -71.96€ Order Hosting X
+    Dédibox
+
+2014/10/31 40.0€ Paypal Cotisation X
+    2 cotisations
+
+2014/10/31 1.86€ Paypal CommissionPaypal X
+
+2014/10/14 -74.56€ Paypal PyConFr2014 X
+    Affiches
+
+2014/10/03 -85.93€ Transfer PyConFr2014 X
+    Ecocup
+
+2014/10/24 -631.95€ Paypal PyConFr2014 X
+    Viennoiseries/sandwichs
+
+2014/10/22 -59.0€ Paypal PyConFr2014 X
+    Défraiement Hotel captation InfoQ
+
+2014/10/21 -673.0€ Check PyConFr2014 X
+    Tshirts
+
 -- Pending
-
-2013/10/30 500.0€ Transfer Pycon13 P
-    Bearstech
-
-2013/10/30 200.0€ Transfer Pycon13 P
-    Vodata
-
-2014/08/18 500.0€ Transfer PyConFr2014 P
-    Bearstech
 
 2014/09/17 200.0€ Transfer PyConFr2014 P
     Novapost
+
