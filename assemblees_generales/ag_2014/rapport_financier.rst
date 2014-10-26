@@ -136,4 +136,3 @@ En cours :
 - changement d'agence pour la banque
 - récupération de chéquier/carte
 - migration du compte paypal vers un compte au nom de l'association
-
