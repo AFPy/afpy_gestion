@@ -33,38 +33,72 @@
 2014/10/31 100.0€ Paypal Cotisation X
     5 cotisations
 
-2014/10/31 40.0€ Paypal Cotisation X
+2014/10/31 40.0€ Paypal Don X
     2 dons
 
-2014/10/31 6.51€ Paypal CommissionPaypal X
+2014/10/31 -6.51€ Paypal CommissionPaypal X
+
+2014/10/27 10.0€ Cash CotisationReduite X
+    Dépôt 1000€ 31/10/2014
+
+2014/10/27 240.0€ Cash Cotisation X
+    12 cotisations
+    Dépôt 1000€ 31/10/2014
+
+2014/10/28 800.0€ Cash PyConFr2014 X
+    80 tshirts
+    Dépôt 1000€ 31/10/2014
+
+2014/10/27 270.0€ Cash PyConFr2014 X
+    sandwichs
+    Dépôt 1000€ 31/10/2014
+
+2014/10/27 85.0€ Cash PyConFr2014 X
+    127 goodies
+    Dépôt 1000€ 31/10/2014
+
+2014/10/27 -111.30€ Cash PyConFr2014 X
+    Location machine à café Kiloutou
+    Dépôt 1000€ 31/10/2014
+
+2014/10/25 -14.5€ Cash PyConFr2014 X
+    Courses à Carrefour
+    Dépôt 1000€ 31/10/2014
+
+2014/10/27 -23.0€ Cash PyConFr2014 X
+    Viennoiseries sprint jour 1
+    Dépôt 1000€ 31/10/2014
+
+2014/10/28 -37.25€ Cash PyConFr2014 X
+    Viennoiseries sprint jour 2
+    Dépôt 1000€ 31/10/2014
+
+2014/10/28 -212.50€ Cash PyConFr2014 X
+    Pizza jour 2 sprints
+    Dépôt 1000€ 31/10/2014
+
+-- Novembre 2014
+
+2014/11/12 -71.96€ Order Hosting X
+    Dédibox
+
+2014/11/24 -139.43€ Transfer BoursePyConFr2014 X
+
+2014/11/24 -640.90€ Transfer PyConFr2014 X
+    Sécurité
+
+2014/11/24 -275.40€ Transfer PyConFr2014 X
+    restaurant du samedi soir
+
+2014/11/25 -9.5€ Order Bank X
+    Cotisation carte
+
+2014/11/28 100.0€ Transfer CotisationEntreprise X
+    Cotisation always data
+
+2014/11/30 100.0€ Paypal Cotisation X
+    5 cotisations
+
+2014/11/30 -4.65€ Paypal CommissionPaypal X
 
 -- Pending
-
-2014/10/27 10.0€ Cash CotisationReduite P
-
-2014/10/27 240.0€ Cash Cotisation P
-    12 cotisations
-
-2014/10/28 800.0€ Cash PyConFr2014 P
-    80 tshirts
-
-2014/10/27 270.0€ Cash PyConFr2014 P
-    sandwichs
-
-2014/10/27 85.0€ Cash PyConFr2014 P
-    127 goodies
-
-2014/10/27 -111.30€ Cash PyConFr2014 P
-    Location machine à café Kiloutou
-
-2014/10/25 -14.5€ Cash PyConFr2014 P
-    Courses à Carrefour
-
-2014/10/27 -23.0€ Cash PyConFr2014 P
-    Viennoiseries sprint jour 1
-
-2014/10/28 -37.25€ Cash PyConFr2014 P
-    Viennoiseries sprint jour 2
-
-2014/10/28 -212.50€ Cash PyConFr2014 P
-    Pizza jour 2 sprints
