@@ -101,4 +101,25 @@
 
 2014/11/30 -4.65€ Paypal CommissionPaypal X
 
+-- Décembre 2014
+
+2014/12/17 20.0€ Check Cotisation X
+
+2014/12/18 -974.4€ Transfer PyConFr2014 X
+    Paiement salles
+
+2014/12/19 -71.96€ Order Hosting X
+    Dédibox
+
+2014/12/26 -9.5€ Order Bank X
+    Cotisation carte
+
+2014/12/31 20.0€ Check Cotisation X
+
+2014/12/17 20.0€ Paypal Cotisation X
+
+2014/12/10 10.0€ Paypal CotisationReduit X
+
+2014/12/31 -1.52€ Paypal CommissionPaypal X
+
 -- Pending
