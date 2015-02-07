@@ -122,4 +122,30 @@
 
 2014/12/31 -1.52€ Paypal CommissionPaypal X
 
+-- Janvier 2015
+
+2015/01/07 -363.44€ Order Assurance X
+    Cotisation annuelle
+
+2015/01/12 -71.96€ Order Hosting X
+    Dédibox
+
+2015/01/20 20.0€ Transfer Cotisation X
+
+2015/01/23 -877.25€ Transfer Fosdem15 X
+    Goodies
+
+2015/01/27 -9.5€ Order Bank X
+
+2015/01/06 -20.14€ Paypal Fosdem15 X
+    envoi goodies en belgique
+
+2015/01/31 80.0€ Paypal Cotisation X
+    4 cotisations
+
+2015/01/26 -60.0€ Paypal Goodies X
+    Achat goodies pas pu envoyé en belgique
+
+2015/01/31 -3.72€ Paypal ComissionPaypal X
+
 -- Pending
