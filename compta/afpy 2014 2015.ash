@@ -148,4 +148,20 @@
 
 2015/01/31 -3.72€ Paypal ComissionPaypal X
 
+-- Février 2015
+
+2015/02/09 20.0€ Transfer Cotisation X
+
+2015/02/10 -71.96€ Order Hosting X
+    Dédibox
+
+2015/02/13 -200.0€ Transfer SponsoringEvents X
+    Sponsoring Django Carrots
+
+2015/02/24 -9.5€ Order Bank X
+
+2015/02/28 80.0€ Paypal Cotisation X
+
+2015/02/28 -3.72€ Paypal ComissionPaypal X
+
 -- Pending
