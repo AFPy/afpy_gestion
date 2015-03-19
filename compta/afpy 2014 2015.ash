@@ -165,3 +165,21 @@
 2015/02/28 -3.72€ Paypal ComissionPaypal X
 
 -- Pending
+
+2015/03/19 600.0€ Unknown Fosdem15 P
+    Gold Partner VikingCo NV
+
+2015/03/19 500.0€ Unknown Fosdem15 P
+    Affinitic
+
+2015/03/19 2000.0$ Unknown Fosdem15 P
+    Python Software Foundation
+
+2015/03/19 -820.14€ Order Fosdem15 P
+    T shirts
+
+2015/03/19 -45.98€ Order Fosdem15 P
+    Flyers PSF
+
+2015/03/19 -130.0€ Order Fosdem15 P
+    Chocolats
