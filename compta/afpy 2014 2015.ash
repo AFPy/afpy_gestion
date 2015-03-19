@@ -175,11 +175,14 @@
 2015/03/19 2000.0$ Unknown Fosdem15 P
     Python Software Foundation
 
-2015/03/19 -820.14€ Order Fosdem15 P
+2015/03/19 -820.14€ Transfer Fosdem15 P
     T shirts
 
-2015/03/19 -45.98€ Order Fosdem15 P
+2015/03/19 -45.98€ Transfer Fosdem15 P
     Flyers PSF
 
-2015/03/19 -130.0€ Order Fosdem15 P
+2015/03/19 -130.0€ Transfer Fosdem15 P
     Chocolats
+
+2015/03/19 -200.0€ Transfer PyConFr2014 P
+    Bourse Kamel Derouiche
