@@ -164,25 +164,47 @@
 
 2015/02/28 -3.72€ Paypal ComissionPaypal X
 
+-- Mars 2015
+
+2015/03/31 40.0€ Paypal Cotisation X
+
+2015/03/05 -1000.0€ Paypal DjangoConEu15 X
+
+2015/03/31 -1.86€ Paypal ComissionPaypal X
+
+2015/03/05 -1039.0€ Transfer DjangoConEu15 X
+
+2015/03/10 -71.96€ Order Hosting X
+    Dédibox
+
+2015/03/11 20.0€ Transfer Cotisation X
+
+2015/03/19 -45.98€ Transfer Fosdem15 X
+    Flyers PSF
+
+2015/03/19 -130.0€ Transfer Fosdem15 X
+    Chocolats
+
+2015/03/19 -820.14€ Transfer Fosdem15 X
+    T shirts
+
+2015/03/19 -200.0€ Transfer PyConFr2014 X
+    Bourse Kamel Derouiche
+
+2015/03/24 20.0€ Check Cotisation X
+
+2015/03/25 Transfer Fosdem15 X
+    Python Software Foundation
+
+2015/03/25 -34.0€ Order Bank X
+    Frais virement international reçu
+
+2015/02/26 -9.5€ Order Bank X
+
+2015/03/30 500.0€ Unknown Fosdem15 X
+    Affinitic
+
 -- Pending
 
 2015/03/19 600.0€ Unknown Fosdem15 P
     Gold Partner VikingCo NV
-
-2015/03/19 500.0€ Unknown Fosdem15 P
-    Affinitic
-
-2015/03/19 2000.0$ Unknown Fosdem15 P
-    Python Software Foundation
-
-2015/03/19 -820.14€ Transfer Fosdem15 P
-    T shirts
-
-2015/03/19 -45.98€ Transfer Fosdem15 P
-    Flyers PSF
-
-2015/03/19 -130.0€ Transfer Fosdem15 P
-    Chocolats
-
-2015/03/19 -200.0€ Transfer PyConFr2014 P
-    Bourse Kamel Derouiche
