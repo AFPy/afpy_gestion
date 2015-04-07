@@ -188,13 +188,13 @@
 2015/03/19 -820.14€ Transfer Fosdem15 X
     T shirts
 
-2015/03/19 -200.0€ Transfer PyConFr2014 X
+2015/03/19 -200.0€ Transfer BoursePyConFr2014 X
     Bourse Kamel Derouiche
 
 2015/03/24 20.0€ Check Cotisation X
 
-2015/03/25 Transfer Fosdem15 X
-    Python Software Foundation
+2015/03/25 1795.43€ Transfer Fosdem15 X
+    Python Software Foundation (2000$)
 
 2015/03/25 -34.0€ Order Bank X
     Frais virement international reçu
