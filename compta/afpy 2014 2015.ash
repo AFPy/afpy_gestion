@@ -185,6 +185,9 @@
 2015/03/19 -130.0€ Transfer Fosdem15 X
     Chocolats
 
+2015/03/19 600.0€ Unknown Fosdem15 X
+    Gold Partner VikingCo NV
+
 2015/03/19 -820.14€ Transfer Fosdem15 X
     T shirts
 
@@ -199,12 +202,24 @@
 2015/03/25 -34.0€ Order Bank X
     Frais virement international reçu
 
-2015/02/26 -9.5€ Order Bank X
+2015/03/26 -9.5€ Order Bank X
 
 2015/03/30 500.0€ Unknown Fosdem15 X
     Affinitic
 
+-- Avril 2015
+
+2015/04/25 -9.5€ Order Bank X
+
+2015/04/10 -71.96€ Order Hosting X
+    Dédibox
+
+2015/04/09 -100.0€ Transfer Cotisation X
+    Cotisation APRIL
+
+2015/04/30 20.0€ Paypal Cotisation X
+
+2015/04/30 -0.93€ Paypal CommissionPaypal X
+
 -- Pending
 
-2015/03/19 600.0€ Unknown Fosdem15 P
-    Gold Partner VikingCo NV
