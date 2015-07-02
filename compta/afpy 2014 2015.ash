@@ -221,13 +221,53 @@
 
 2015/04/30 -0.93€ Paypal CommissionPaypal X
 
+-- Mai 2015
+
+2015/05/31 60.0€ Paypal Cotisation X
+
+2015/05/31 -2.79€ Paypal CommissionPaypal X
+
+2015/05/12 172.0€ Paypal DjangoConEu15 X
+
+2015/05/12 -71.96€ Order Hosting X
+    Dédibox
+
+2015/05/26 -9.5€ Order Bank X
+
+2015/05/26 172.0€ Transfer DjangoConEu15 X
+
+2015/05/27 -200.0€ Transfer SponsoringEvents X
+    Sponsoring Django Carrots Juin
+
+-- Juin 2015
+
+2015/06/01 430.0€ Paypal DjangoConEu15 X
+
+2015/06/11 -147.0€ Paypal RMLL2015 X
+    Goodies
+
+2015/06/30 20.0€ Paypal Cotisation X
+
+2015/06/30 10.0€ Paypal CotisationReduite X
+
+2015/06/30 -1.46€ Paypal CommissionPaypal X
+
+2015/06/30 841.25€ Paypal DjangoConEu15 X
+
+2015/06/08 -71.96€ Order Hosting X
+    Dédibox
+
+2015/06/11 423.75€ Paypal DjangoConEu15 X
+
+2015/06/12 200.0€ Unknown PyConFr15 X
+    Anybox
+
+2015/06/17 500.0€ Unknown PyConFr15 X
+    Yaal
+
+2015/06/25 -9.5€ Order Bank X
+
 -- Pending
 
 2015/06/11 800.0€ Unknown PyConFr15 P
     XCG
-
-2015/06/11 200.0€ Unknown PyConFr15 P
-    Anybox
-
-2015/06/16 500.0€ Unknown PyConFr15 P
-    Yaal
