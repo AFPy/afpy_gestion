@@ -274,3 +274,6 @@
 
 2015/07/07 200.0€ Unknown PyConFr15 P
     UPPA
+
+2015/07/09 300.0$ Unknown PyConFr15 P
+    Mozilla
