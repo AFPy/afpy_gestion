@@ -289,3 +289,6 @@
 
 2015/07/10 200.0€ Unknown PyConFr15 P
     Wingware
+
+2015/07/15 800.0€ Unknown PyConFr15 P
+    Lexsi
