@@ -267,10 +267,35 @@
 
 2015/06/25 -9.5€ Order Bank X
 
--- Pending
+-- Juillet 2015
 
-2015/06/11 800.0€ Unknown PyConFr15 P
+2015/07/10 200.0€ Paypal PyConFr15 X
+    Wingware
+
+2015/07/31 80.0€ Paypal Cotisation X
+
+2015/07/31 -11.77€ Paypal CommissionPaypal X
+
+2015/07/01 800.0€ Transfer PyConFr15 X
     XCG
+
+2015/07/09 -71.96€ Order Hosting X
+    Dédibox
+
+2015/07/09 -379.22 Transfer RMLL15 X
+
+2015/07/16 500.0€ Transfer PyConFr15 X
+    Unlish
+
+2015/07/28 -9.5€ Order Bank X
+
+2015/07/30 200.0€ Transfer PyConFr15 X
+    Always Data
+
+2015/07/31 800.0€ Transfer PyConFr15 X
+    Lexsi
+
+-- Pending
 
 2015/07/07 200.0€ Unknown PyConFr15 P
     UPPA
@@ -278,23 +303,11 @@
 2015/07/09 300.0$ Unknown PyConFr15 P
     Mozilla
 
-2015/07/09 200.0€ Unknown PyConFr15 P
-    Always Data
-
-2015/07/10 500.0€ Unknown PyConFr15 P
-    Unlish
-
 2015/07/10 500.0€ Unknown PyConFr15 P
     Majerti
-
-2015/07/10 200.0€ Unknown PyConFr15 P
-    Wingware
-
-2015/07/15 800.0€ Unknown PyConFr15 P
-    Lexsi
 
 2015/07/21 500.0€ Unknown PyConFr15 P
     Helioparc
 
-2015/07/27 200.0€ Unknown PyConFr15 P
+2015/07/27 200.0€ Check PyConFr15 P
     Ecreall
