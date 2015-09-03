@@ -317,3 +317,6 @@
 
 2015/08/27 200.0€ Unknown PyConFr15 P
     Novapost/people doc
+
+2015/09/02 500.0€ Unknown PyConFr15 P
+    Makina Corpus
