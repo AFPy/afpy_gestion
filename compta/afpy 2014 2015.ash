@@ -320,3 +320,6 @@
 
 2015/09/02 500.0€ Unknown PyConFr15 P
     Makina Corpus
+
+2015/09/08 200.0€ Unknown PyConFr15 P
+    Net NG
