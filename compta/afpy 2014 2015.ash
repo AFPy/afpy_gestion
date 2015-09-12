@@ -295,13 +295,42 @@
 2015/07/31 800.0€ Transfer PyConFr15 X
     Lexsi
 
+-- Août 2015
+
+2015/08/04 271.0€ Transfer PyConFr15 X
+    Mozilla (300 $)
+
+2015/08/05 -34.0€ Order Bank X
+    Frais virement international mozilla
+
+2015/08/05 200.0€ Check PyConFr15 X
+    Ecreall
+
+2015/08/05 20.0€ Check Cotisation X
+
+2015/08/14 500.0€ Transfer PyConFr15 X
+    THD SGCA
+
+2015/08/24 -71.96€ Order Hosting X
+    Dédibox
+
+2015/08/26 -9.5€ Order Bank X
+
+-- Septembre 2015
+
+2015/09/01 200.0€ Transfer PyConFr15 X
+    Novapost/people doc
+
+2015/09/02 500.0€ Transfer PyConFr15 X
+    Makina Corpus
+
+2015/09/09 -71.96€ Order Hosting X
+    Dédibox
+
 -- Pending
 
 2015/07/07 200.0€ Unknown PyConFr15 P
     UPPA
-
-2015/07/09 300.0$ Unknown PyConFr15 P
-    Mozilla
 
 2015/07/10 500.0€ Unknown PyConFr15 P
     Majerti
@@ -309,17 +338,5 @@
 2015/07/21 500.0€ Unknown PyConFr15 P
     Helioparc
 
-2015/07/27 200.0€ Check PyConFr15 P
-    Ecreall
-
-2015/08/12 500.0€ Unknown PyConFr15 P
-    THD SGCA
-
-2015/08/27 200.0€ Unknown PyConFr15 P
-    Novapost/people doc
-
-2015/09/02 500.0€ Unknown PyConFr15 P
-    Makina Corpus
-
-2015/09/08 200.0€ Unknown PyConFr15 P
+2015/09/08 200.0€ Check PyConFr15 P
     Net NG
