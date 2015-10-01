@@ -327,10 +327,32 @@
 2015/09/09 -71.96€ Order Hosting X
     Dédibox
 
--- Pending
+2015/09/14 200.0€ Check PyConFr15 X
+    Net NG
 
-2015/07/07 200.0€ Unknown PyConFr15 P
+2015/09/22 200.0€ Transfer PyConFr15 X
+    Sysnove
+
+2015/09/24 200.0€ Transfer PyConFr15 X
     UPPA
+
+2015/09/25 -534.8€ Order PyConFr15 X
+    TShirts
+
+2015/09/25 -9.5€ Order Bank X
+
+2015/09/15 20.0€ Paypal Cotisation X
+
+2015/09/15 -0.93€ Paypal CommissionPaypal X
+
+2015/09/21 -26.67€ Paypal MeetupParis X
+
+2015/09/15 -336.0€ Paypal PyConFr15 X
+
+2015/09/14 -58.72€ Paypal Hosting X
+    noms de domaines
+
+-- Pending
 
 2015/07/10 500.0€ Unknown PyConFr15 P
     Majerti
@@ -338,8 +360,3 @@
 2015/07/21 500.0€ Unknown PyConFr15 P
     Helioparc
 
-2015/09/08 200.0€ Check PyConFr15 P
-    Net NG
-
-2015/09/20 200.0€ Unknown PyConFr15 P
-    Sysnove
