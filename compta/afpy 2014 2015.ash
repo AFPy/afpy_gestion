@@ -360,3 +360,5 @@
 2015/07/21 500.0€ Unknown PyConFr15 P
     Helioparc
 
+2015/10/02 500.0€ Unknown PyConFr15 P
+    Tinyclues
