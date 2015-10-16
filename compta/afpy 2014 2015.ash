@@ -352,6 +352,21 @@
 2015/09/14 -58.72€ Paypal Hosting X
     noms de domaines
 
+-- Octobre 2015
+
+2015/10/08 -71.96€ Order Hosting X
+    Dédibox
+
+2015/10/14 -150.0€ Transfer SponsoringEvents X
+    Sponsoring Ada week
+
+2015/10/05 -18.05€ Paypal PyConFr15 X
+    Expédition livres ENI
+
+2015/10/07 -388.9€ Paypal OSSParis15 X   
+
+-- Dernière mise à jour 16/10/2015
+
 -- Pending
 
 2015/07/10 500.0€ Unknown PyConFr15 P
