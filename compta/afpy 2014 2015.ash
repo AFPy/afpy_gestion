@@ -118,7 +118,7 @@
 
 2014/12/17 20.0€ Paypal Cotisation X
 
-2014/12/10 10.0€ Paypal CotisationReduit X
+2014/12/10 10.0€ Paypal CotisationReduite X
 
 2014/12/31 -1.52€ Paypal CommissionPaypal X
 
@@ -146,7 +146,7 @@
 2015/01/26 -60.0€ Paypal Goodies X
     Achat goodies pas pu envoyé en belgique
 
-2015/01/31 -3.72€ Paypal ComissionPaypal X
+2015/01/31 -3.72€ Paypal CommissionPaypal X
 
 -- Février 2015
 
@@ -162,7 +162,7 @@
 
 2015/02/28 80.0€ Paypal Cotisation X
 
-2015/02/28 -3.72€ Paypal ComissionPaypal X
+2015/02/28 -3.72€ Paypal CommissionPaypal X
 
 -- Mars 2015
 
@@ -170,7 +170,7 @@
 
 2015/03/05 -1000.0€ Paypal DjangoConEu15 X
 
-2015/03/31 -1.86€ Paypal ComissionPaypal X
+2015/03/31 -1.86€ Paypal CommissionPaypal X
 
 2015/03/05 -1039.0€ Transfer DjangoConEu15 X
 
