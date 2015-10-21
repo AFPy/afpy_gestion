@@ -31,3 +31,22 @@
 
 2015/10/20 -250.0€ Check PyConFr15 P
     Pizza sprints day1
+
+2015/10/21 200.0€ Check Cotisation P
+
+2015/10/21 10.0€ Check PyConFr15 P
+    tshirt
+
+2015/10/21 -200.0€ Transfer PyConFr15 P
+    fond de caisse
+
+2015/10/21 200.0€ Cash PyConFr15 P
+    fond de caisse
+
+2015/10/21 440.0€ Cash PyConFr15 P
+    tshirts
+
+2015/10/21 180.0€ Cash Cotisation P
+
+2015/10/21 -634.96€ Transfer PyConFr15 P
+    viennoiseries + courses
