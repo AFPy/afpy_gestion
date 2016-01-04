@@ -97,10 +97,23 @@
 2015/11/03 -336.0€ Paypal OssParis15 X
     goodies
 
+-- Décembre 2015
+
+2015/12/07 -202.70€ Check PyConFr15 X
+    Pizza sprints day1
+
+2015/12/08 -71.96€ Order Hosting X
+    Dédibox
+
+2015/12/26 -9.5€ Order Bank X
+
+2015/12/31 60.0€ Paypal Cotisation X
+
+2015/12/31 10.0€ Paypal CotisationReduite X
+
+2015/12/31 -3.38€ Paypal CommissionPaypal X
+
 -- Pending
 
 2015/07/10 500.0€ Unknown PyConFr15 P
     Majerti
-
-2015/10/19 -202.70€ Check PyConFr15 P
-    Pizza sprints day1
