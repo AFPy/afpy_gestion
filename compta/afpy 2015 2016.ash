@@ -126,6 +126,15 @@
 
 2016/01/31 -0.93€ Paypal CommissionPaypal X
 
+-- Février 2016
+
+2016/02/04 -71.96€ Order Hosting X
+    Dédibox
+
+2016/02/24 -9.5€ Order Bank X
+
+2016/02/10 20.0€ Transfer Cotisation X
+
 -- Pending
 
 2015/07/10 500.0€ Unknown PyConFr15 P
