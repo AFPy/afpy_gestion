@@ -135,7 +135,21 @@
 
 2016/02/10 20.0€ Transfer Cotisation X
 
+-- Mars 2016
+
+2016/03/14 -71.96€ Order Hosting X
+    Dédibox
+
+2016/03/21 -29.28€ Paypal MeetupParis X
+
+2016/03/24 -10.02€ Order Bank X
+
+2016/03/31 500.0€ Transfer PyConFr15 X
+    Majerti
+
+2016/03/31 20.0€ Paypal Cotisation X
+
+2016/03/31 -0.93€ Paypal CommissionPaypal X
+
 -- Pending
 
-2015/07/10 500.0€ Unknown PyConFr15 P
-    Majerti
