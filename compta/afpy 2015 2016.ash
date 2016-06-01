@@ -151,5 +151,29 @@
 
 2016/03/31 -0.93€ Paypal CommissionPaypal X
 
+-- Avril 2016
+
+2016/04/26 -10.02€ Order Bank X
+
+2016/04/11 -71.96€ Order Hosting X
+    Dédibox
+
+2016/04/07 -100.00€ Transfer CotisationApril X
+
+-- Mai 2016
+
+2016/05/26 -10.00€ Order Bank X
+
+2016/05/24 0.02€ Order Bank X
+
+2016/05/24 0.02€ Order Bank X
+
+2016/05/11 -71.96€ Order Hosting X
+    Dédibox
+
+2016/05/31 20.0€ Paypal Cotisation X
+
+2016/05/31 -0.93€ Paypal CommissionPaypal X
+
 -- Pending
 
