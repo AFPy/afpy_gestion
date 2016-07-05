@@ -175,6 +175,10 @@
 
 2016/05/31 -0.93€ Paypal CommissionPaypal X
 
+-- Juin 2016
+
+
+
 -- Pending
 
 2016/06/28 500.0€ Transfer PyConFr16 P
@@ -182,3 +186,6 @@
 
 2016/07/05 500.0€ Transfer PyConFr16 P
     Net ng
+
+2016/06/09 3000.0$ Transfer PyConFr16 P
+    Python Software Foundation
