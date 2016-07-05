@@ -177,12 +177,19 @@
 
 -- Juin 2016
 
+2016/06/16 -71.96€ Order Hosting X
+    Dédibox
 
+2016/06/25 -10.00€ Order Bank X
+
+2016/06/29 500.0€ Transfer PyConFr16 X
+    Yaal
+
+2016/06/30 40.0€ Paypal Cotisation X
+
+2016/06/30 -1.86€ Paypal CommissionPaypal X
 
 -- Pending
-
-2016/06/28 500.0€ Transfer PyConFr16 P
-    Yaal
 
 2016/07/05 500.0€ Transfer PyConFr16 P
     Net ng
