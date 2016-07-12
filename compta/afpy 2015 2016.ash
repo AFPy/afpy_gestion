@@ -196,3 +196,6 @@
 
 2016/06/09 3000.0$ Transfer PyConFr16 P
     Python Software Foundation
+
+2016/07/12 500.0€ Transfer PyConFr16 P
+    Algoo
