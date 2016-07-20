@@ -202,3 +202,6 @@
 
 2016/07/13 500.0€ Transfer PyConFr16 P
     Planet Work
+
+2016/07/20 -200.0€ Transfer BoursePyConFr16 P
+    CB
