@@ -205,3 +205,6 @@
 
 2016/07/20 -200.0€ Transfer BoursePyConFr16 P
     CB
+
+2016/07/21 -200.0€ Transfer BoursePyConFr16 P
+    EZ
