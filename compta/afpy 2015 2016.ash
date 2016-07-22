@@ -208,3 +208,6 @@
 
 2016/07/21 -200.0€ Transfer BoursePyConFr16 P
     EZ
+
+2016/07/22 500.0€ Transfer PyConFr16 P
+    Logilab
