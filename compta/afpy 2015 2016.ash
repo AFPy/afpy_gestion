@@ -189,28 +189,42 @@
 
 2016/06/30 -1.86€ Paypal CommissionPaypal X
 
+-- Juillet 2016
+
+2016/07/08 -71.96€ Order Hosting X
+    Dédibox
+
+2016/07/18 500.0€ Transfer PyConFr16 X
+    Planet Work
+
+2016/07/21 2665.95€ Transfer PyConFr16 X
+    Python Software Foundation
+
+2016/07/21 -34.0€ Order Bank X
+    Frais virement PSF
+
+2016/07/22 500.0€ Transfer PyConFr16 X
+    Algoo
+
+2016/07/26 -10.0€ Order Bank X
+
+2016/07/29 500.0€ Transfer PyConFr16 X
+    Logilab
+
+2016/07/31 40.0€ Paypal Cotisation X
+
+2016/07/31 -2.12€ Paypal CommissionPaypal X
+
 -- Pending
 
 2016/07/05 500.0€ Transfer PyConFr16 P
     Net ng
-
-2016/06/09 3000.0$ Transfer PyConFr16 P
-    Python Software Foundation
-
-2016/07/12 500.0€ Transfer PyConFr16 P
-    Algoo
-
-2016/07/13 500.0€ Transfer PyConFr16 P
-    Planet Work
 
 2016/07/20 -200.0€ Transfer BoursePyConFr16 P
     CB
 
 2016/07/21 -200.0€ Transfer BoursePyConFr16 P
     EZ
-
-2016/07/22 500.0€ Transfer PyConFr16 P
-    Logilab
 
 2016/07/26 500.0€ Transfer PyConFr16 P
     ORANGE IMPT/OLPS
