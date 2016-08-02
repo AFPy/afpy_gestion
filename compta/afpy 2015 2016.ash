@@ -228,3 +228,6 @@
 
 2016/07/26 500.0€ Transfer PyConFr16 P
     ORANGE IMPT/OLPS
+
+2016/08/02 2000.0€ Transfer PyConFr16 P
+    Mozilla
