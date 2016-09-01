@@ -215,25 +215,35 @@
 
 2016/07/31 -2.12€ Paypal CommissionPaypal X
 
--- Pending
+-- Août 2016
 
-2016/07/05 500.0€ Transfer PyConFr16 P
+2016/08/05 500.0€ Check PyConFr16 X
     Net ng
+
+2016/08/08 500.0€ Transfer PyConFr16 X
+    Lengow
+
+2016/08/09 -71.96€ Order Hosting X
+    Dédibox
+
+2016/08/11 500.0€ Check PyConFr16 X
+    ORANGE IMPT/OLPS
+
+2016/08/18 1980.0€ Transfer PyConFr16 X
+    Mozilla
+
+2016/08/18 -17.5€ Order Bank X
+    Frais virement Mozilla Corp
+
+2016/08/26 -10.0€ Order Bank X
+
+-- Pending
 
 2016/08/24 -200.0€ Transfer BoursePyConFr16 P
     HM
 
 2016/07/21 -200.0€ Transfer BoursePyConFr16 P
     EZ
-
-2016/07/26 500.0€ Transfer PyConFr16 P
-    ORANGE IMPT/OLPS
-
-2016/08/02 2000.0€ Transfer PyConFr16 P
-    Mozilla
-
-2016/08/02 500.0€ Transfer PyConFr16 P
-    Lengow
 
 2016/08/18 1000.0€ Transfer PyConFr16 P
     ItLink
