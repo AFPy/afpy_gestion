@@ -239,11 +239,14 @@
 
 -- Pending
 
-2016/08/24 -200.0€ Transfer BoursePyConFr16 P
+2016/08/24 -400.0€ Transfer BoursePyConFr16 P
     HM
 
 2016/07/21 -200.0€ Transfer BoursePyConFr16 P
     EZ
+
+2016/07/21 -400.0€ Transfer BoursePyConFr16 P
+    BL
 
 2016/08/18 1000.0€ Transfer PyConFr16 P
     ItLink
@@ -251,11 +254,17 @@
 2016/08/31 500.0€ Transfer PyConFr16 P
     Bearstech
 
-2016/08/31 -200.0€ Transfer BoursePyConFr16 P
+2016/08/31 -400.0€ Transfer BoursePyConFr16 P
     LH
 
-2016/08/31 -200.0€ Transfer BoursePyConFr16 P
+2016/08/31 -400.0€ Transfer BoursePyConFr16 P
     HM
 
 2016/08/31 1000.0€ Transfer PyConFr16 P
     Lexsi
+
+2016/09/06 -400.0€ Transfer BoursePyConFr16 P
+    IB
+
+2016/09/06 -200.0€ Transfer BoursePyConFr16 P
+    MQ
