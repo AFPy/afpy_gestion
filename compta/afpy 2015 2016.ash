@@ -237,6 +237,26 @@
 
 2016/08/26 -10.0€ Order Bank X
 
+-- Septembre 2016
+
+2016/09/08 -71.96€ Order Hosting X
+    Dédibox
+
+2016/09/09 1000.0€ Check PyConFr16 X
+    ItLink
+
+2016/09/30 500.0€ Transfer PyConFr16 X
+    Bearstech
+
+2016/09/27 -10.0€ Order Bank X
+
+2016/09/28 500.0€ Transfer PyConFr16 X
+    People Doc
+
+2016/09/30 20.0€ Paypal Cotisation X
+
+2016/09/30 -0.93€ Paypal CommissionPaypal X
+
 -- Pending
 
 2016/08/24 -400.0€ Transfer BoursePyConFr16 P
@@ -247,12 +267,6 @@
 
 2016/07/21 -400.0€ Transfer BoursePyConFr16 P
     BL
-
-2016/08/18 1000.0€ Transfer PyConFr16 P
-    ItLink
-
-2016/08/31 500.0€ Transfer PyConFr16 P
-    Bearstech
 
 2016/08/31 -400.0€ Transfer BoursePyConFr16 P
     LH
@@ -268,6 +282,3 @@
 
 2016/09/06 -200.0€ Transfer BoursePyConFr16 P
     MQ
-
-2016/09/14 500.0€ Transfer PyConFr16 P
-    People Doc
