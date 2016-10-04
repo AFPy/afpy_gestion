@@ -282,3 +282,6 @@
 
 2016/09/06 -200.0€ Transfer BoursePyConFr16 P
     MQ
+
+2016/10/04 500.0€ Transfer PyConFr16 P
+    Always Data
