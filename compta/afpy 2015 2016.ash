@@ -285,3 +285,6 @@
 
 2016/10/04 500.0€ Transfer PyConFr16 P
     Always Data
+
+2016/10/10 -392.72€ Transfer PyConFr15 P
+    Courses Super U
