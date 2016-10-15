@@ -257,6 +257,36 @@
 
 2016/09/30 -0.93€ Paypal CommissionPaypal X
 
+-- Octobre 2016
+
+2016/10/04 -1626.46€ Transfer PyConFr16 X
+    Tshirts
+
+2016/10/05 500.0€ Transfer PyConFr16 X
+    Always Data
+
+2016/10/05 1000.0€ Transfer PyConFr16 X
+    Lexsi
+
+2016/10/10 -392.72€ Transfer PyConFr16 X
+    Courses Super U ; virement RH
+
+2016/10/11 -336.00€ Transfer PyConFr16 X
+    Goodies ; virement AV
+
+2016/10/12 -71.96€ Order Hosting X
+    Dédibox
+
+2016/10/14 -1000.0€ Transfer PyConFr15 X
+    Facture paulla
+
+2016/10/14 -892.50€ Transfer PyConFr16 X
+    Boulangerie remboursement RH
+
+2016/10/15 80.0€ Paypal Cotisation X
+
+2016/10/15 -3.72€ Paypal CommissionPaypal X
+
 -- Pending
 
 2016/08/24 -400.0€ Transfer BoursePyConFr16 P
@@ -274,23 +304,11 @@
 2016/08/31 -400.0€ Transfer BoursePyConFr16 P
     HM
 
-2016/08/31 1000.0€ Transfer PyConFr16 P
-    Lexsi
-
 2016/09/06 -400.0€ Transfer BoursePyConFr16 P
     IB
 
 2016/09/06 -200.0€ Transfer BoursePyConFr16 P
     MQ
 
-2016/10/04 500.0€ Transfer PyConFr16 P
-    Always Data
-
-2016/10/10 -392.72€ Transfer PyConFr16 P
-    Courses Super U
-
-2016/10/14 -892.50€ Transfer PyConFr16 P
-    Boulangerie remboursement RH
-
-2016/10/14 -1000.0€ Transfer PyConFr15 P
-    Facture paulla
+2015/10/05 -336.0€ Paypal PyConFr16 P
+    goodies malentendu Société Générale -> Paypal -> Modern city
