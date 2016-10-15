@@ -59,8 +59,8 @@
 2015/11/04 0.05€ Transfer CommissionPaypal X
     Vérification de compte paypal
 
-2015/11/06 313.0€ Transfer OssParis15 X
-    remboursement annulation train AV/PC
+2015/11/06 -313.0€ Transfer OssParis15 X
+    défraiement
 
 2015/11/06 500.0€ Check PyConFr15 X
     Helioparc
@@ -328,3 +328,6 @@
 
 2015/10/05 -336.0€ Paypal PyConFr16 P
     goodies malentendu Société Générale -> Paypal -> Modern city
+
+2016/09/29 -29.28€ Paypal MeetupParis P
+    Remboursement AV
