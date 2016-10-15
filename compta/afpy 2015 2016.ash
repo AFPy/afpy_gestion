@@ -27,7 +27,7 @@
 2015/10/20 -250.0€ Check PyConFr15 X
     Pizza sprints day1
 
-2015/10/02 500.0€ Unknown PyConFr15 X
+2015/10/16 500.0€ Unknown PyConFr15 X
     Tinyclues
 
 2015/10/21 640.0€ Cash PyConFr15 X
@@ -43,7 +43,7 @@
 
 2015/10/29 -162.0€ Transfer BoursePyConFr15 X
 
-2015/10/29 -157.73.0€ Transfer BoursePyConFr15 X
+2015/10/29 -157.73€ Transfer BoursePyConFr15 X
 
 2015/10/29 -200.0€ Transfer BoursePyConFr15 X
 
@@ -283,32 +283,48 @@
 2016/10/14 -892.50€ Transfer PyConFr16 X
     Boulangerie remboursement RH
 
-2016/10/15 80.0€ Paypal Cotisation X
+2016/10/15 100.0€ Paypal Cotisation X
 
-2016/10/15 -3.72€ Paypal CommissionPaypal X
+2016/10/15 -4.65€ Paypal CommissionPaypal X
 
 -- Pending
 
-2016/08/24 -400.0€ Transfer BoursePyConFr16 P
-    HM
 
-2016/07/21 -200.0€ Transfer BoursePyConFr16 P
+2016/10/15 -200.0€ Transfer BoursePyConFr16 P
+    MQ
+
+2016/10/15 -200.0€ Transfer BoursePyConFr16 P
     EZ
 
-2016/07/21 -400.0€ Transfer BoursePyConFr16 P
-    BL
+2016/10/15 -200.0€ Transfer BoursePyConFr16 P
+    LL
 
-2016/08/31 -400.0€ Transfer BoursePyConFr16 P
-    LH
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+    MP
 
-2016/08/31 -400.0€ Transfer BoursePyConFr16 P
-    HM
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+    DD
 
-2016/09/06 -400.0€ Transfer BoursePyConFr16 P
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+    BS
+
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
     IB
 
-2016/09/06 -200.0€ Transfer BoursePyConFr16 P
-    MQ
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+    BL
+
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+    HM
+
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+    CB
+
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+    MH
+
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+    HL
 
 2015/10/05 -336.0€ Paypal PyConFr16 P
     goodies malentendu Société Générale -> Paypal -> Modern city
