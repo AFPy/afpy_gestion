@@ -7,6 +7,12 @@
 2016/10/22 -95.0€ Paypal BoursePyConFr16 P
     BL
 
+2016/10/22 -400.0€ Transfer BoursePyConFr16 P
+    IB
+
+2016/10/24 -300.0€ Transfer PyConFr16 P
+    Cubanoz
+
 2016/10/22 -219.86€ Order PyConFr16 P
     Conteur cotisations
 
@@ -87,9 +93,6 @@
 
 2016/10/15 -400.0€ Transfer BoursePyConFr16 P
     BS
-
-2016/10/15 -400.0€ Transfer BoursePyConFr16 P
-    IB
 
 2016/10/15 -400.0€ Transfer BoursePyConFr16 P
     HM
