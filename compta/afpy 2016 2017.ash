@@ -109,20 +109,22 @@
 
 -- Pending
 
+2016/10/15 -174.0€ Transfer BoursePyConFr16 P
+    BS
+
 2016/10/22 -171.20€ Transfer BoursePyConFr16 P
     EZ
+
+2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+    DD
+
+-- later
 
 2016/10/15 -200.0€ Transfer BoursePyConFr16 P
     LL
 
 2016/10/15 -400.0€ Transfer BoursePyConFr16 P
     MP
-
-2016/10/15 -400.0€ Transfer BoursePyConFr16 P
-    DD
-
-2016/10/15 -400.0€ Transfer BoursePyConFr16 P
-    BS
 
 2016/10/15 -400.0€ Transfer BoursePyConFr16 P
     HM
@@ -135,3 +137,15 @@
 
 2016/10/15 -400.0€ Transfer BoursePyConFr16 P
     HL
+
+2016/11/10 -92.64€ Transfer PyConFr16 P
+    Nettoyage PCS Facture 101621378
+
+2016/11/10 -113.0€ Transfer PyConFr16 P
+    Remboursement train ceriz
+
+2016/11/10 -900.0€ Transfer PyConFr16 P
+    Captation vidéo
+
+2016/11/10 -1890.0€ Transfer PyConFr16 P
+    Captation vidéo
