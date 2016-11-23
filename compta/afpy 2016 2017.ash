@@ -120,7 +120,7 @@
 
 -- later
 
-2016/10/15 -200.0€ Transfer BoursePyConFr16 P
+2016/10/15 -187.73€ Transfer BoursePyConFr16 P
     LL
 
 2016/10/15 -400.0€ Transfer BoursePyConFr16 P
