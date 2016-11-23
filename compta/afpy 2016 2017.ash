@@ -149,3 +149,18 @@
 
 2016/11/10 -1890.0€ Transfer PyConFr16 P
     Captation vidéo
+
+2017/01/09 -370.62€ Order Assurance P
+    MAIF
+
+2016/11/23 -362.75€ Transfer PyConFr16 P
+    Sérigraphie CH
+
+2016/11/23 -37.25€ Transfer PyConFr16 P
+    Sérigraphie charges CH
+
+2016/11/23 -400.0€ Transfer PyConFr16 P
+    Sérigraphie IH
+
+2016/11/23 -200.0€ Transfer PyConFr16 P
+    Sérigraphie les sans chef
