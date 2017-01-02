@@ -107,21 +107,74 @@
 2016/10/24 -15.99€ Paypal PaypalDevise X
     Frais de conversion de devise Bourse IB
 
--- Pending
+-- Novembre 2016
 
-2016/10/15 -174.0€ Transfer BoursePyConFr16 P
-    BS
+2016/11/04 20.0€ Check Cotisation X
 
-2016/10/22 -171.20€ Transfer BoursePyConFr16 P
+2016/11/04 50.0€ Check PyConFr16 X
+    Don
+
+2016/11/03 -171.20€ Transfer BoursePyConFr16 X
     EZ
 
-2016/10/15 -400.0€ Transfer BoursePyConFr16 P
+2016/11/03 -174.0€ Transfer BoursePyConFr16 X
+    BS
+
+2016/11/02 -400.0€ Paypal BoursePyConFr16 X
     DD
 
--- later
+2016/11/07 -259.89€ Order Afpy X
+    Tranfert SG -> Paypal
 
-2016/10/15 -187.73€ Transfer BoursePyConFr16 P
+2016/11/10 -92.64€ Transfer PyConFr16 X
+    Nettoyage PCS Facture 101621378
+
+2016/11/10 -113.0€ Transfer PyConFr16 X
+    Remboursement train ceriz
+
+2016/11/10 -900.0€ Transfer PyConFr16 X
+    Captation vidéo
+
+2016/11/10 -1890.0€ Transfer PyConFr16 X
+    Captation vidéo
+
+2016/11/10 -86.69€ Order Hosting X
+    Dédibox
+
+2016/11/15 20.0€ Check Cotisation X
+
+2016/11/23 -187.73€ Transfer BoursePyConFr16 X
     LL
+
+2016/11/23 -362.75€ Transfer PyConFr16 X
+    Sérigraphie CH
+
+2016/11/23 -400.0€ Transfer PyConFr16 X
+    Sérigraphie IH
+
+2016/11/23 -200.0€ Transfer PyConFr16 X
+    Sérigraphie les sans chef
+
+2016/11/24 -10.0€ Order Bank X
+
+2016/11/02 259.89€ Paypal Afpy X
+    Tranfert SG -> Paypal
+
+2016/11/31 60.0€ Paypal Cotisation X
+
+2016/11/31 -2.79€ Paypal CommissionPaypal X
+
+-- Décembre 2016
+
+2016/12/07 -41.65€ Check PyConFr16 X
+    Sérigraphie charges CH
+
+2016/12/08 -82.3€ Order Hosting X
+    Dédibox
+
+2016/12/27 -10.0€ Order Bank X
+
+-- Pending
 
 2016/10/15 -400.0€ Transfer BoursePyConFr16 P
     MP
@@ -138,29 +191,5 @@
 2016/10/15 -400.0€ Transfer BoursePyConFr16 P
     HL
 
-2016/11/10 -92.64€ Transfer PyConFr16 P
-    Nettoyage PCS Facture 101621378
-
-2016/11/10 -113.0€ Transfer PyConFr16 P
-    Remboursement train ceriz
-
-2016/11/10 -900.0€ Transfer PyConFr16 P
-    Captation vidéo
-
-2016/11/10 -1890.0€ Transfer PyConFr16 P
-    Captation vidéo
-
 2017/01/09 -370.62€ Order Assurance P
     MAIF
-
-2016/11/23 -362.75€ Transfer PyConFr16 P
-    Sérigraphie CH
-
-2016/11/23 -37.25€ Transfer PyConFr16 P
-    Sérigraphie charges CH
-
-2016/11/23 -400.0€ Transfer PyConFr16 P
-    Sérigraphie IH
-
-2016/11/23 -200.0€ Transfer PyConFr16 P
-    Sérigraphie les sans chef
