@@ -98,7 +98,7 @@
 
 2016/10/31 -11.16€ Paypal CommissionPaypal X
 
-2015/10/21 -336.0€ Paypal PyConFr16 X
+2015/10/21 -336.0€ Paypal Fosdem2017 X
     goodies malentendu Société Générale -> Paypal -> Modern city
 
 2016/10/24 -400.0€ Paypal BoursePyConFr16 X
@@ -174,22 +174,23 @@
 
 2016/12/27 -10.0€ Order Bank X
 
+-- Janvier 2017
+
+2017/01/09 -370.62€ Order Assurance X
+    MAIF
+
+2017/01/09 -47.96€ Order Hosting X
+    Dédibox
+
+2017/01/26 -10.0€ Order Bank X
+
+2017/01/31 100.0€ Paypal Cotisation X
+
+2017/01/31 -4.65€ Paypal CommissionPaypal X
+
 -- Pending
 
-2016/10/15 -400.0€ Transfer BoursePyConFr16 P
-    MP
+2017/02/01 -36.71€ Paypal MeetupLyon P
 
-2016/10/15 -400.0€ Transfer BoursePyConFr16 P
-    HM
-
-2016/10/15 -400.0€ Transfer BoursePyConFr16 P
-    CB
-
-2016/10/15 -400.0€ Transfer BoursePyConFr16 P
-    MH
-
-2016/10/15 -400.0€ Transfer BoursePyConFr16 P
-    HL
-
-2017/01/09 -370.62€ Order Assurance P
-    MAIF
+2017/02/01 -142.8€ Transfer Fosdem2017 P
+    stickers avancés par Hashbang
