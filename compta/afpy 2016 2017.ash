@@ -188,9 +188,22 @@
 
 2017/01/31 -4.65€ Paypal CommissionPaypal X
 
--- Pending
+-- Février 2017
 
-2017/02/01 -36.71€ Paypal MeetupLyon P
-
-2017/02/01 -142.8€ Transfer Fosdem2017 P
+2017/02/01 -142.8€ Transfer Fosdem2017 X
     stickers avancés par Hashbang
+
+2017/02/09 -47.96€ Order Hosting X
+    Dédibox
+
+2017/02/13 -400.0€ Transfer DjangoCong2017 X
+
+2017/02/23 -10.0€ Order Bank X
+
+2017/02/01 -36.71€ Paypal MeetupLyon X
+
+2017/02/28 80.0€ Paypal Cotisation X
+
+2017/02/28 -3.72€ Paypal CommissionPaypal X
+
+-- Pending
