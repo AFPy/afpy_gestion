@@ -206,4 +206,29 @@
 
 2017/02/28 -3.72€ Paypal CommissionPaypal X
 
+-- Mars 2017
+
+2017/03/02 20.0€ Check Cotisation X
+
+2017/03/07 -47.96€ Order Hosting X
+    Dédibox
+
+2017/03/28 -10.97€ Order Bank X
+
+2017/02/01 -36.71€ Paypal MeetupLyon X
+
+2017/03/28 -16.75€ Transfer WorkshopDjangoRennes X
+    Remboursement RH
+
+2017/03/28 -300.0€ Transfer WorkshopDjangoRennes X
+    Facture Wagaya
+
+2017/03/31 16.75€ Transfer WorkshopDjangoRennes X
+
+2017/03/31 40.0€ Paypal Cotisation X
+
+2017/03/31 -1.86€ Paypal CommissionPaypal X
+
 -- Pending
+
+2017/04/03 -16.75€ Transfer WorkshopDjangoRennes X
