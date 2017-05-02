@@ -224,11 +224,26 @@
     Facture Wagaya
 
 2017/03/31 16.75€ Transfer WorkshopDjangoRennes X
+    Remboursement RH
 
 2017/03/31 40.0€ Paypal Cotisation X
 
 2017/03/31 -1.86€ Paypal CommissionPaypal X
 
--- Pending
+-- Avril 2017
 
 2017/04/03 -16.75€ Transfer WorkshopDjangoRennes X
+    Remboursement RH
+
+2017/04/12 -47.96€ Order Hosting X
+    Dédibox
+
+2017/04/13 -100.0€ Transfer CotisationApril X
+
+2017/034/25 -10.97€ Order Bank X
+
+2017/04/30 20.0€ Paypal Cotisation X
+
+2017/04/30 -0.93€ Paypal CommissionPaypal X
+
+-- Pending
