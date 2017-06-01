@@ -240,10 +240,24 @@
 
 2017/04/13 -100.0€ Transfer CotisationApril X
 
-2017/034/25 -10.97€ Order Bank X
+2017/04/25 -10.97€ Order Bank X
 
 2017/04/30 20.0€ Paypal Cotisation X
 
 2017/04/30 -0.93€ Paypal CommissionPaypal X
+
+-- Mai 2017
+
+2017/05/02 -27.88€ Paypal Meetup X
+    Remboursement AV
+
+2017/05/12 -47.96€ Order Hosting X
+    Dédibox
+
+2017/05/26 -10.97€ Order Bank X
+
+2017/05/31 40.0€ Paypal Cotisation X
+
+2017/05/31 -1.86€ Paypal CommissionPaypal X
 
 -- Pending
