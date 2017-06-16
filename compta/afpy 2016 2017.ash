@@ -265,4 +265,4 @@
 # Ecreall 500
 # anybox 500
 # makina corpus 1000
-
+# logilab 1000
