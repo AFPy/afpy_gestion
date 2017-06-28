@@ -268,3 +268,6 @@
 # logilab 1000
 # netsach 2000
 # bearstech 500
+
+# zeg -400
+# bl -400
