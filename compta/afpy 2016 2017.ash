@@ -267,3 +267,4 @@
 # makina corpus 1000
 # logilab 1000
 # netsach 2000
+# bearstech 500
