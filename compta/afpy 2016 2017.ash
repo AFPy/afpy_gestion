@@ -260,14 +260,38 @@
 
 2017/05/31 -1.86€ Paypal CommissionPaypal X
 
--- Pending
+-- JUIN 2017
 
-# Ecreall 500
-# anybox 500
-# makina corpus 1000
-# logilab 1000
-# netsach 2000
-# bearstech 500
+2017/06/08 500.0€ Transfer PyConFr17 X
+    Anybox
+
+2017/06/12 -47.96€ Order Hosting X
+    Dédibox
+
+2017/06/16 500.0€ Check PyConFr17 X
+    Ecreall
+
+2017/06/27 -10.97€ Order Bank X
+
+2017/06/28 2000.0€ Transfer PyConFr17 X
+    Netsach
+
+2017/06/28 1000.0€ Transfer PyConFr17 X
+    Makina Corpus
+
+2017/06/29 1000.0€ Transfer PyConFr17 X
+    Logilab
+
+2017/06/30 20.0€ Check Cotisation X
+
+2017/06/30 500.0€ Transfer PyConFr17 X
+    Bearstech
+
+2017/06/30 19.07€ Paypal Cotisation X
+
+2017/06/30 -0.93€ Paypal CommissionPaypal X
+
+-- Pending
 
 # zeg -400
 # bl -400
