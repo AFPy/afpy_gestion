@@ -295,5 +295,9 @@
 
 # zeg -400
 # bl -400
+# kiad -400
 
 # yaal 500
+# itlink 1000
+# algoo 500
+# peopledoc 1000
