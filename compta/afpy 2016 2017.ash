@@ -98,7 +98,7 @@
 
 2016/10/31 -11.16€ Paypal CommissionPaypal X
 
-2015/10/21 -336.0€ Paypal Fosdem2017 X
+2016/10/21 -336.0€ Paypal Fosdem2017 X
     goodies malentendu Société Générale -> Paypal -> Modern city
 
 2016/10/24 -400.0€ Paypal BoursePyConFr16 X
@@ -160,9 +160,9 @@
 2016/11/02 259.89€ Paypal Afpy X
     Tranfert SG -> Paypal
 
-2016/11/31 60.0€ Paypal Cotisation X
+2016/11/30 60.0€ Paypal Cotisation X
 
-2016/11/31 -2.79€ Paypal CommissionPaypal X
+2016/11/30 -2.79€ Paypal CommissionPaypal X
 
 -- Décembre 2016
 
