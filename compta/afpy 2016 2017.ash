@@ -291,13 +291,32 @@
 
 2017/06/30 -0.93€ Paypal CommissionPaypal X
 
+-- JUILLET 2017
+
+2017/07/07 -47.96€ Order Hosting X
+    Dédibox
+
+2017/07/14 500.0€ Transfer PyConFr17 X
+    Yaal
+
+2017/07/24 -600.0€ Transfer DjangoGirlsMarseille X
+    via AV
+
+2017/07/26 -10.97€ Order Bank X
+
+2017/07/31 19.07€ Paypal Cotisation X
+
+2017/07/31 19.07€ Paypal Don X
+
+2017/07/31 -1.86€ Paypal CommissionPaypal X
+
+
 -- Pending
 
-# zeg -400
-# bl -400
-# kiad -400
+-- zeg -400
+-- bl -400
+-- kiad -400
 
-# yaal 500
-# itlink 1000
-# algoo 500
-# peopledoc 1000
+-- itlink 1000
+-- algoo 500
+-- peopledoc 1000
