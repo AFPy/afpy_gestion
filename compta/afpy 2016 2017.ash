@@ -310,14 +310,25 @@
 
 2017/07/31 -1.86€ Paypal CommissionPaypal X
 
+-- Aout 2017
 
--- Pending
+2017/08/07 500.0€ Transfer PyConFr17 X
+    Algoo
+
+2017/08/08 -40.76€ Order Hosting X
+    Dédibox
+
+2017/08/22 1000.0 Transfer PyConFr17 X
+    PeopleDoc
+
+2017/08/27 -10.97€ Order Bank X
+
+
+-- PendingA
 
 -- zeg -400
 -- bl -400
 -- kiad -400
 
 -- itlink 1000
--- algoo 500
--- peopledoc 1000
 -- toucantoco 1000
