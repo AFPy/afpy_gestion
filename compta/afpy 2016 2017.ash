@@ -331,4 +331,4 @@
 -- kiad -400
 
 -- itlink 1000
--- toucantoco 1000
+-- majerti 500
