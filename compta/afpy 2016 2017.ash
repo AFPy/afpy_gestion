@@ -323,12 +323,21 @@
 
 2017/08/27 -10.97€ Order Bank X
 
+-- Septembre (avant 23 septembre 2017)
 
--- PendingA
+2017/09/08 -29.98€ Order Hosting X
+    Dédibox
 
--- zeg -400
--- bl -400
--- kiad -400
+2017/09/08 -40.19€ Order VersPaypal X
+
+2017/09/18 -132.0€ Transfer PyConFr17 X
+    stickers, via hb
+
+2017/09/06 -357.0€ Paypal PyConFr17 X
+
+2017/09/06 40.19€ Paypal DepuisBanque X
+
+-- Pending
 
 -- itlink 1000
 -- majerti 500
