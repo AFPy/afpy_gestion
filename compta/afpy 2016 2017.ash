@@ -62,7 +62,7 @@
     avia ; remboursement AM
 -- Fin de remboursement AM 263.73
 
-2016/10/24 -180.15€ Transfer PyConFr X
+2016/10/24 -180.15€ Transfer PyConFr16 X
     Conteur salaire net
 
 2016/10/24 -153.51€ Transfer BoursePyConFr16 X
@@ -74,7 +74,7 @@
 2016/10/24 -4.9€ Transfer Bank X
     Frais virement bourse BL
 
-2016/10/24 -29.28€ Transfer MeetupParis X
+2016/10/24 -29.28€ Transfer Meetup X
     Remboursement AV
 
 2016/10/24 -1600.0€ Transfer PyConFr16 X
@@ -104,7 +104,7 @@
 2016/10/24 -400.0€ Paypal BoursePyConFr16 X
     IB
 
-2016/10/24 -15.99€ Paypal PaypalDevise X
+2016/10/24 -15.99€ Paypal CommissionPaypal X
     Frais de conversion de devise Bourse IB
 
 -- Novembre 2016
@@ -123,7 +123,7 @@
 2016/11/02 -400.0€ Paypal BoursePyConFr16 X
     DD
 
-2016/11/07 -259.89€ Order Afpy X
+2016/11/07 -259.89€ Order VersPaypal X
     Tranfert SG -> Paypal
 
 2016/11/10 -92.64€ Transfer PyConFr16 X
@@ -157,7 +157,7 @@
 
 2016/11/24 -10.0€ Order Bank X
 
-2016/11/02 259.89€ Paypal Afpy X
+2016/11/02 259.89€ Paypal DepuisBanque X
     Tranfert SG -> Paypal
 
 2016/11/30 60.0€ Paypal Cotisation X
@@ -201,6 +201,7 @@
 2017/02/23 -10.0€ Order Bank X
 
 2017/02/01 -36.71€ Paypal MeetupLyon X
+    courses 3pp
 
 2017/02/28 80.0€ Paypal Cotisation X
 
@@ -214,8 +215,6 @@
     Dédibox
 
 2017/03/28 -10.97€ Order Bank X
-
-2017/02/01 -36.71€ Paypal MeetupLyon X
 
 2017/03/28 -16.75€ Transfer WorkshopDjangoRennes X
     Remboursement RH
@@ -287,7 +286,7 @@
 2017/06/30 500.0€ Transfer PyConFr17 X
     Bearstech
 
-2017/06/30 19.07€ Paypal Cotisation X
+2017/06/30 20.0€ Paypal Cotisation X
 
 2017/06/30 -0.93€ Paypal CommissionPaypal X
 
@@ -304,9 +303,9 @@
 
 2017/07/26 -10.97€ Order Bank X
 
-2017/07/31 19.07€ Paypal Cotisation X
+2017/07/31 20.0€ Paypal Cotisation X
 
-2017/07/31 19.07€ Paypal Don X
+2017/07/31 20.0€ Paypal Don X
 
 2017/07/31 -1.86€ Paypal CommissionPaypal X
 
@@ -336,6 +335,14 @@
 2017/09/06 -357.0€ Paypal PyConFr17 X
 
 2017/09/06 40.19€ Paypal DepuisBanque X
+
+2017/09/23 1890.0€ EventBrite PyConFr17 X
+    tickets buffet
+
+2017/09/23 -213.7€ EventBrite FraisEventBrite X
+    tickets buffet
+
+2017/09/23 40.0€ HelloAsso Cotisation X
 
 -- Pending
 
