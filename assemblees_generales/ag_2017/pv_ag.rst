@@ -11,26 +11,26 @@ Claire Revillet (secrétaire) redige ce rapport.
 Feuile de présence :
 ====================
 
- + présents : 14
++ présents : 14
 
-   - Arthur VUILLARD
-   - Claire REVILLET
-   - Xavier ORDOQUY
-   - Pierre CHARLET
-   - Guillaume AYOUB
-   - Gael PASGRIMAUD
-   - Lucien DELEU
-   - Laurent PAOLETTI
-   - Pierre-Yves DAVID
-   - Marc DEBUREAUX
-   - Pierre-Louis BONICOLI
-   - Xavier PAQUET
-   - Ludovic GASC
-   - Michael SCHERER
+  - Arthur VUILLARD
+  - Claire REVILLET
+  - Xavier ORDOQUY
+  - Pierre CHARLET
+  - Guillaume AYOUB
+  - Gael PASGRIMAUD
+  - Lucien DELEU
+  - Laurent PAOLETTI
+  - Pierre-Yves DAVID
+  - Marc DEBUREAUX
+  - Pierre-Louis BONICOLI
+  - Xavier PAQUET
+  - Ludovic GASC
+  - Michael SCHERER
 
- + pouvoirs : 1
++ pouvoirs : 1
 
-   - Jean-Philippe Camguilhem -> Gael Pasgrimaud
+  - Jean-Philippe Camguilhem -> Gael Pasgrimaud
 
 
 Ordre du jour
@@ -49,25 +49,25 @@ Ordre du jour
 Rapport Moral de l'année par le Pdt.
 ====================================
 
- + Rapport Moral de l'année par le Pdt.
++ Rapport Moral de l'année par le Pdt.
 
-      1. succès de PyConFr Rennes (400 personnes/jour pendant la conf, 100 personnes/jour pendant la conf)
-      2. De nombreuses rencontres locales se sont tenues (Lyon, Pau, Nantes, Grenoble, Bordeau, Paris, Rennes...)
-      3. Distribution de goodies Python au FOSDEM
-      4. Workshop Django à Renne (Rémy Hubscher -- natim)
-      5. Sponsoring des rencontres Django à Toulon
-      6. Sponsoring de Django Girls à Marseille (7 oct 2017)
-      7. La migration des serveurs de l'association a été finalisée
-      8. Le sprint des 21 et 22 septembre a permis de gerer les inscription à l'AFPy via https://www.helloasso.com/associations/afpy/adhesions/formulaire-d-adhesion-a-l-afpy
-      9. Les efforts combinés de l'AFPy (Julien Palard -- mdk) et des autres communautés (dont la communauté Japonaise) ont permis de faire internationnalisé le site docs.python.org
-      10. Partenariat Pydata : relais communication + participation d'Amandine Nayrolles au comité de sélection
-      11. PyConFr Toulouse : déjà une belle édition, merci Toulibre et les orgas
+  1. succès de PyConFr Rennes (400 personnes/jour pendant la conf, 100 personnes/jour pendant la conf)
+  2. De nombreuses rencontres locales se sont tenues (Lyon, Pau, Nantes, Grenoble, Bordeau, Paris, Rennes...)
+  3. Distribution de goodies Python au FOSDEM
+  4. Workshop Django à Renne (Rémy Hubscher -- natim)
+  5. Sponsoring des rencontres Django à Toulon
+  6. Sponsoring de Django Girls à Marseille (7 oct 2017)
+  7. La migration des serveurs de l'association a été finalisée
+  8. Le sprint des 21 et 22 septembre a permis de gerer les inscription à l'AFPy via https://www.helloasso.com/associations/afpy/adhesions/formulaire-d-adhesion-a-l-afpy
+  9. Les efforts combinés de l'AFPy (Julien Palard -- mdk) et des autres communautés (dont la communauté Japonaise) ont permis de faire internationnalisé le site docs.python.org
+  10. Partenariat Pydata : relais communication + participation d'Amandine Nayrolles au comité de sélection
+  11. PyConFr Toulouse : déjà une belle édition, merci Toulibre et les orgas
 
   + pour      15 (dont 1 procuration)
   + contre  0
   + abstention  0
 
-    Le rapport est adopté à l'unanimité des votes exprimés à 9h16.
+  Le rapport est adopté à l'unanimité des votes exprimés à 9h16.
 
 Rapport Financier par le Trésorier
 ==================================
@@ -99,7 +99,7 @@ Période du 2016/10/15 au 2017/09/23
 
 Le sponsoring de Pycon n'a pas été entièrement versé (manque encore 1500€)
 
-Quasiment aucune dépense liée à Pycon 2017 n'a été comptabilisées.
+Quasiment aucune dépense liée à Pycon 2017 n'a été comptabilisée.
 
 PyConFr 2016
 ------------
@@ -116,8 +116,9 @@ PyConFr 2016
 | Total    | 12882.05 € | 15494.68 € | 
 +----------+------------+------------+
 
-Balance -2612.63 € 
-    -1031.19 € hors bourses
+Balance
+- -2612.63 € 
+- -1031.19 € hors bourses
 
 Recettes
 --------
@@ -189,6 +190,7 @@ Actions
 -------
 
 En cours :
+
 - pycon
 - bourses
 - transition vers HelloAsso
@@ -206,95 +208,94 @@ Quitus
   + contre  0
   + abstention  0
 
-    Le quitus est adopté à l'unanimité des votes exprimés à 9h28.
+  Le quitus est adopté à l'unanimité des votes exprimés à 9h28.
 
 Renouvellement du 1/3 sortant du Comité Directeur
 =================================================
 
-  + tiers sortant :
++ tiers sortant :
 
-  Alexis Métaireau
-  Jean-Michel Armand
-  Nelle Varoquaux
-  Rémy Hubscher
-  Xavier Ordoquy
-  Feth Arezki
+  - Alexis Métaireau
+  - Jean-Michel Armand
+  - Nelle Varoquaux
+  - Rémy Hubscher
+  - Xavier Ordoquy
+  - Feth Arezki
 
-  + démission :
++ démission :
 
-   Jean-Philippe Camguilhem
-   Claire Revillet
+  - Jean-Philippe Camguilhem
+  - Claire Revillet
 
-  + Nouveaux candidats :
++ Nouveaux candidats :
 
-  Xavier Ordoquy
-  Jean-Michel Armand
-  Guillaume Ayoub
-  Laurent Paoletti
-  Marc Debureaux
-  Lucien Deleu
-  Pierre Charlet
-  Gaël Pasgrimaud
-
+  - Xavier Ordoquy
+  - Jean-Michel Armand
+  - Guillaume Ayoub
+  - Laurent Paoletti
+  - Marc Debureaux
+  - Lucien Deleu
+  - Pierre Charlet
+  - Gaël Pasgrimaud
 
   + pour  15 (dont 1 procuration)
   + contre  0
   + abstention  0
 
-    La nouvelle composition du CD est adoptée à l'unanimité des votes exprimés à 9h36.
+  La nouvelle composition du CD est adoptée à l'unanimité des votes exprimés à 9h36.
 
 Election du Président
 =====================
 
-   Arthur Vuillard est seul à se présenter pour le poste
+Arthur Vuillard est seul à se présenter pour le poste
 
-  + Approbation par l'AG du Président proposé par le nouveau CD.
+Approbation par l'AG du Président proposé par le nouveau CD.
 
-    + pour  15 (dont 1 procuration)
-    + contre 0
-    + abstention 0
+  + pour  15 (dont 1 procuration)
+  + contre 0
+  + abstention 0
 
-    Arthur Vuillard est élu à l'unanimité des votes exprimés à 9h38.
+  Arthur Vuillard est élu à l'unanimité des votes exprimés à 9h38.
 
 Changement de l'adresse du siège social de l'association
 ========================================================
 
-    13 rue Becaria 75012 PARIS à 2 rue Professeur Zimmermann - 69007 LYON
+13 rue Becaria 75012 PARIS à 2 rue Professeur Zimmermann - 69007 LYON
 
-    + pour  15 (dont 1 procuration)
-    + contre  0
-    + abstention
+  + pour  15 (dont 1 procuration)
+  + contre  0
+  + abstention
 
-    La mesure est approuvée à l'unanimité des votes exprimés à 09h42.
+  La mesure est approuvée à l'unanimité des votes exprimés à 09h42.
 
 Changement de l'adresse de gestion de l'association
 ===================================================
 
-    13 rue Becaria 75012 PARIS à 2 rue Professeur Zimmermann - 69007 LYON
+13 rue Becaria 75012 PARIS à 2 rue Professeur Zimmermann - 69007 LYON
 
-    + pour  15 (dont 1 procuration)
-    + contre 0
-    + abstention 0
+  + pour  15 (dont 1 procuration)
+  + contre 0
+  + abstention 0
 
-    La mesure est approuvée à l'unanimité des votes exprimés à 09h43.
+  La mesure est approuvée à l'unanimité des votes exprimés à 09h43.
 
 Points diverses
 ===============
 
-  - quid de l'évolution des statuts : c'est un sujet sur lequel on va pouvoir
-    travailler à nouveau maintenant.
-  - Pb avec HelloAsso : les cartes de débit Belges ne passent pas dessus :
-    y a-t-il une autre solution pour cotiser à l'association ?
-    (les chèques n'existent plus en Belgique non plus...). Il doit être possible
-    de payer pour quelqu'un (pas besoin que la carte porte le nom de l'adhérent)
-  - un membre AFPy n'a pas automatiquement de compte HelloAsso, il faut en créer un.
-  - La refonte du site web est en cours (en bonne voie), il devrait être en
-    ligne rapidement, avec des actualités plus à jours.
-  - Où sera PyconFr l'an prochain ? Lille se propose, Bruxelles se propose d'aider.
-    Pas besoin de cahier des charges poussé pour candidater (3 amphis).
-  - Le nova-ideo de l'an dernier est toujours actif
+- quid de l'évolution des statuts : c'est un sujet sur lequel on va pouvoir
+  travailler à nouveau maintenant.
+- Pb avec HelloAsso : les cartes de débit Belges ne passent pas dessus :
+  y a-t-il une autre solution pour cotiser à l'association ?
+  (les chèques n'existent plus en Belgique non plus...). Il doit être possible
+  de payer pour quelqu'un (pas besoin que la carte porte le nom de l'adhérent)
+- un membre AFPy n'a pas automatiquement de compte HelloAsso, il faut en créer un.
+- La refonte du site web est en cours (en bonne voie), il devrait être en
+  ligne rapidement, avec des actualités plus à jours.
+- Où sera PyconFr l'an prochain ? Lille se propose, Bruxelles se propose d'aider.
+  Pas besoin de cahier des charges poussé pour candidater (3 amphis).
+- Le nova-ideo de l'an dernier est toujours actif
 
-  Fin de la séance : 9h54
+Fin de la séance : 9h54
 
 Le président : Arthur Vuillard
 
