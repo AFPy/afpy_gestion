@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr">
+
+	<head>
+	
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta name="description" content="" />
+		<meta name="author" content="" />
+
+		<title>Modification d'association :: Erreur</title>
+	    <!-- Fav and touch icons -->
+	    <!-- http://favicon.il.ly/ -->
+	    <!-- http://realfavicongenerator.net/ -->
+	    <!-- https://github.com/audreyr/favicon-cheat-sheet -->
+	
+	    <link rel="icon" sizes="16x16 32x32 48x48 64x64" href="/asso_mademarche/MD/favicon.ico" />
+	    <!--[if IE]>
+	    <link rel="shortcut icon" href="favicon.ico" />
+	    <![endif]-->
+	    <!-- Optional: Android & iPhone-->
+	    <link rel="apple-touch-icon-precomposed" href="/asso_mademarche/MD/static/images/favicon/favicon-152.png" />
+	    <!-- Optional: IE10 Tile.-->
+	    <meta name="msapplication-TileColor" content="#b91d47" />
+	    <meta name="msapplication-TileImage" content="/asso_mademarche/MD/static/images/favicon/favicon-144.png" />
+	    <!-- Optional: ipads, androids, iphones, ...-->
+	    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/asso_mademarche/MD/static/images/favicon/favicon-152.png" />
+	    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/asso_mademarche/MD/static/images/favicon/favicon-144.png" />
+	    <link rel="apple-touch-icon-precomposed" sizes="120x120" href="/asso_mademarche/MD/static/images/favicon/favicon-120.png" />
+	    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/asso_mademarche/MD/static/images/favicon/favicon-114.png" />
+	    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/asso_mademarche/MD/static/images/favicon/favicon-72.png" />
+	    <link rel="apple-touch-icon-precomposed" href="/asso_mademarche/MD/static/images/favicon/favicon-57.png" />
+
+		<!-- test svg, js, font-face disponibility -->
+		<script src="/asso_mademarche/MD/static/js/top/modernizr.js?version=1.0.18"></script>
+		
+		<!-- Bootstrap core CSS -->
+		<link href="/asso_mademarche/MD/webjars/bootstrap/3.3.2-1/css/bootstrap.min.css?version=1.0.18" rel="stylesheet" />
+		<link href="/asso_mademarche/MD/psl/css/libs/jquery-ui.min.css?version=1.0.18" rel="stylesheet" />
+		<link href="/asso_mademarche/MD/psl/css/libs/jquery-ui.theme.min.css?version=1.0.18" rel="stylesheet" />		
+		<link href="/asso_mademarche/MD/static/css/psl.css?version=1.0.18" rel="stylesheet" />
+		<link href="/asso_mademarche/MD/static/css/theme.css?version=1.0.18" rel="stylesheet" />
+		<link href="/asso_mademarche/MD/psl/css/psl.css?version=1.0.18" rel="stylesheet" />
+
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+			<link href="/asso_mademarche/MD/resources/css/bootstrap.psl.IE8.css?version=1.0.18" rel="stylesheet" />
+		<![endif]-->
+		
+			    		<!-- Bootstrap core JavaScript
+		================================================== --> 
+		<script src="/asso_mademarche/MD/webjars/jquery/1.11.2/jquery.min.js?version=1.0.18"></script>
+		<script src="/asso_mademarche/MD/psl/js/libs/jquery-ui.psl.1.11.min.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/datepicker-fr.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/libs/jquery.browser.min.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/webjars/bootstrap/3.3.2-1/js/bootstrap.min.js?version=1.0.18"></script>
+		<script src="/asso_mademarche/MD/psl/js/libs/transition.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/libs/collapse.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/libs/purl.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/libs/jquery.unserialize.js?version=1.0.18" type="text/javascript"></script>
+		<script src="https://www.google.com/recaptcha/api.js"></script>
+		
+		<script src="/asso_mademarche/MD/psl/js/psl.properties.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.fonctions.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.api.modal.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.validation.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.navigation.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.autocompletion.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.fichier.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.recaptcha.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.blocHandler.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.save.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.redressementAdresse.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.composant.asso.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.composant.rna.js?version=1.0.18" type="text/javascript"></script>
+		<script src="/asso_mademarche/MD/psl/js/psl.adresseEtrangere.js?version=1.0.18" type="text/javascript"></script>
+	    <script src="/asso_mademarche/MD/psl/js/psl.composant.identite.js?version=1.0.18" type="text/javascript"></script>				
+		
+	</head>
+
+	<body class="no-js espace-asso">		
+		<!-- 
+		SP 
+		-->
+	    <noscript>
+	      <p class="text-center text-danger">Javascript est desactivé dans votre navigateur.</p>
+	    </noscript>
+		
+	    <div id="outer-wrap">
+	        <div id="inner-wrap">
+	        
+	        	<!-- include header -->
+				<div class="banner">
+	           
+			<!-- 
+			SP : Barre de navigation +  Barre de logo et d'accès rapide
+			-->
+  			<div id="banner">
+           	<header class="banner" role="banner">
+               <!-- attention le lien vers la recherche n'est peut etre pas présent sur toutes les pages -->
+               <!-- le lien aller au menu est contextualisé -->
+               <div class="nav-skip">
+                   <div class="container">
+                       <ul class="" id="top">
+                           <li><a href="#main">Aller au contenu</a></li>
+                       </ul>
+                   </div>
+               </div>
+               <div class="nav-top">
+                   <div class="container">
+                       <nav class="nav-top-main" id="nav-desktop" role="navigation" aria-label="menu principal">
+                           <ul>
+                               <li class="nav-top-menu">
+                                   <button id="nav-open-btn" class="btn btn-menu nav-top-menu" type="button">menu</button>
+                               </li>
+                               <!-- la class active doit se trouver sur particulier pro ou asso selon l'univers de la demarche, ainsi que la balise strong autour du texte-->
+                               
+                               <li class="nav-top-part"><a href="https://www.service-public.fr">Particuliers</a></li>
+                               
+                               <li class="nav-top-pro"><a href="https://www.service-public.fr/professionnels-entreprises">Pro<span>fessionnels</span></a></li>
+                               <li class="nav-top-asso"><a class="active" title="Association - actif" href="https://www.service-public.fr/associations"><strong>Asso<span>ciations</span></strong></a></li>
+                               
+                               <li class="nav-top-annuaire"><a href="https://lannuaire.service-public.fr/">Annuaire<span> de l’administration</span></a></li>
+                               
+                               <li class="nav-top-compte">
+                             		<a title="Accès à l'espace personnel" href="https://www.service-public.fr/compte/informations">tresorerie@afpy.org</a>
+                               	</li>
+                               <li class="nav-top-compte"><a href="/asso_mademarche/MD/logout?redirect=https://openid.service-public.fr/logout?targetUrl=https://www.service-public.fr/compte/se-connecter">Se déconnecter</a></li>
+                            </ul>
+                       </nav>
+                   </div><!-- container -->
+               </div>
+               <div class="container container-logo">               
+               		<!-- Le logo sera différent selon univers : particulier, pro ou asso -->               		
+					<div class="logo">
+						
+						
+						<a href="https://www.service-public.fr/associations"><img src="/asso_mademarche/MD/psl/images/logo-service-public-asso.png" alt="Accueil Service-Public-asso.fr" width="465" height="65" /></a>
+					</div>
+                   	<div class="nav-header">
+                       	<ul>
+							<li class="nav-header-2">
+                           		
+								
+								<a href="https://www.service-public.fr/associations/vosdroits/services-en-ligne-et-formulaires">
+						    		<svg width="35px" height="35px" class="icon-formulaire" aria-hidden="true" viewBox="0 0 1024 1024">
+						    			<style>.color-31 {fill: #414856}.color-36 {fill: #69748c}</style>
+										<path class="color-31" d="M911.887 381.568l-184.772-178.7v102.631c-6.073 0-32.821 0-106.803 0-176.614 0-297.837 55.396-297.837 244.341 18.593-78.157 28.836-96.558 205.45-96.558 55.396 0 180.597 0 199.189 0v104.716l184.772-176.426z"></path>
+										<path class="color-36" d="M76.051 691.733l184.772 176.614v-102.631c6.073 0 32.821 0 106.803 0 176.614 0 297.837-55.396 297.837-244.341-18.593 78.157-28.836 96.558-205.45 96.558-55.396 0-180.597 0-199.189 0v-104.716l-184.772 178.51z"></path>
+									</svg>
+									Services en ligne et formulaires
+								</a>
+							</li>
+                       </ul>
+                   </div>
+               </div><!-- container -->
+               <nav class="nav-mobile" id="nav-mobile" role="navigation" aria-label="menu principal" tabindex="-1">
+                   <p class="nav-mobile-close"><button id="nav-close-btn" class="btn btn-close" type="button">Fermer</button></p>
+                   <ul class="nav-mobile-global">
+                       <li id="profil">
+                       		
+							<a href="https://www.service-public.fr/compte/informations">
+								<svg width="25px" height="25px" aria-hidden="true"><use xlink:href="#icon-compte"></use></svg>
+								<span class="infos-compte" title="Accès à l'espace personnel">tresorerie@afpy.org</span>
+							</a>
+						</li>
+							
+						<li>
+							<a href="/asso_mademarche/MD/logout?redirect=https://openid.service-public.fr/logout?targetUrl=https://www.service-public.fr/compte/se-connecter"><svg width="25px" height="25px" aria-hidden="true"><use xlink:href="#icon-compte"></use></svg> Se déconnecter</a>
+						</li>
+							
+                       	<li>
+                       		
+                       		
+                       		<a href="https://www.service-public.fr/associations/vosdroits/services-en-ligne-et-formulaires"><svg width="25px" height="25px" aria-hidden="true"><use xlink:href="#icon-formulaire-btn"></use></svg> Service en ligne et formulaires</a>
+                       	</li>
+                   </ul>
+                   <span></span>
+               </nav>
+           </header>
+           </div>
+           
+			<!-- 
+			/ FIN SP : Barre de navigation +  Barre de logo et d'accès rapide
+			-->
+		</div>
+			
+				<main class="main" id="main" role="main">	
+			  
+					<div class="container main-container">
+					
+						<!-- Titre de la démarche -->			
+						<h1 class="title-section">Dissolution d&#39;association</h1>
+				
+						<!-- Breadcrumb -->
+						<div class="steps step-count-5">
+							<h2 class="sr-only">Les étapes de votre démarche</h2>
+							<ol>
+								<li><p><span class="number">1</span><span class="text">Type de déclaration</span></p></li>
+								<li><p><span class="number">2</span><span class="text">Identification</span></p></li>
+								<li><p><span class="number">3</span><span class="text">Déclaration de changement</span></p></li>
+								<li><p><span class="number">4</span><span class="text">Pièces justificatives</span></p></li>
+								<li><p><span class="number">5</span><span class="text">Récapitulatif de ma demande</span></p></li>
+							</ol>
+						</div>	
+							
+						<!-- dans cette balise, contenu des pages -->			
+						<div class="main-body">
+
+	<form method="post" novalidate="novalidate" action="">
+	
+		<div>
+			<!-- Affichage d'un message d'erreur spécifiqe-->
+			
+			
+			<!--  -->
+			<p>
+				<div>Un problème est survenu lors de votre navigation. Merci de réessayer ultérieurement.</div>
+			</p>
+		</div>
+		
+             <div class="submit">
+                    <a href="redirect/quitterFinDemarche" class="btn btn-primary">Revenir à la page d'accueil</a>
+             </div>
+
+		
+	</form>	
+	
+</div>
+						
+						<!-- Modales de Session -->
+						<!-- TODO appel au composant Session à décommenter -->
+						<!-- <div th:include="templates/sessionComposant::session (prefixMsg='psl')"></div> -->
+					</div>
+					
+				</main>
+						
+				<div id="notice"></div>
+				
+	        	<!-- include footer -->
+				<div>
+			<!-- 
+			SP : Footer
+			-->
+			<div id="footer">
+			<footer class="footer" role="contentinfo">  
+				<nav class="footer-sitemap" role="navigation" aria-label="navigation secondaire de pied de page">
+					<div class="container">    
+						<div class="row" role="list">
+							<div class="footer-sitemap-col" role="listitem">
+								<p>Assistance et contact</p>
+								<ul>
+									<li><a href="https://www.service-public.fr/assistance-et-contact/aide">Aide sur le site</a></li>
+									<li><a href="https://www.service-public.fr/particuliers/glossaire">Glossaire</a></li>
+									<li><a href="https://www.service-public.fr/contact">Contact</a></li>
+									<li><a href="https://www.service-public.fr/assistance-et-contact/plan-du-site">Plan du site</a></li>
+								</ul>
+							</div><!-- footer-sitemap-col -->							
+							<div class="footer-sitemap-col" role="listitem">
+								<p>À propos</p>
+								<ul>
+									<li><a href="https://www.service-public.fr/a-propos/missions">Missions</a></li>
+									<li><a href="https://www.service-public.fr/a-propos/presse">Presse</a></li>
+									<li><a href="https://www.service-public.fr/a-propos/donnees-personnelles">Données personnelles</a></li>
+									<li><a href="https://www.service-public.fr/a-propos/donnees-ouvertes">Données ouvertes</a></li>
+									<li><a href="http://2016.service-public.fr/">Blog Service Public 2016</a></li>
+								</ul>
+							</div><!-- footer-sitemap-col -->
+							<div class="footer-sitemap-col" role="listitem">
+								<p>Qualité de service</p>
+								<ul>
+									<li><a href="https://www.service-public.fr/qualite-de-service/accessibilite">Accessibilité</a></li>
+									<li><a href="https://www.service-public.fr/qualite-de-service/engagement-qualite">Engagement qualité</a></li>
+									<li><a href="https://www.service-public.fr/qualite-de-service/statistiques">Statistiques</a></li>
+								</ul>
+							</div><!-- footer-sitemap-col -->
+							<div class="footer-sitemap-col" role="listitem">
+								<p>Partenariats</p>
+								<ul>
+									<li><a href="https://www.service-public.fr/partenaires/communaute-partenaire">Partenaires</a></li>
+									<li><a href="https://www.service-public.fr/partenaires/comarquage">Co-marquage</a></li>
+								</ul>
+							</div><!-- footer-sitemap-col -->
+							<div class="footer-sitemap-col" role="listitem">
+								<p>Abonnement</p>
+								<ul>
+									<li><a href="https://www.service-public.fr/actualites/lettresp/abonnement">Lettre de service-public</a></li>
+									<li><a href="https://www.service-public.fr/actualites/lettresp/archives">Archives de la lettre</a></li>
+									<li><a href="https://www.service-public.fr/abonnements/rss"><span aria-hidden="true" class="icon icon-rss"></span>&nbsp;RSS</a></li>
+									<li><a href="https://twitter.com/servicepublicfr" target="_blank" title="twitter @servicepublicfr (nouvelle fenêtre)"><span aria-hidden="true" class="icon icon-twitter"></span>&nbsp;Twitter</a></li>
+									<li><a href="https://plus.google.com/+servicepublic/" target="_blank" title="service-public.fr sur google plus (nouvelle fenêtre)"><span aria-hidden="true" class="icon icon-google-plus"></span>&nbsp;Google+</a></li>
+								</ul>
+							</div><!-- footer-sitemap-col -->
+						</div><!-- row -->
+					</div><!-- container -->
+				</nav><!-- footer-sitemap -->
+				<div class="footer-gouv-link">
+					<div class="container">    
+						<ul class="gouv-link">
+							<li><a href="https://www.service-public.fr/particuliers/vos-questions/allo-service-public">3939 Allo Service Public</a></li>
+							<li><a title="Vie-publique.fr - Nouvelle fenêtre" href="http://www.vie-publique.fr/" target="_blank">Vie-publique.fr&nbsp;<span aria-hidden="true" class="icon icon-external-link"></span></a></li>
+							<li><a title="Legifrance.gouv.fr - Nouvelle fenêtre" href="http://legifrance.gouv.fr" target="_blank">Legifrance.gouv.fr&nbsp;<span aria-hidden="true" class="icon icon-external-link"></span></a></li>
+							<li><a title="Data.gouv.fr - Nouvelle fenêtre" href="https://www.data.gouv.fr/" target="_blank">Data.gouv.fr&nbsp;<span aria-hidden="true" class="icon icon-external-link"></span></a></li>
+							<li><a title="Gouvernement.fr - Nouvelle fenêtre" href="http://www.gouvernement.fr" target="_blank">Gouvernement.fr&nbsp;<span aria-hidden="true" class="icon icon-external-link"></span></a></li>
+							<li><a title="France.fr - Nouvelle fenêtre" href="http://www.france.fr/" target="_blank">France.fr&nbsp;<span aria-hidden="true" class="icon icon-external-link"></span></a></li>
+						</ul>
+					</div><!-- container -->
+				</div><!-- col -->
+				<div class="footer-link">
+					<div class="container">  
+						<ul>
+							<li><a title="Direction de l'information légale et administrative - Nouvelle fenêtre" href="http://www.dila.premier-ministre.gouv.fr/" target="_blank">Direction de l'information légale et administrative&nbsp;<span aria-hidden="true" class="icon icon-external-link"></span></a></li>
+							<li><a href="https://www.service-public.fr/a-propos/mentions-legales">Mentions légales</a></li>
+						</ul>
+				    	<p class="ojd"><a href="http://www.ojd-internet.com/chiffres-internet/7111-service-public.fr" title="ojd (nouvelle fenêtre)" target="_blank"><img src="static/img/logo-ojd.png" alt="ojd (nouvelle fenêtre)" /></a></p>
+					</div>
+				</div><!-- footer-links -->
+			</footer>
+			<input aria-hidden="true" id="demarche-release" type="hidden" disabled="disabled" value="1.0.18" />
+			</div>
+			<!-- 
+			/ FIN SP : Footer
+			-->	
+		</div>					
+			</div>
+		</div>
+
+		<!-- iframe integree pour le maintien de session cote Openid-connect Provider -->
+ 		<iframe aria-hidden="true" id="OPiframe" style="display:none" src="https://openid.service-public.fr/opiframe"></iframe>
+- 		<iframe aria-hidden="true" id="RPiframe" style="display:none" src="https://psl.service-public.fr/asso_mademarche/MD/rp_iframe"></iframe>
+				
+	    <!-- JS provenant de SP -->
+		<script src="/asso_mademarche/MD/static/js/app/base/anchor_focus.js?version=1.0.18" type="text/javascript"></script>
+	    <script src="/asso_mademarche/MD/static/js/lib/bootstrap/transition.js?version=1.0.18" type="text/javascript"></script>
+	    <script src="/asso_mademarche/MD/static/js/app/offcanvas/main.js?version=1.0.18" type="text/javascript"></script>
+	    <script src="/asso_mademarche/MD/static/js/app/offcanvas/main.jquery.js?version=1.0.18" type="text/javascript"></script>
+	    <script src="/asso_mademarche/MD/static/js/lib/cookie/jquery.cookie.js?version=1.0.18" type="text/javascript"></script>
+	    <script src="/asso_mademarche/MD/static/js/app/base/cookie.js?version=1.0.18" type="text/javascript"></script>
+	    <script src="/asso_mademarche/MD/static/js/app/base/misc.js?version=1.0.18" type="text/javascript"></script>
+		
+		<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+		<!-- <script src="assets/js/ie10-viewport-bug-workaround.js"></script> -->
+		<script type="text/javascript">
+				/* <![CDATA[ */
+				var currentPageSavingPeriod =300000;
+				var currentPageRestoreDone = null;
+				if(currentPageRestoreDone == null)
+				{
+					currentPageRestoreDone = true;
+				}
+				var user_authenticated = true;
+				/* ]]> */
+		</script>
+		
+		<!-- Xiti -->
+		<div class="hidden" aria-hidden="true">
+			<ul>
+			    <li id="xtpage">services::demarche_EMODIF::erreur</li>
+			</ul>		
+		</div>
+						
+		<script src="/asso_mademarche/MD/resources/js/app.js?version=1.0.18" type="text/javascript"></script>
+		
+		<!-- Integration du script gerant les appels xiti -->
+		<script type="text/javascript">
+			/* <![CDATA[ */
+			var xtnv = 'document',
+				xtsd = 'https://logs1241',
+				xtsite = '562734',
+				xtn2 = '1',
+				xtpage = $("#xtpage").text(),
+				xtdi = "",
+				xtergo="0",
+				xt_multc = "",
+				xt_an = "",
+				xt_ac = "";
+			if (window.xtparam != null) {
+				window.xtparam += xt_multc + "&amp;ac=" + xt_ac + "&amp;an=" + xt_an;
+			} else {
+				window.xtparam = xt_multc + "&amp;ac=" + xt_ac + "&amp;an=" + xt_an;
+			};
+			window.psl.demarche.error = 'Un probl\xE8me technique est survenu, votre d\xE9marche n\'a pas \xE9t\xE9 sauvegard\xE9e. Merci de r\xE9essayer ult\xE9rieurement. ';
+			window.psl.demarche.connecteSuccess = 'Votre d\xE9marche a \xE9t\xE9 sauvegard\xE9e. Vous pouvez reprendre cette d\xE9marche \xE0 partir des informations d\xE9j\xE0 saisies. Pour cela, cliquer sur le bouton \xAB compl\xE9ter \xBB de votre fil d\'activit\xE9 de votre espace personnel service-public.fr';
+			window.psl.demarche.deconnecteSuccess = 'Un courriel a \xE9t\xE9 envoy\xE9 \xE0 [Email saisi]. Un lien vous permet de reprendre votre d\xE9marche l\xE0 o\xF9 vous l\'avez arr\xEAt\xE9e.';
+			/* ]]> */
+		</script>
+		<script src="/asso_mademarche/MD/psl/js/libs/xtcore.js?version=1.0.18" type="text/javascript"></script>
+	</body>
+</html>
