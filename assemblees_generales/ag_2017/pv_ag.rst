@@ -63,6 +63,8 @@ Rapport Moral de l'année par le Pdt.
   10. Partenariat Pydata : relais communication + participation d'Amandine Nayrolles au comité de sélection
   11. PyConFr Toulouse : déjà une belle édition, merci Toulibre et les orgas
 
+Vote :
+
   + pour      15 (dont 1 procuration)
   + contre  0
   + abstention  0
@@ -117,6 +119,7 @@ PyConFr 2016
 +----------+------------+------------+
 
 Balance
+
 - -2612.63 € 
 - -1031.19 € hors bourses
 
@@ -194,6 +197,8 @@ En cours :
 - pycon
 - bourses
 - transition vers HelloAsso
+
+Approbation du rapport financier :
 
   + pour  15 (dont 1 procuration)
   + contre  0
@@ -279,8 +284,8 @@ Changement de l'adresse de gestion de l'association
 
   La mesure est approuvée à l'unanimité des votes exprimés à 09h43.
 
-Points diverses
-===============
+Points divers
+=============
 
 - quid de l'évolution des statuts : c'est un sujet sur lequel on va pouvoir
   travailler à nouveau maintenant.
