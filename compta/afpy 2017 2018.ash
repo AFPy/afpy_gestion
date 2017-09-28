@@ -36,6 +36,12 @@
 2017/09/23 -19.34€ Transfer PyConFr17 X
     courses carrefour SP
 
+2017/09/24 -49.45€ Transfer PyConFr17 X
+    courses SPAR SP
+
+2017/09/23 -1518€ Transfer PyConFr17 X
+    buffet - Les petits plats de Clémence
+
 
 
 
