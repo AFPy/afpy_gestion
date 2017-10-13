@@ -1,0 +1,63 @@
+@page {
+  margin: 3cm;
+
+  @bottom-left {
+    content: string(title);
+    font-size: 0.8em;
+  }
+  @bottom-right {
+    content: counter(page) ' / ' counter(pages);
+    font-size: 0.8em;
+  }
+}
+
+body {
+  font-family: serif;
+  hyphens: auto;
+  hyphenate-limit-chars: 3 3 7;
+  line-height: 1.4;
+}
+
+sup {
+  font-size: 0.7em;
+}
+
+p {
+  text-align: justify;
+}
+
+li p {
+  margin: 0;
+  text-align: left;
+}
+
+h1 {
+  bookmark-level: none;
+  font-size: 1.4em;
+  margin-top: 10em;
+  string-set: title content(text);
+  text-align: center;
+}
+
+h2 {
+  break-before: page;
+  bookmark-level: 1;
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1em;
+}
+
+.admonition-title {
+  display: none;
+}
+
+.note p {
+  bookmark-level: 2;
+  font-size: 1.4em;
+}
+
+.line-block {
+  margin: 5em 0 2em 50%;
+}
