@@ -265,7 +265,25 @@ Approbation par l'AG du Président proposé par le nouveau CD.
 Changement de l'adresse du siège social de l'association
 ========================================================
 
-13 rue Becaria 75012 PARIS à 2 rue Professeur Zimmermann - 69007 LYON
+Nous proposons de modifier l'adresse du siège social de l'association.
+
+L'association est actuellement domiciée au
+
+  13 rue Becaria
+  75012 PARIS
+  
+Nous proposons de la domicilier au
+
+  2 rue Professeur Zimmermann
+  69007 LYON
+  
+Cette dispsition remplacera le troisième paragraphe de l'article 1 des statuts de l'association
+
+  Le siège social est fixé au 13, rue Beccaria 75012 Paris et peut être transféré dans un autre lieu par délibération de l'Assemblée Générale.
+  
+par
+
+  Le siège social est fixé au 2, rue Professeur Zimmermann 69007 Lyon et peut être transféré dans un autre lieu par délibération de l'Assemblée Générale.
 
   + pour  15 (dont 1 procuration)
   + contre  0
@@ -276,7 +294,7 @@ Changement de l'adresse du siège social de l'association
 Changement de l'adresse de gestion de l'association
 ===================================================
 
-13 rue Becaria 75012 PARIS à 2 rue Professeur Zimmermann - 69007 LYON
+Nous proposons de modifier l'adresse de gestion de l'association, comme pour le siège social, du 13 rue Becaria 75012 PARIS au 2 rue Professeur Zimmermann - 69007 LYON.
 
   + pour  15 (dont 1 procuration)
   + contre 0
