@@ -262,6 +262,29 @@ Approbation par l'AG du Président proposé par le nouveau CD.
 
   Arthur Vuillard est élu à l'unanimité des votes exprimés à 9h38.
 
+Le Comité Directeur propose, comme l'autorisent les statuts, que le Bureau soit
+composé d'un Président, d'un Secrétaire et d'un Trésorier.
+
+Xavier Ordoquy est seul à se présenter pour le poste de Secrétaire.
+
+Approbation par le CD du Secrétaire.
+
+  + pour  12
+  + contre 0
+  + abstention 0
+
+  Xavier Ordoquy est élu à l'unanimité des votes exprimés à 9h40.
+
+Guillaume Ayoub est seul à se présenter pour le poste de Trésorier.
+
+Approbation par le CD du Trésorier.
+
+  + pour  12
+  + contre 0
+  + abstention 0
+
+  Guillaume Ayoub est élu à l'unanimité des votes exprimés à 9h41.
+
 Changement de l'adresse du siège social de l'association
 ========================================================
 
