@@ -300,11 +300,19 @@ Nous proposons de la domicilier au
   2 rue Professeur Zimmermann
   69007 LYON
   
-Cette dispsition remplacera le troisième paragraphe de l'article 1 des statuts de l'association
+Cette disposition remplacera l'article 1 des statuts de l'association
 
+  L'association dite « Association Francophone Python (AFPY) », fondée le 11 décembre 2004 sous le régime de la loi du 1er juillet 1901 a pour but la vulgarisation auprès d'un public francophone du langage de programmation Python et de ses applications.
+  
+  Sa durée est illimitée.
+  
   Le siège social est fixé au 13, rue Beccaria 75012 Paris et peut être transféré dans un autre lieu par délibération de l'Assemblée Générale.
   
 par
+
+  L'association dite « Association Francophone Python (AFPY) », fondée le 11 décembre 2004 sous le régime de la loi du 1er juillet 1901 a pour but la vulgarisation auprès d'un public francophone du langage de programmation Python et de ses applications.
+
+  Sa durée est illimitée.
 
   Le siège social est fixé au 2, rue Professeur Zimmermann 69007 Lyon et peut être transféré dans un autre lieu par délibération de l'Assemblée Générale.
 
