@@ -352,7 +352,3 @@ Points divers
 - Le nova-ideo de l'an dernier est toujours actif
 
 Fin de la séance : 9h54
-
-Le président : Arthur Vuillard
-
-Le secrétaire : Xavier Ordoquy
