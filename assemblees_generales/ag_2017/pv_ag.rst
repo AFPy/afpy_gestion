@@ -316,6 +316,8 @@ par
 
   Le siège social est fixé au 2, rue Professeur Zimmermann 69007 Lyon et peut être transféré dans un autre lieu par délibération de l'Assemblée Générale.
 
+L'assemblée générale procède au vote :
+
   + pour  15 (dont 1 procuration)
   + contre  0
   + abstention
