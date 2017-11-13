@@ -30,7 +30,8 @@
 2017/09/23 -10.46€ Transfer PyConFr17 X
     courses monoprix SP
 
-2017/09/25 107.5€ Check ?? X
+2017/09/25 107.5€ Check PyConFr17 X
+    vente de tshirt
 
 2017/09/25 -10.20€ Order Bank X
 
