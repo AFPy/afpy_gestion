@@ -49,45 +49,44 @@
 2017/09/28 -49.45€ Transfer PyConFr17 X
     courses SPAR SP
 
+2017/09/24 20€ Paypal Cotisation X
 
-2017/09/24 20€ Paypal Cotisation P
-
-2017/09/24 -0.93€ Paypal CommissionPaypal P
+2017/09/24 -0.93€ Paypal CommissionPaypal X
 
 
 -- Octobre 2017
 
-2017/10/09 -29.98€ Order Hosting P
+2017/10/09 -29.98€ Order Hosting X
     Dédibox
 
-2017/10/20 -1964.16€ Transfer PyConFr17 P
+2017/10/20 -1964.16€ Transfer PyConFr17 X
     Interpretis
 
-2017/10/20 -1518.75€ Transfer PyConFr17 P
+2017/10/20 -1518.75€ Transfer PyConFr17 X
     FreeWear.org
 
-2017/10/20 -1089 Transfer PyConFr17 P
+2017/10/20 -1089 Transfer PyConFr17 X
     FreeWear.org
 
-2017/10/24 -2.57 Order VersPaypal P
+2017/10/24 -2.57 Order VersPaypal X
 
-2017/10/26 0.77 Order Bank P
+2017/10/26 0.77 Order Bank X
 
-2017/10/27 -10.2€ Order Bank P
+2017/10/27 -10.2€ Order Bank X
 
-2017/10/27 0.77 Order Bank P
+2017/10/27 0.77 Order Bank X
 
-2017/10/27 0.77 Order Bank P
+2017/10/27 0.77 Order Bank X
 
-2017/10/27 0.77 Order Bank P
+2017/10/27 0.77 Order Bank X
 
-2017/10/27 0.77 Order Bank P
+2017/10/27 0.77 Order Bank X
 
-2017/10/16 20€ Paypal Cotisation P
+2017/10/16 20€ Paypal Cotisation X
 
-2017/10/16 -0.93€ Paypal CommissionPaypal P
+2017/10/16 -0.93€ Paypal CommissionPaypal X
 
-2017/10/20 -2.57 Paypal DepuisBanque P
+2017/10/20 -2.57 Paypal DepuisBanque X
 
 2017/10/20 -14.28€ Paypal MeetupLyon X
     Remboursement AV Courses
