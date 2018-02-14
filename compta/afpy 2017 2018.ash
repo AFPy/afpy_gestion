@@ -125,9 +125,9 @@
 2017/11/08 -43.13€ Paypal Hosting X
     Gandi
 
-2017/10/25 -10.20€ Order Bank X
+2017/11/25 -10.20€ Order Bank X
 
-2017/10/28 -31.00€ Order DILA X
+2017/11/28 -31.00€ Order DILA X
     Dépôt des statuts
 
 
@@ -139,6 +139,41 @@
 2017/12/23 -10.20€ Order Bank X
 
 
+-- Janvier 2018
+
+2018/01/03 20.0€ Check Cotisation X
+
+2018/01/08 -370.62€ Order Assurance X
+    MAIF
+
+2018/01/09 -2301.85€ Check PyConFr17 X
+    Aurus - Sécurité
+    Sécurité
+
+2018/01/10 -29.98€ Order Hosting X
+    Dédibox
+
+2018/01/23 20€ Paypal Cotisation X
+
+2018/01/23 -0.93€ Paypal CommissionPaypal X
+
+2018/01/26 -10.20€ Order Bank X
+
+2018/01/30 -105.40€ Transfer FOSDEM X
+    Remboursement AV Goodies
+
+
+-- Février 2018
+
+2018/02/02 -62.00€ Transfer Meetup X
+    Remboursement AV Pizzas traduction
+
+2018/02/08 -90.55€ Order ETIC X
+
+2018/02/12 -29.98€ Order Hosting X
+    Dédibox
+
+
 -- Pending
 
 -- 2018/XX/XX 1000.00€ XXX PyConFr17 P
@@ -146,9 +181,6 @@
 
 -- 2018/XX/XX 500.00€ XXX PyConFr17 P
        Majerti
-
--- 2018/XX/XX -2301.85€ Check PyConFr17 P
---     Aurus - Sécurité
 
 
 -- ToDo
