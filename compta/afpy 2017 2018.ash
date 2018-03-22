@@ -173,6 +173,20 @@
 2018/02/12 -29.98€ Order Hosting X
     Dédibox
 
+2018/02/15 20€ Paypal Cotisation X
+
+2018/02/23 -10.20€ Order Bank X
+
+
+-- Mars 2018
+
+2018/03/06 -29.98€ Order Hosting X
+    Dédibox
+
+2018/03/07 -42.00€ Order ETIC X
+
+2018/03/13 1465.00€ Order Cotisation X
+
 
 -- Pending
 
