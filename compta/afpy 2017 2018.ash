@@ -185,7 +185,9 @@
 
 2018/03/07 -42.00€ Order ETIC X
 
-2018/03/13 1465.00€ Order Cotisation X
+2018/03/13 1210.00€ Order Cotisation X
+
+2018/03/13 255.00€ Order Don X
 
 
 -- Pending
