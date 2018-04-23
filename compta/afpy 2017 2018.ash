@@ -12,7 +12,7 @@
 2017/09/25 -81.16€ Transfer PyConFr17 X
     viennoiseries SP
 
-2017/09/25 -81.12€ Trasnfer PyConFr17 X
+2017/09/25 -81.12€ Transfer PyConFr17 X
     viennoiseries SP
 
 2017/09/25 -65.0€ Transfer BoursePyConFr17 X
@@ -64,9 +64,9 @@
 
 2017/10/16 -0.93€ Paypal CommissionPaypal X
 
-2017/10/20 -2.57€ Paypal DepuisBanque X
+2017/10/20 2.57€ Paypal DepuisBanque X
 
-2017/10/20 -14.28€ Paypal MeetupLyon X
+2017/10/20 -14.28€ Paypal Meetup X
     Remboursement AV Courses
 
 2017/10/20 -26.43€ Paypal Meetup X
