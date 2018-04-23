@@ -189,11 +189,38 @@
 
 2018/03/13 255.00€ Order Don X
 
+2018/03/27 -10.20€ Order Bank X
+
+2018/03/28 20€ Paypal Cotisation X
+
+2018/03/28 -0.93€ Paypal CommissionPaypal X
+
+2018/03/28 20€ Paypal Don X
+
+2018/03/28 -0.93€ Paypal CommissionPaypal X
+
+
+-- Avril 2018
+
+2018/04/03 1000.00€ Order PyConFr17 X
+    Itlink
+
+2018/04/04 -30.46€ Transfer Meetup X
+    Remboursement HB Meetup
+
+2018/04/10 -42.00€ Order ETIC X
+
+2018/04/10 -29.98€ Order Hosting X
+    Dédibox
+
+2018/04/10 220.00€ Order Cotisation X
+
+2018/04/10 90.00€ Order Don X
+
+2018/04/11 -500.00€ Transfer DjangoGirlsBordeaux X
+
 
 -- Pending
-
--- 2018/XX/XX 1000.00€ XXX PyConFr17 P
-       Itlink
 
 -- 2018/XX/XX 500.00€ XXX PyConFr17 P
        Majerti
