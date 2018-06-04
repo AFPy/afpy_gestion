@@ -219,11 +219,24 @@
 
 2018/04/11 -500.00€ Transfer DjangoGirlsBordeaux X
 
+2018/04/25 -10.20€ Order Bank X
+
+
+-- Mai 2018
+
+2018/05/08 40.00€ Order Cotisation X
+
+2018/05/09 -42.00€ Order ETIC X
+
+2018/05/11 -29.98€ Order Hosting X
+    Dédibox
+
+2018/05/18 500.00€ XXX PyConFr17 P
+    Majerti
+
+2018/05/26 -10.20€ Order Bank X
+
 
 -- Pending
-
--- 2018/XX/XX 500.00€ XXX PyConFr17 P
-       Majerti
-
 
 -- ToDo
