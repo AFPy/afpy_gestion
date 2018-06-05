@@ -1,0 +1,4 @@
+Jusqu'à 2017, les factures sont stockées en ODT et en PDF.
+
+À partir de 2018, les factures sont stockées en HTML/Jinja2 et peuvent être
+générées avec la commande "make".

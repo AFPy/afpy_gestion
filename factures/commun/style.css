@@ -1,0 +1,115 @@
+html {
+  color: #222;
+  font-family: "Cantarell";
+  font-weight: 300;
+  line-height: 1.4;
+}
+
+body::before {
+  background: url(logo.svg) 0 50% no-repeat;
+  content: "afpy";
+  display: block;
+  font-size: 28pt;
+  padding: 0.5cm 0.5cm 0.5cm 1.5cm;
+}
+
+body::after {
+  background: url(logo.svg) 50% 50% / cover no-repeat;
+  bottom: -5cm;
+  content: '';
+  height: 20cm;
+  opacity: 0.05;
+  position: absolute;
+  right: -5cm;
+  width: 20cm;
+}
+
+address {
+  font-style: normal;
+  white-space: pre-line;
+}
+
+header {
+  display: table;
+  margin-bottom: 3em;
+  width: 100%;
+}
+
+#from, #to {
+  display: table-cell;
+  width: 50%;
+}
+
+#from {
+  font-size: 0.8em;
+  vertical-align: top;
+}
+
+#to {
+  vertical-align: bottom;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 3em 0;
+  width: 100%;
+}
+
+thead {
+  font-size: 0.8em;
+}
+
+thead th {
+  padding: 0.7em;
+}
+
+th, td {
+  font-weight: inherit;
+  padding: 0.5em;
+}
+
+tbody tr {
+  border-top: 0.2mm solid #ddd;
+}
+
+tfoot * {
+  padding-top: 1.5em;
+}
+
+tfoot th {
+  text-align: right;
+}
+
+tfoot th::after {
+  content: ' :';
+}
+
+footer {
+  font-size: 0.8em;
+}
+
+dl {
+  margin: 0;
+}
+
+dt {
+  display: inline;
+}
+
+dt::after {
+  content: ' :';
+}
+
+dd {
+  display: inline;
+  margin: 0;
+}
+
+dd::after {
+  content: '\A';
+  white-space: pre;
+}
+
+p {
+  margin: 0.5em 0;
+}
