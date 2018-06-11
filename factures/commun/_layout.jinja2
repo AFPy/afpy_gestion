@@ -23,64 +23,66 @@
       </address>
     </header>
 
-    <dl>
-      <dt>Date</dt>
-      <dd>{{ date }}</dd>
-      <dt>N° de facture</dt>
-      <dd>{{ number }}</dd>
-    </dl>
-
-    <table>
-      {% for designation, price, quantity in lines %}
-        {% if loop.first %}
-          <thead>
-            <th>Désignation</th>
-            <th>Prix unitaire</th>
-            <th>Quantité</th>
-            <th>Total</th>
-          </thead>
-          <tbody>
-          {% set total = 0 %}
-        {% endif %}
-
-        <tr>
-          <td>{{ designation }}</td>
-          <td>{{ price }} €</td>
-          <td>{{ quantity }}</td>
-          <td>{{ quantity * price }} €</td>
-        </tr>
-        {% set total = total + quantity * price %}
-
-        {% if loop.last %}
-          </tbody>
-          <tfoot>
-            <th colspan="3">Total T.T.C. à payer</th>
-            <td>{{ total }} €</td>
-          </tfoot>
-        {% endif %}
-      {% endfor %}
-    </table>
-
-    <footer>
-      <p>
-        Taxe sur la valeur ajoutée non applicable, article 293 B du CGI.
-      </p>
-      <p>
-        En votre aimable règlement, au comptant par chèque bancaire ou virement.
-      </p>
-
-      <address>
-        Société Générale Lyon République
-        6, rue de la République
-        69206 LYON
-      </address>
-
+    {% block content %}
       <dl>
-        <dt>IBAN</dt>
-        <dd>FR76 3000 3031 2000 0507 6517 116</dd>
-        <dt>BIC/SWIFT</dt>
-        <dd>SOGEFRPPLPC</dd>
+        <dt>Date</dt>
+        <dd>{{ date }}</dd>
+        <dt>N° de facture</dt>
+        <dd>{{ number }}</dd>
       </dl>
-    </footer>
+
+      <table>
+        {% for designation, price, quantity in lines %}
+          {% if loop.first %}
+            <thead>
+              <th>Désignation</th>
+              <th>Prix unitaire</th>
+              <th>Quantité</th>
+              <th>Total</th>
+            </thead>
+            <tbody>
+              {% set total = 0 %}
+          {% endif %}
+
+          <tr>
+            <td>{{ designation }}</td>
+            <td>{{ price }} €</td>
+            <td>{{ quantity }}</td>
+            <td>{{ quantity * price }} €</td>
+          </tr>
+          {% set total = total + quantity * price %}
+
+          {% if loop.last %}
+            </tbody>
+            <tfoot>
+              <th colspan="3">Total T.T.C. à payer</th>
+              <td>{{ total }} €</td>
+            </tfoot>
+          {% endif %}
+        {% endfor %}
+      </table>
+
+      <footer>
+        <p>
+          Taxe sur la valeur ajoutée non applicable, article 293 B du CGI.
+        </p>
+        <p>
+          En votre aimable règlement, au comptant par chèque bancaire ou virement.
+        </p>
+
+        <address>
+          Société Générale Lyon République
+          6, rue de la République
+          69206 LYON
+        </address>
+
+        <dl>
+          <dt>IBAN</dt>
+          <dd>FR76 3000 3031 2000 0507 6517 116</dd>
+          <dt>BIC/SWIFT</dt>
+          <dd>SOGEFRPPLPC</dd>
+        </dl>
+      </footer>
+    {% endblock content %}
   </body>
 </html>

@@ -1,1 +1,3 @@
 .venv
+/factures/commun/*.html.jinja2
+/factures/commun/*.pdf

@@ -113,3 +113,7 @@ dd::after {
 p {
   margin: 0.5em 0;
 }
+
+p.right-aligned {
+  margin: 2em 0 2em 60%;
+}
