@@ -2,7 +2,7 @@
 <html lang="fr">
   <head>
     <meta charset="UTF-8"/>
-    <title>AFPy − Facture n°{{ number }}</title>
+    <title>AFPy − {{ 'Devis' if quotation else 'Facture' }} n°{{ number }}</title>
     <link type="text/css" rel="stylesheet" href="../commun/style.css" />
   </head>
 
@@ -27,7 +27,7 @@
       <dl>
         <dt>Date</dt>
         <dd>{{ date }}</dd>
-        <dt>N° de facture</dt>
+        <dt>N° de {{ 'devis' if quotation else 'facture' }}</dt>
         <dd>{{ number }}</dd>
       </dl>
 
