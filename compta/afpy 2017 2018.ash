@@ -237,6 +237,38 @@
 2018/05/26 -10.20€ Order Bank X
 
 
+-- Juin 2018
+
+2018/06/06 1000.00€ Order PyConFr18 X
+    Anybox
+
+2018/06/11 -42.00€ Order Domiciliation X
+
+2018/06/11 -29.98€ Order Hébergement X
+    Dédibox
+
+2018/06/12 40.00€ Order Cotisation X
+
+2018/06/12 10.00€ Order Don X
+
+2018/06/15 1000.00€ Order PyConFr18 X
+    PeopleDoc
+
+2018/06/19 500.00€ Order PyConFr18 X
+    Algoo
+
+2018/06/20 500.00€ Order PyConFr18 X
+    Alwaysdata
+
+2018/06/22 500.00€ Order PyConFr18 X
+    Odoo
+
+2018/06/26 -10.20€ Order Banque X
+
+2018/06/22 500.00€ Order PyConFr18 X
+    Nexedi
+
+
 -- Pending
 
 -- ToDo
