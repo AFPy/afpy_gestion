@@ -33,7 +33,7 @@
 2017/09/25 107.5€ Check PyConFr17 X
     vente de tshirt
 
-2017/09/25 -10.20€ Order Bank X
+2017/09/25 -10.20€ Order Banque X
 
 2017/09/26 2455.0€ Cash PyConFr17 X
     Vente de tshirts - 1.6 remboursement MS
@@ -57,14 +57,14 @@
 
 -- Octobre 2017
 
-2017/10/09 -29.98€ Order Hosting X
+2017/10/09 -29.98€ Order Hébergement X
     Dédibox
 
 2017/10/16 20€ Paypal Cotisation X
 
 2017/10/16 -0.93€ Paypal CommissionPaypal X
 
-2017/10/20 2.57€ Paypal DepuisBanque X
+2017/10/20 2.57€ Paypal VirementInterne X
 
 2017/10/20 -14.28€ Paypal Meetup X
     Remboursement AV Courses
@@ -81,24 +81,24 @@
 2017/10/20 -1089€ Transfer PyConFr17 X
     FreeWear.org
 
-2017/10/24 -2.57€ Order VersPaypal X
+2017/10/24 -2.57€ Order VirementInterne X
 
-2017/10/26 0.77€ Order Bank X
+2017/10/26 0.77€ Order Banque X
 
-2017/10/27 -10.2€ Order Bank X
+2017/10/27 -10.2€ Order Banque X
 
-2017/10/27 0.77€ Order Bank X
+2017/10/27 0.77€ Order Banque X
 
-2017/10/27 0.77€ Order Bank X
+2017/10/27 0.77€ Order Banque X
 
-2017/10/27 0.77€ Order Bank X
+2017/10/27 0.77€ Order Banque X
 
-2017/10/27 0.77€ Order Bank X
+2017/10/27 0.77€ Order Banque X
 
 
 -- Novembre 2017
 
-2017/11/08 -29.98€ Order Hosting X
+2017/11/08 -29.98€ Order Hébergement X
     Dédibox
 
 2017/11/20 -82.8€ Transfer PyConFr17 X
@@ -116,27 +116,27 @@
 2017/11/20 -421.08€ Transfer PyConFr17 X
     Ecocups LP
 
-2017/11/20 43.13€ Paypal DepuisBanque X
+2017/11/20 43.13€ Paypal VirementInterne X
     Tranfert SG -> Paypal (Gandi)
 
-2017/11/22 -43.13€ Order VersPaypal X
+2017/11/22 -43.13€ Order VirementInterne X
     Tranfert SG -> Paypal (Gandi)
 
-2017/11/08 -43.13€ Paypal Hosting X
+2017/11/08 -43.13€ Paypal Hébergement X
     Gandi
 
-2017/11/25 -10.20€ Order Bank X
+2017/11/25 -10.20€ Order Banque X
 
-2017/11/28 -31.00€ Order DILA X
+2017/11/28 -31.00€ Order Statuts X
     Dépôt des statuts
 
 
 -- Décembre 2017
 
-2017/12/14 -29.98€ Order Hosting X
+2017/12/14 -29.98€ Order Hébergement X
     Dédibox
 
-2017/12/23 -10.20€ Order Bank X
+2017/12/23 -10.20€ Order Banque X
 
 
 -- Janvier 2018
@@ -150,14 +150,14 @@
     Aurus - Sécurité
     Sécurité
 
-2018/01/10 -29.98€ Order Hosting X
+2018/01/10 -29.98€ Order Hébergement X
     Dédibox
 
 2018/01/23 20€ Paypal Cotisation X
 
 2018/01/23 -0.93€ Paypal CommissionPaypal X
 
-2018/01/26 -10.20€ Order Bank X
+2018/01/26 -10.20€ Order Banque X
 
 2018/01/30 -105.40€ Transfer FOSDEM X
     Remboursement AV Goodies
@@ -168,28 +168,28 @@
 2018/02/02 -62.00€ Transfer Meetup X
     Remboursement AV Pizzas traduction
 
-2018/02/08 -90.55€ Order ETIC X
+2018/02/08 -90.55€ Order Domiciliation X
 
-2018/02/12 -29.98€ Order Hosting X
+2018/02/12 -29.98€ Order Hébergement X
     Dédibox
 
 2018/02/15 20€ Paypal Cotisation X
 
-2018/02/23 -10.20€ Order Bank X
+2018/02/23 -10.20€ Order Banque X
 
 
 -- Mars 2018
 
-2018/03/06 -29.98€ Order Hosting X
+2018/03/06 -29.98€ Order Hébergement X
     Dédibox
 
-2018/03/07 -42.00€ Order ETIC X
+2018/03/07 -42.00€ Order Domiciliation X
 
 2018/03/13 1210.00€ Order Cotisation X
 
 2018/03/13 255.00€ Order Don X
 
-2018/03/27 -10.20€ Order Bank X
+2018/03/27 -10.20€ Order Banque X
 
 2018/03/28 20€ Paypal Cotisation X
 
@@ -208,9 +208,9 @@
 2018/04/04 -30.46€ Transfer Meetup X
     Remboursement HB Meetup
 
-2018/04/10 -42.00€ Order ETIC X
+2018/04/10 -42.00€ Order Domiciliation X
 
-2018/04/10 -29.98€ Order Hosting X
+2018/04/10 -29.98€ Order Hébergement X
     Dédibox
 
 2018/04/10 220.00€ Order Cotisation X
@@ -219,22 +219,22 @@
 
 2018/04/11 -500.00€ Transfer DjangoGirlsBordeaux X
 
-2018/04/25 -10.20€ Order Bank X
+2018/04/25 -10.20€ Order Banque X
 
 
 -- Mai 2018
 
 2018/05/08 40.00€ Order Cotisation X
 
-2018/05/09 -42.00€ Order ETIC X
+2018/05/09 -42.00€ Order Domiciliation X
 
-2018/05/11 -29.98€ Order Hosting X
+2018/05/11 -29.98€ Order Hébergement X
     Dédibox
 
-2018/05/18 500.00€ XXX PyConFr17 P
+2018/05/18 500.00€ XXX PyConFr17 X
     Majerti
 
-2018/05/26 -10.20€ Order Bank X
+2018/05/26 -10.20€ Order Banque X
 
 
 -- Juin 2018
