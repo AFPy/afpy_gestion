@@ -73,8 +73,7 @@ Tableau de suivi du sponsoring PyCon 2018
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | PeopleDoc                | Laureline Guerin  | laureline.guerin@people-doc.com      | Argent          | 1000 (1172) | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Algoo                    | Damien Accorsi    | damien.accorsi@algoo.fr              | Bronze          | 500 (1173)  | En attente d'informations   |
-|                          |                   |                                      |                 |             | Payé                        |
+| Algoo                    | Damien Accorsi    | damien.accorsi@algoo.fr              | Bronze          | 500 (1173)  | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Anybox                   | Christ. Combelles | contact@anybox.fr                    | Argent          | 1000 (1174) | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
@@ -90,14 +89,26 @@ Tableau de suivi du sponsoring PyCon 2018
 | Itlink                   | Matthieu Girard   | mgirard@itlink.fr                    | Argent          | 1000 (1179) | En attente d'informations   |
 |                          |                   |                                      |                 |             | communiquées début septembre|
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Yaal                     | Arthur Ledard     | stephane@yaal.fr                     | Bronze          | 500 (1180)  | Infos à mettre sur le site  |
+| Yaal                     | Arthur Ledard     | stephane@yaal.fr                     | Bronze          | 500 (1180)  | En attente de paiement      |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+| Makina Corpus            | Amel Penant       | amel.penant@makina-corpus.com        | Argent          | 1000 (1181) | En attente de paiement      |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+| Budget Insight           | Romain Bignon     | romain@budget-insight.com            | Argent          | 1000 (1182) | En attente d'informations   |
+|                          |                   |                                      |                 |             | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Invivoo                  | Antoine Chevalier | antoine.chevalier@invivoo.com        | Argent          |             | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Makina Corpus            | Amel Penant       | amel.penant@makina-corpus.com        | Argent          |             | En attente d'informations   |
+| Legalstart               | Alexandre Hajjar  | ahajjar@legalstart.fr                | Argent / Or     |             | Nouveau sponsor             |
+|                          |                   |                                      |                 |             | En attente d'informations   |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Logilab                  | Marla da Silva    | marla.dasilva@logilab.fr             | Bronze          |             | En attente d'informations   |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-|      **Total**           |                   |                                      |                 | 11000       |                             |
+| Numberly                 |                   |                                      | Argent          |             | Nouveau sponsor             |
+|                          |                   |                                      |                 |             | En attente d'informations   |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+| Back Market              | Aurélien          | aurelien.schneberger@backmarket.com  | Or              |             | En attente d'entretien      |
+|                          | Schneberger       |                                      |                 |             | téléphonique                |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+|      **Total**           |                   |                                      |                 | 13000       |                             |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
