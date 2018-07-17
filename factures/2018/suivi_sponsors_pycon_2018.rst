@@ -42,8 +42,6 @@ Tableau de suivi du sponsoring PyCon 2018
 | Python Software          |                   |                                      |                 |             |                             |
 | foundation               |                   |                                      |                 |             |                             |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Planet work              | Hadrien Devallez  | h.devallez@planet-work.com           |                 |             |                             |
-+--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Orange IMPT/OLPS         | Franck Guillaud   | franck.guillaud@orange.com           |                 |             |                             |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Lengow                   | Thomas Loiret     | thomas.loiret@lengow.com             |                 |             |                             |
@@ -89,12 +87,19 @@ Tableau de suivi du sponsoring PyCon 2018
 | Itlink                   | Matthieu Girard   | mgirard@itlink.fr                    | Argent          | 1000 (1179) | En attente d'informations   |
 |                          |                   |                                      |                 |             | communiquées début septembre|
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Yaal                     | Arthur Ledard     | stephane@yaal.fr                     | Bronze          | 500 (1180)  | En attente de paiement      |
+| Yaal                     | Arthur Ledard     | stephane@yaal.fr                     | Bronze          | 500 (1180)  | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Makina Corpus            | Amel Penant       | amel.penant@makina-corpus.com        | Argent          | 1000 (1181) | En attente de paiement      |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Budget Insight           | Romain Bignon     | romain@budget-insight.com            | Argent          | 1000 (1182) | En attente d'informations   |
+| Budget Insight           | Romain Bignon     | romain@budget-insight.com            | Argent          | 1000 (1182) | Nouveau sponsor             |
+|                          |                   |                                      |                 |             | En attente d'informations   |
 |                          |                   |                                      |                 |             | Payé                        |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+| Planet work              | Sandrine Davy     | sandrine@serveurcom.com              | Argent          |             | En attente d'entretien      |
+|                          |                   |                                      |                 |             | téléphonique                |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+| 1000mercis               | Guillaume Gelin   | ramnes@1000mercis.com                | Argent          |             | Nouveau sponsor             |
+|                          |                   |                                      |                 |             | En attente d'informations   |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Invivoo                  | Antoine Chevalier | antoine.chevalier@invivoo.com        | Argent          |             | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
