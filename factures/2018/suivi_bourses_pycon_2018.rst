@@ -43,6 +43,9 @@ Tableau de suivi des bourses PyCon 2018
 | Prakhar Srivastava           | srivastavaprakhar1@gmail.com           | Accord de principe    | 400         |                |                | En attente de justificatifs |
 |                              |                                        |                       |             |                |                | Conférencier                |
 +------------------------------+----------------------------------------+-----------------------+-------------+----------------+----------------+-----------------------------+
+| Kamel Ibn Aziz Derouiche     | kamel.derouiche@gmail.com              | En attente            |             |                |                | En attente de justificatif  |
+|                              |                                        |                       |             |                |                | de chercheur                |
++------------------------------+----------------------------------------+-----------------------+-------------+----------------+----------------+-----------------------------+
 | Bytchelot Louius             | bytchelotlouius@gmail.com              | En attente            |             |                |                | En attente de justificatif  |
 |                              |                                        |                       |             |                |                | d'étudiant                  |
 +------------------------------+----------------------------------------+-----------------------+-------------+----------------+----------------+-----------------------------+
