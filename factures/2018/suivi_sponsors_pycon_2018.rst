@@ -104,11 +104,11 @@ Tableau de suivi du sponsoring PyCon 2018
 | Numberly                 | Guillaume Gelin   | ramnes@1000mercis.com                | Argent          | 1000 (1185) | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente de paiement      |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+| Planet-Work              | Sandrine Davy     | sandrine@serveurcom.com              | Argent / Or     | (1186)      | En attente d'acceptation du |
+|                          |                   |                                      |                 |             | devis                       |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | B2CK                     | Cédric Krier      | cedric.krier@b2ck.com                | Bronze          |             | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
-+--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Planet-Work              | Sandrine Davy     | sandrine@serveurcom.com              | Argent /Or      |             | En attente d'acceptation du |
-|                          |                   |                                      |                 |             | devis                       |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Legalstart               | Alexandre Hajjar  | ahajjar@legalstart.fr                | Argent / Or     |             | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
