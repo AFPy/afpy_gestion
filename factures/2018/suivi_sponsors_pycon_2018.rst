@@ -95,14 +95,20 @@ Tableau de suivi du sponsoring PyCon 2018
 |                          |                   |                                      |                 |             | En attente d'informations   |
 |                          |                   |                                      |                 |             | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Planet work              | Sandrine Davy     | sandrine@serveurcom.com              | Argent          |             | En attente d'entretien      |
-|                          |                   |                                      |                 |             | téléphonique                |
+| Back Market              | Aurélien          | aurelien.schneberger@backmarket.com  | Or              | 2000 (1183) | Nouveau sponsor             |
+|                          | Schneberger       |                                      |                 |             | En attente d'informations   |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| 1000mercis               | Guillaume Gelin   | ramnes@1000mercis.com                | Argent          |             | Nouveau sponsor             |
+| Invivoo                  | Antoine Chevalier | antoine.chevalier@invivoo.com        | Argent          | 1000 (1184) | Nouveau sponsor             |
+|                          |                   |                                      |                 |             | En attente de paiement      |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+| Numberly                 | Guillaume Gelin   | ramnes@1000mercis.com                | Argent          | 1000 (1185) | Nouveau sponsor             |
+|                          |                   |                                      |                 |             | En attente de paiement      |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+| B2CK                     | Cédric Krier      | cedric.krier@b2ck.com                | Bronze          |             | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Invivoo                  | Antoine Chevalier | antoine.chevalier@invivoo.com        | Argent          |             | Nouveau sponsor             |
-|                          |                   |                                      |                 |             | En attente d'informations   |
+| Planet-Work              | Sandrine Davy     | sandrine@serveurcom.com              | Argent /Or      |             | En attente d'acceptation du |
+|                          |                   |                                      |                 |             | devis                       |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Legalstart               | Alexandre Hajjar  | ahajjar@legalstart.fr                | Argent / Or     |             | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
@@ -112,8 +118,5 @@ Tableau de suivi du sponsoring PyCon 2018
 | Numberly                 |                   |                                      | Argent          |             | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Back Market              | Aurélien          | aurelien.schneberger@backmarket.com  | Or              |             | En attente d'entretien      |
-|                          | Schneberger       |                                      |                 |             | téléphonique                |
-+--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-|      **Total**           |                   |                                      |                 | 13000       |                             |
+|      **Total**           |                   |                                      |                 | 17000       |                             |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
