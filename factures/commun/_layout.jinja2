@@ -2,7 +2,11 @@
 <html lang="fr">
   <head>
     <meta charset="UTF-8"/>
-    <title>AFPy − {{ 'Devis' if quotation else 'Facture' }} n°{{ number }}</title>
+    {% if number == 'lettre' %}
+      <title>AFPY - Lettre</title>
+    {% else %}
+      <title>AFPy − {{ 'Devis' if quotation else 'Facture' }} n°{{ number }}</title>
+    {% endif %}
     <link type="text/css" rel="stylesheet" href="../commun/style.css" />
   </head>
 
