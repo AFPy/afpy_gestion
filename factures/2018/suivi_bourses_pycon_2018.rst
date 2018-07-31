@@ -55,7 +55,7 @@ Tableau de suivi des bourses PyCon 2018
 |                              |                                        |                       |             |                |                | Lettre pour demande de visa |
 |                              |                                        |                       |             |                |                | Conférencier                |
 +------------------------------+----------------------------------------+-----------------------+-------------+----------------+----------------+-----------------------------+
-| Esdras Oreus                 | esdrasoreus23@gmail.com                | Accord de principe    | 400         |                |                | En attente de justificatifs |
+| Esdra Oreus                  | esdrasoreus23@gmail.com                | Accord de principe    | 400         |                |                | En attente de justificatifs |
 |                              |                                        |                       |             |                |                | Lettre pour demande de visa |
 +------------------------------+----------------------------------------+-----------------------+-------------+----------------+----------------+-----------------------------+
 | Lilian Besson                | lilian.besson@centralesupelec.fr       | Accord de principe    | 200         | 40,50          | 40,50          | Remboursement effectué      |
