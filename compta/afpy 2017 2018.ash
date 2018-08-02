@@ -269,6 +269,52 @@
     Nexedi
 
 
+-- Juillet 2018
+
+2018/07/05 1000.00€ Order PyConFr18 X
+    Sewan
+
+2018/07/09 -42.00€ Order Domiciliation X
+
+2018/07/12 60.00€ Order Cotisation X
+
+2018/07/13 -500.00€ Transfer DjangoGirlsAbidjan X
+
+2018/07/13 -29.98€ Order Hébergement X
+    Dédibox
+
+2018/07/16 -32.00€ Order CommissionBanque X
+
+2018/07/16 1000.00€ Order PyConFr18 X
+    Budget Insight
+
+2018/07/18 500.00€ Order PyConFr18 X
+    Yaal
+
+2018/07/23 1000.00€ Order PyConFr18 X
+    Makina Corpus
+
+2018/07/25 2000.00€ Order PyConFr18 X
+    Jung / Back Market
+
+2018/07/26 -10.20€ Order Banque X
+
+2018/07/27 1000.00€ Order PyConFr18 X
+    IT Link
+
+2018/07/30 -480.00€ Transfer PyConFr18 X
+    Salons du Pont neuf - Salle samedi soir
+
+2018/07/30 -40.50€ Transfer BoursePyConFr18 X
+    Bourse LB
+
+2018/07/30 3000.00€ Order PyConFr18 X
+    Sewan
+
+2018/07/31 1000.00€ Order PyConFr18 X
+    Invivoo
+
+
 -- Pending
 
 -- ToDo
