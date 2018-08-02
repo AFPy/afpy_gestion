@@ -68,6 +68,7 @@ Tableau de suivi du sponsoring PyCon 2018
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Sewan                    | Jean-Baptiste     | jbaptiste.braun@gmail.com            | Platine         | 4000        | Nouveau sponsor             |
 |                          | Braun             |                                      | (transcription) | (1171,1178) | En attente d'informations   |
+|                          |                   |                                      |                 |             | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | PeopleDoc                | Laureline Guerin  | laureline.guerin@people-doc.com      | Argent          | 1000 (1172) | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
@@ -86,20 +87,21 @@ Tableau de suivi du sponsoring PyCon 2018
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Itlink                   | Matthieu Girard   | mgirard@itlink.fr                    | Argent          | 1000 (1179) | En attente d'informations   |
 |                          |                   |                                      |                 |             | communiquées début septembre|
+|                          |                   |                                      |                 |             | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Yaal                     | Arthur Ledard     | stephane@yaal.fr                     | Bronze          | 500 (1180)  | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| Makina Corpus            | Amel Penant       | amel.penant@makina-corpus.com        | Argent          | 1000 (1181) | En attente de paiement      |
+| Makina Corpus            | Amel Penant       | amel.penant@makina-corpus.com        | Argent          | 1000 (1181) | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Budget Insight           | Romain Bignon     | romain@budget-insight.com            | Argent          | 1000 (1182) | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
 |                          |                   |                                      |                 |             | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Back Market              | Aurélien          | aurelien.schneberger@backmarket.com  | Or              | 2000 (1183) | Nouveau sponsor             |
-|                          | Schneberger       |                                      |                 |             | En attente d'informations   |
+|                          | Schneberger       |                                      |                 |             | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Invivoo                  | Antoine Chevalier | antoine.chevalier@invivoo.com        | Argent          | 1000 (1184) | Nouveau sponsor             |
-|                          |                   |                                      |                 |             | En attente de paiement      |
+|                          |                   |                                      |                 |             | Payé                        |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Numberly                 | Guillaume Gelin   | ramnes@1000mercis.com                | Argent          | 1000 (1185) | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente de paiement      |
