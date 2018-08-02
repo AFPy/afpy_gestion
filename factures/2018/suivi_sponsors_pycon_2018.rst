@@ -82,7 +82,7 @@ Tableau de suivi du sponsoring PyCon 2018
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Oui.sncf (VSC            | Mickaël           | mmoyen-pedone@oui.sncf               | Argent          | 1000 (1177) | Nouveau sponsor             |
 | Techonoliges)            | Moyen-Pedone      |                                      |                 |             | Devis signé                 |
-|                          |                   |                                      |                 |             | En attente d'informations   |
+|                          |                   |                                      |                 |             | En attente de paiement      |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Itlink                   | Matthieu Girard   | mgirard@itlink.fr                    | Argent          | 1000 (1179) | En attente d'informations   |
 |                          |                   |                                      |                 |             | communiquées début septembre|
@@ -107,8 +107,8 @@ Tableau de suivi du sponsoring PyCon 2018
 | Planet-Work              | Sandrine Davy     | sandrine@serveurcom.com              | Argent / Or     | (1186)      | En attente d'acceptation du |
 |                          |                   |                                      |                 |             | devis                       |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-| B2CK                     | Cédric Krier      | cedric.krier@b2ck.com                | Bronze          |             | Nouveau sponsor             |
-|                          |                   |                                      |                 |             | En attente d'informations   |
+| B2CK                     | Cédric Krier      | cedric.krier@b2ck.com                | Bronze          | 500 (1187)  | Nouveau sponsor             |
+|                          |                   |                                      |                 |             | En attente de paiement      |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
 | Legalstart               | Alexandre Hajjar  | ahajjar@legalstart.fr                | Argent / Or     |             | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
@@ -118,5 +118,11 @@ Tableau de suivi du sponsoring PyCon 2018
 | Numberly                 |                   |                                      | Argent          |             | Nouveau sponsor             |
 |                          |                   |                                      |                 |             | En attente d'informations   |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
-|      **Total**           |                   |                                      |                 | 17000       |                             |
+| Dolead                   | Vlad Zloteanu     | vlad.zloteanu@dolead.com             | Argent          |             | Nouveau sponsor             |
+|                          |                   |                                      |                 |             | En attente d'informations   |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+| Citusdata                | Teresa Giacomini  | teresa@citusdata.com                 | Bronze / Argent |             | Nouveau sponsor             |
+|                          |                   |                                      |                 |             | En attente d'informations   |
++--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
+|      **Total**           |                   |                                      |                 | 17500       |                             |
 +--------------------------+-------------------+--------------------------------------+-----------------+-------------+-----------------------------+
