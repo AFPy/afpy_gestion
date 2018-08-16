@@ -112,6 +112,9 @@ Tableau de suivi du sponsoring PyCon 2018
 | B2CK                     | Bronze          | 500 (1187)  | Nouveau sponsor             |
 |                          |                 |             | En attente de paiement      |
 +--------------------------+-----------------+-------------+-----------------------------+
+| Dolead                   | Argent          | 1000 (1188) | Nouveau sponsor             |
+|                          |                 |             | En attente d'informations   |
++--------------------------+-----------------+-------------+-----------------------------+
 | Legalstart               | Argent / Or     |             | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
@@ -120,11 +123,8 @@ Tableau de suivi du sponsoring PyCon 2018
 | Numberly                 | Argent          |             | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
-| Dolead                   | Argent          |             | Nouveau sponsor             |
-|                          |                 |             | En attente d'informations   |
-+--------------------------+-----------------+-------------+-----------------------------+
 | Citusdata                | Bronze / Argent |             | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
-|      **Total**           |                 | 17500       |                             |
+|      **Total**           |                 | 18500       |                             |
 +--------------------------+-----------------+-------------+-----------------------------+
