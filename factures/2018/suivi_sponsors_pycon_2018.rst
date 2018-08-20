@@ -115,6 +115,9 @@ Tableau de suivi du sponsoring PyCon 2018
 | Dolead                   | Argent          | 1000 (1188) | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
+| CIM                      | Argent          | 1000 (1189) | Nouveau sponsor             |
+|                          |                 |             | En attente d'informations   |
++--------------------------+-----------------+-------------+-----------------------------+
 | Legalstart               | Argent / Or     |             | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
@@ -126,5 +129,5 @@ Tableau de suivi du sponsoring PyCon 2018
 | Citusdata                | Bronze / Argent |             | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
-|      **Total**           |                 | 18500       |                             |
+|      **Total**           |                 | 19500       |                             |
 +--------------------------+-----------------+-------------+-----------------------------+
