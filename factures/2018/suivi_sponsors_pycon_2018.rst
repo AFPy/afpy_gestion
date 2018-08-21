@@ -116,7 +116,7 @@ Tableau de suivi du sponsoring PyCon 2018
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
 | CIM                      | Argent          | 1000 (1189) | Nouveau sponsor             |
-|                          |                 |             | En attente d'informations   |
+|                          |                 |             | En attente de paiement      |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Legalstart               | Argent / Or     |             | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
