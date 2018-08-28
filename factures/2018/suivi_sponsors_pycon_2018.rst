@@ -118,6 +118,12 @@ Tableau de suivi du sponsoring PyCon 2018
 | CIM                      | Argent          | 1000 (1189) | Nouveau sponsor             |
 |                          |                 |             | En attente de paiement      |
 +--------------------------+-----------------+-------------+-----------------------------+
+| Octobus                  | Argent          | 1000 (1190) | Nouveau sponsor             |
+|                          |                 |             | En attente d'informations   |
++--------------------------+-----------------+-------------+-----------------------------+
+| OVH                      | Argent          |             | Nouveau sponsor             |
+|                          |                 |             | En attente d'informations   |
++--------------------------+-----------------+-------------+-----------------------------+
 | Legalstart               | Argent / Or     |             | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
@@ -129,5 +135,5 @@ Tableau de suivi du sponsoring PyCon 2018
 | Citusdata                | Bronze / Argent |             | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
-|      **Total**           |                 | 19500       |                             |
+|      **Total**           |                 | 20500       |                             |
 +--------------------------+-----------------+-------------+-----------------------------+
