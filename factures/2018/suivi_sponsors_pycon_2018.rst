@@ -106,8 +106,7 @@ Tableau de suivi du sponsoring PyCon 2018
 | Numberly                 | Argent          | 1000 (1185) | Nouveau sponsor             |
 |                          |                 |             | En attente de paiement      |
 +--------------------------+-----------------+-------------+-----------------------------+
-| Planet-Work              | Argent / Or     | (1186)      | En attente d'acceptation du |
-|                          |                 |             | devis                       |
+| Planet-Work              | Argent          | 1000 (1186) | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
 | B2CK                     | Bronze          | 500 (1187)  | Nouveau sponsor             |
 |                          |                 |             | En attente de paiement      |
@@ -135,5 +134,5 @@ Tableau de suivi du sponsoring PyCon 2018
 | Citusdata                | Bronze / Argent |             | Nouveau sponsor             |
 |                          |                 |             | En attente d'informations   |
 +--------------------------+-----------------+-------------+-----------------------------+
-|      **Total**           |                 | 20500       |                             |
+|      **Total**           |                 | 21500       |                             |
 +--------------------------+-----------------+-------------+-----------------------------+
