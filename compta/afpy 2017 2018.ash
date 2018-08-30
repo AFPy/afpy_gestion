@@ -148,7 +148,6 @@
 
 2018/01/09 -2301.85€ Check PyConFr17 X
     Aurus - Sécurité
-    Sécurité
 
 2018/01/10 -29.98€ Order Hébergement X
     Dédibox
