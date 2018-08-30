@@ -57,6 +57,8 @@ Tableau de suivi du sponsoring PyCon 2018
 +--------------------------+-----------------+-------------+-----------------------------+
 | Majerti                  |                 |             |                             |
 +--------------------------+-----------------+-------------+-----------------------------+
+| Logilab                  |                 |             |                             |
++--------------------------+-----------------+-------------+-----------------------------+
 | Mozilla Foundation       |                 |             | BOUNCED                     |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Lexsi                    |                 |             | BOUNCED                     |
@@ -67,8 +69,7 @@ Tableau de suivi du sponsoring PyCon 2018
 |                          |                 |             | Payé                        |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Sewan                    | Platine         | 4000        | Nouveau sponsor             |
-|                          | (transcription) | (1171,1178) | En attente d'informations   |
-|                          |                 |             | Payé                        |
+|                          | (transcription) | (1171,1178) | Payé                        |
 +--------------------------+-----------------+-------------+-----------------------------+
 | PeopleDoc                | Argent          | 1000 (1172) | Payé                        |
 +--------------------------+-----------------+-------------+-----------------------------+
@@ -85,8 +86,8 @@ Tableau de suivi du sponsoring PyCon 2018
 | Techonoliges)            |                 |             | Devis signé                 |
 |                          |                 |             | En attente de paiement      |
 +--------------------------+-----------------+-------------+-----------------------------+
-| Itlink                   | Argent          | 1000 (1179) | En attente d'informations   |
-|                          |                 |             | communiquées début septembre|
+| Itlink                   | Argent          | 1000 (1179) | En attente de logo +        |
+|                          |                 |             | description (en cours)      |
 |                          |                 |             | Payé                        |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Yaal                     | Bronze          | 500 (1180)  | Payé                        |
@@ -94,7 +95,8 @@ Tableau de suivi du sponsoring PyCon 2018
 | Makina Corpus            | Argent          | 1000 (1181) | Payé                        |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Budget Insight           | Argent          | 1000 (1182) | Nouveau sponsor             |
-|                          |                 |             | En attente d'informations   |
+|                          |                 |             | En attente de description   |
+|                          |                 |             | (relancé)                   |
 |                          |                 |             | Payé                        |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Back Market              | Or              | 2000 (1183) | Nouveau sponsor             |
@@ -106,33 +108,34 @@ Tableau de suivi du sponsoring PyCon 2018
 | Numberly                 | Argent          | 1000 (1185) | Nouveau sponsor             |
 |                          |                 |             | En attente de paiement      |
 +--------------------------+-----------------+-------------+-----------------------------+
-| Planet-Work              | Argent          | 1000 (1186) | En attente d'informations   |
+| Planet-Work              | Argent          | 1000 (1186) | En attente de description   |
+|                          |                 |             | (en cours)                  |
 +--------------------------+-----------------+-------------+-----------------------------+
 | B2CK                     | Bronze          | 500 (1187)  | Nouveau sponsor             |
 |                          |                 |             | En attente de paiement      |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Dolead                   | Argent          | 1000 (1188) | Nouveau sponsor             |
-|                          |                 |             | En attente d'informations   |
+|                          |                 |             | En attente de logo +        |
+|                          |                 |             | description (relancé)       |
 +--------------------------+-----------------+-------------+-----------------------------+
 | CIM                      | Argent          | 1000 (1189) | Nouveau sponsor             |
 |                          |                 |             | En attente de paiement      |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Octobus                  | Argent          | 1000 (1190) | Nouveau sponsor             |
-|                          |                 |             | En attente d'informations   |
+|                          |                 |             | En attente de description   |
+|                          |                 |             | (en cours)                  |
 +--------------------------+-----------------+-------------+-----------------------------+
 | OVH                      | Argent          |             | Nouveau sponsor             |
-|                          |                 |             | En attente d'informations   |
+|                          |                 |             | En attente de confirmation  |
+|                          |                 |             | (en cours)                  |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Legalstart               | Argent / Or     |             | Nouveau sponsor             |
-|                          |                 |             | En attente d'informations   |
-+--------------------------+-----------------+-------------+-----------------------------+
-| Logilab                  | Bronze          |             | En attente d'informations   |
-+--------------------------+-----------------+-------------+-----------------------------+
-| Numberly                 | Argent          |             | Nouveau sponsor             |
-|                          |                 |             | En attente d'informations   |
+|                          |                 |             | En attente de confirmation  |
+|                          |                 |             | (relancé)                   |
 +--------------------------+-----------------+-------------+-----------------------------+
 | Citusdata                | Bronze / Argent |             | Nouveau sponsor             |
-|                          |                 |             | En attente d'informations   |
+|                          |                 |             | En attente de confirmation  |
+|                          |                 |             | (relancé)                   |
 +--------------------------+-----------------+-------------+-----------------------------+
 |      **Total**           |                 | 21500       |                             |
 +--------------------------+-----------------+-------------+-----------------------------+
