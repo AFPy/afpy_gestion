@@ -133,9 +133,10 @@ Tableau de suivi du sponsoring PyCon 2018
 |                          |                 |             | En attente de confirmation  |
 |                          |                 |             | (relancé)                   |
 +--------------------------+-----------------+-------------+-----------------------------+
-| Citusdata                | Bronze / Argent |             | Nouveau sponsor             |
-|                          |                 |             | En attente de confirmation  |
-|                          |                 |             | (relancé)                   |
+| Citusdata                | Bronze          |             | Nouveau sponsor             |
+|                          |                 |             | En attente de logo +        |
+|                          |                 |             | description + adresse       |
+|                          |                 |             | (en cours)                  |
 +--------------------------+-----------------+-------------+-----------------------------+
 |      **Total**           |                 | 21500       |                             |
 +--------------------------+-----------------+-------------+-----------------------------+
