@@ -52,14 +52,8 @@ Membres de l'Association
 Toute personne ayant cotisé lors d'une campagne d'adhésion est dite membre de
 l'Association, hormis :
 
-- les personnes ne réunissant pas les conditions d'acceptation,
 - les personnes démissionnaires, et
 - les personnes radiées.
-
-Conditions d'acceptation
-------------------------
-
-.. TODO. Voir Article 3.
 
 Démission et radiation
 ----------------------
