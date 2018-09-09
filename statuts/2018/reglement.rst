@@ -75,6 +75,7 @@ Les motifs de radiation sont :
   l'Association ;
 - le non respect du Code de Conduite lors des communications faites au nom de
   l'Association ;
+- le désintérêt manifeste concernant le but de l'Association,
 - le non paiement de la cotisation à la campagne d'adhésion de l'année civile
   en cours.
 

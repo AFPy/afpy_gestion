@@ -44,7 +44,7 @@ Article 4
 
 Les membres individuels de l'Association contribuent à son fonctionnement
 par le paiement d'une cotisation dont le montant et les modalités de versement
-sont fixés par l'Assemblée Générale et définis au Règlement Intérieur.
+sont fixés par le Comité Directeur et définis au Règlement Intérieur.
 
 Article 5
 ---------
@@ -92,6 +92,11 @@ L'Assemblée Générale se compose des membres de l'Association.
 La liste des membres de l'Association prise en compte pour l'Assemblée Générale
 est celle officiellement arrêtée 15 (quinze) jours avant la tenue de
 l'Assemblée Générale.
+
+Les membres démissionnaires ou radiés entre l'arrêt de la liste et l'Assemblée
+Générale sont exclus de cette liste. Les nouveaux membres ayant cotisé entre
+l'arrêt de la liste et l'Assemblée Générale ne sont pas inclus dans cette
+liste.
 
 Peut assister à l'Assemblée Générale, avec voix consultative, toute personne
 ayant reçu l'accord de l'un des membres du Bureau.
