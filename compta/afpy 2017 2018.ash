@@ -314,6 +314,21 @@
     Invivoo
 
 
--- Pending
+-- Août 2018
 
--- ToDo
+2018/08/03 40.00€ Order Cotisation X
+
+2018/08/09 -42.00€ Order Domiciliation X
+
+2018/08/10 -29.98€ Order Hébergement X
+    Dédibox
+
+2018/08/10 500.00€ Order PyConFr18 X
+    B2CK
+
+2016/08/16 -100.00€ Transfer CotisationApril X
+
+2018/08/28 -10.20€ Order Banque X
+
+2018/08/31 -40.50€ Transfer BoursePyConFr18 X
+    Bourse FC
