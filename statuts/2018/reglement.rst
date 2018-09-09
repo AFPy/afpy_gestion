@@ -90,6 +90,7 @@ membre par simple cotisation à la campagne d'adhésion en cours.
 
 Une personne radiée pour un autre motif peut devenir à nouveau membre sous deux
 conditions :
+
 - cotiser lors d'une campagne d'adhésion ultérieure à celle de l'année où elle
   a été radiée, et
 - avoir obtenu l'accord préalable lors d'une réunion du Comité Directeur, à la
