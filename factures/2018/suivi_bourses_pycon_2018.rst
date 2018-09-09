@@ -24,6 +24,9 @@ Tableau de suivi des bourses PyCon 2018
 | BL             | En attente            |             |                |                | En attente de justificatif  |
 |                |                       |             |                |                | d'étudiant                  |
 +----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
+| AS             | En attente            |             |                |                | En attente de justificatifs |
+|                |                       |             |                |                | Lettre pour demande de visa |
++----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
 | NA             | Accord de principe    | 400         |                |                | En attente de justificatifs |
 |                |                       |             |                |                | Lettre pour demande de visa |
 +----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
