@@ -82,9 +82,7 @@ Tableau de suivi du sponsoring PyCon 2018
 | Techonoliges)            |                 |             | Devis signé                 |         |
 |                          |                 |             | En attente de paiement      |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-| Itlink                   | Argent          | 1000 (1179) | Description à mettre en     | TODO    |
-|                          |                 |             | ligne                       |         |
-|                          |                 |             | Payé                        |         |
+| Itlink                   | Argent          | 1000 (1179) | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Yaal                     | Bronze          | 500 (1180)  | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
@@ -114,6 +112,7 @@ Tableau de suivi du sponsoring PyCon 2018
 | Dolead                   | Argent          | 1000 (1188) | Nouveau sponsor             | TODO    |
 |                          |                 |             | En attente de logo +        |         |
 |                          |                 |             | description (relancé)       |         |
+|                          |                 |             | En attente de paiement      |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | CIM                      | Argent          | 1000 (1189) | Nouveau sponsor             |         |
 |                          |                 |             | Payé                        |         |
@@ -126,22 +125,23 @@ Tableau de suivi du sponsoring PyCon 2018
 | Citusdata                | Bronze          | 500 (1191)  | Nouveau sponsor             | TODO    |
 |                          |                 |             | En attente de description   |         |
 |                          |                 |             | (en cours)                  |         |
+|                          |                 |             | En attente de paiement      |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Logilab                  | Bronze          | 500 (1192)  | En attente de paiement      | TODO    |
 |                          |                 |             | Informations à mettre en    |         |
 |                          |                 |             | ligne                       |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-| Ecreall                  | Argent          | 1000 (1193) | En attente de logo +        | TODO    |
-|                          |                 |             | description                 |         |
-|                          |                 |             | (en cours)                  |         |
+| Ecreall                  | Argent          | 1000 (1193) | En attente de paiement      | TODO    |
++--------------------------+-----------------+-------------+-----------------------------+---------+
+| Legalstart               | Bronze          |             | Nouveau sponsor             | TODO    |
+|                          |                 |             | En attente d'adresse +      |         |
+|                          |                 |             | logo + description (en      |         |
+|                          |                 |             | cours)                      |         |
+|                          |                 |             | En attente de paiement      |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | OVH                      | Argent          |             | Nouveau sponsor             | TODO    |
 |                          |                 |             | En attente de confirmation  |         |
 |                          |                 |             | (en cours)                  |         |
-+--------------------------+-----------------+-------------+-----------------------------+---------+
-| Legalstart               | Argent / Or     |             | Nouveau sponsor             | TODO    |
-|                          |                 |             | En attente de confirmation  |         |
-|                          |                 |             | (relancé)                   |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 |      **Total**           |                 | 23500       |                             |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
