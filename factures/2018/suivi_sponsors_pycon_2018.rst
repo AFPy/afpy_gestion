@@ -109,10 +109,8 @@ Tableau de suivi du sponsoring PyCon 2018
 | B2CK                     | Bronze          | 500 (1187)  | Nouveau sponsor             |         |
 |                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-| Dolead                   | Argent          | 1000 (1188) | Nouveau sponsor             | TODO    |
-|                          |                 |             | En attente de logo +        |         |
-|                          |                 |             | description (relancé)       |         |
-|                          |                 |             | En attente de paiement      |         |
+| Dolead                   | Argent          | 1000 (1188) | Nouveau sponsor             |         |
+|                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | CIM                      | Argent          | 1000 (1189) | Nouveau sponsor             |         |
 |                          |                 |             | Payé                        |         |
@@ -120,28 +118,22 @@ Tableau de suivi du sponsoring PyCon 2018
 | Octobus                  | Argent          | 1000 (1190) | Nouveau sponsor             | TODO    |
 |                          |                 |             | En attente de description   |         |
 |                          |                 |             | (en cours)                  |         |
-|                          |                 |             | En attente de paiement      |         |
+|                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Citusdata                | Bronze          | 500 (1191)  | Nouveau sponsor             | TODO    |
-|                          |                 |             | En attente de description   |         |
-|                          |                 |             | (en cours)                  |         |
 |                          |                 |             | En attente de paiement      |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Logilab                  | Bronze          | 500 (1192)  | En attente de paiement      | TODO    |
-|                          |                 |             | Informations à mettre en    |         |
-|                          |                 |             | ligne                       |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-| Ecreall                  | Argent          | 1000 (1193) | En attente de paiement      | TODO    |
+| Ecreall                  | Argent          | 1000 (1193) | En attente de paiement par  | TODO    |
+|                          |                 |             | chèque                      |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-| Legalstart               | Bronze          |             | Nouveau sponsor             | TODO    |
-|                          |                 |             | En attente d'adresse +      |         |
-|                          |                 |             | logo + description (en      |         |
-|                          |                 |             | cours)                      |         |
+| Legalstart               | Bronze          | 500 (1194)  | Nouveau sponsor             | TODO    |
 |                          |                 |             | En attente de paiement      |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | OVH                      | Argent          |             | Nouveau sponsor             | TODO    |
 |                          |                 |             | En attente de confirmation  |         |
 |                          |                 |             | (en cours)                  |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-|      **Total**           |                 | 23500       |                             |         |
+|      **Total**           |                 | 24000       |                             |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+

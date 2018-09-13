@@ -27,7 +27,7 @@ Tableau de suivi des bourses PyCon 2018
 | AS             | En attente            |             |                |                | En attente de justificatifs |
 |                |                       |             |                |                | Lettre pour demande de visa |
 +----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
-| NA             | Accord de principe    | 400         |                |                | En attente de justificatifs |
+| NA             | Accord de principe    | 0           |                |                | Visa refusé                 |
 |                |                       |             |                |                | Lettre pour demande de visa |
 +----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
 | IB             | Accord de principe    | 400         |                |                | En attente de justificatifs |
@@ -60,6 +60,9 @@ Tableau de suivi des bourses PyCon 2018
 |                |                       |             |                |                | Conférencier                |
 +----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
 | EO             | Accord de principe    | 400         |                |                | En attente de justificatifs |
+|                |                       |             |                |                | Lettre pour demande de visa |
++----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
+| AS             | Accord de principe    | 400         |                |                | En attente de justificatifs |
 |                |                       |             |                |                | Lettre pour demande de visa |
 +----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
 | FC             | Accord                | 200         | 133,28         | 133,28         | Remboursement effectué      |
