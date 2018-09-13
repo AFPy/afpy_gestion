@@ -55,6 +55,10 @@ l'Association, hormis :
 - les personnes démissionnaires, et
 - les personnes radiées.
 
+Une personne peut recevoir la qualité de membre lors d'une réunion du Comité
+Directeur, à la majorité absolue des membres du Comité Directeur, même si elle
+n'a pas cotisé, a démissioné ou a été radiée
+
 Démission et radiation
 ----------------------
 
@@ -79,12 +83,8 @@ Les motifs de radiation sont :
 - le non paiement de la cotisation à la campagne d'adhésion de l'année civile
   en cours.
 
-**Ceci implique le fait que les membres de l'année précédente restent membres
-jusqu'à ce que le Comité Directeur décide de radier les personnes qui ne sont
-pas à jour de cotisations. Le Comité Directeur peut décider en intelligence
-d'effectuer cette radiation une fois par an, le jour de la convocation de
-l'Assemblée Générale, en prenant soin d'avertir au préalable les membres qu'une
-nouvelle campagne d'adhésion est en cours.**
+De plus, le 1\ :sup:`er` mars de chaque année, tous les membres qui n'ont pas
+cotisé à la campagne d'adhésion en cours sont automatiquement radiés.
 
 Une personne radiée par non paiement de la cotisation peut devenir à nouveau
 membre par simple cotisation à la campagne d'adhésion en cours.
