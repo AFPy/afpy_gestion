@@ -26,6 +26,9 @@ l'Association sont définies dans le Code de Conduite.
 En cas de contradiction entre les Statuts et le Règlement Intérieur, les
 statuts prévalent.
 
+En cas de contradiction entre le Règlement Intérieur et le Code de Conduite, le
+Règlement Intérieur prévaut.
+
 
 Siège social
 ============
