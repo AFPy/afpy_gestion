@@ -39,6 +39,7 @@ Pour information, voici les élus sortants du CD cette année :
 - Claire Revillet (démission en 2017)
 - Jonathan Schemoul
 - Gael Lickindorf
+- Arthur Lutz
 
 élus en 2016 :
 
@@ -46,6 +47,9 @@ Pour information, voici les élus sortants du CD cette année :
 - Pierre-Yves David
 - Michael Scherer
 - Jean Philippe Camguilhem (démission en 2017)
+- Feth Arezki (démission en 2017)
+- Hugo Herter
+- Amandine Nayrolles
 
 2017
   - Xavier Ordoquy
@@ -56,9 +60,3 @@ Pour information, voici les élus sortants du CD cette année :
   - Lucien Deleu
   - Pierre Charlet
   - Gaël Pasgrimaud
-
-
-Reste à retrouver :
-- Arthur Lutz
-- Hugo Herter
-- Amandine Nayrolles
