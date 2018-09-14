@@ -86,8 +86,8 @@ Tableau de suivi du sponsoring PyCon 2018
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Makina Corpus            | Argent          | 1000 (1181) | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-| Budget Insight           | Argent          | 1000 (1182) | En attente de description   | TODO    |
-|                          |                 |             | (relancé)                   |         |
+| Budget Insight           | Argent          | 1000 (1182) | En attente de description   |         |
+|                          |                 |             | (dernière relance envoyée)  |         |
 |                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Back Market              | Or              | 2000 (1183) | Nouveau sponsor             |         |
@@ -99,8 +99,8 @@ Tableau de suivi du sponsoring PyCon 2018
 | Numberly                 | Argent          | 1000 (1185) | Nouveau sponsor             | TODO    |
 |                          |                 |             | En attente de paiement      |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-| Planet-Work              | Argent          | 1000 (1186) | En attente de description   | TODO    |
-|                          |                 |             | (en cours)                  |         |
+| Planet-Work              | Argent          | 1000 (1186) | En attente de description   |         |
+|                          |                 |             | (dernière relance envoyée)  |         |
 |                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | B2CK                     | Bronze          | 500 (1187)  | Nouveau sponsor             |         |
@@ -112,9 +112,10 @@ Tableau de suivi du sponsoring PyCon 2018
 | CIM                      | Argent          | 1000 (1189) | Nouveau sponsor             |         |
 |                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-| Octobus                  | Argent          | 1000 (1190) | Nouveau sponsor             | TODO    |
+| Octobus                  | Argent          | 1000 (1190) | Nouveau sponsor             |         |
 |                          |                 |             | En attente de description   |         |
-|                          |                 |             | (en cours)                  |         |
+|                          |                 |             | en anglais (dernière relance|         |
+|                          |                 |             | envoyée)                    |         |
 |                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Citusdata                | Bronze          | 500 (1191)  | Nouveau sponsor             | TODO    |
@@ -127,10 +128,6 @@ Tableau de suivi du sponsoring PyCon 2018
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Legalstart               | Bronze          | 500 (1194)  | Nouveau sponsor             | TODO    |
 |                          |                 |             | En attente de paiement      |         |
-+--------------------------+-----------------+-------------+-----------------------------+---------+
-| OVH                      | Argent          |             | Nouveau sponsor             | TODO    |
-|                          |                 |             | En attente de confirmation  |         |
-|                          |                 |             | (en cours)                  |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 |      **Total**           |                 | 24000       |                             |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
