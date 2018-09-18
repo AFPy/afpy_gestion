@@ -17,7 +17,7 @@ Article 1
 L'association dite « Association Francophone Python (AFPY) », fondée le 11
 décembre 2004 sous le régime de la loi du 1\ :sup:`er` juillet 1901 a pour but
 la promotion du langage de programmation Python, de ses applications et
-librairies, et le rassemblement d'une communauté francophone diverse et
+bibliothèques, et le rassemblement d'une communauté francophone diverse et
 internationale.
 
 Sa durée est illimitée.
