@@ -62,7 +62,8 @@ Tableau de suivi des bourses PyCon 2018
 |                |                       |             |                |                | Lettre pour demande de visa |
 +----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
 | AA             | Accord de principe    | 400         |                |                | En attente de justificatifs |
-|                |                       |             |                |                | Conférencier                |
+|                |                       |             |                |                | Lettre pour demande de visa |
+|                |                       |             |                |                | Conférencier probable       |
 +----------------+-----------------------+-------------+----------------+----------------+-----------------------------+
 | AM             | Accord de principe    | 400         | 400,00         | 400,00         | Remboursement effectué      |
 |                |                       |             |                |                | Lettre pour demande de visa |
