@@ -184,9 +184,9 @@
 
 2018/03/07 -42.00€ Order Domiciliation X
 
-2018/03/13 1210.00€ Order Cotisation X
+2018/03/13 1210.00€ Transfer Cotisation X
 
-2018/03/13 255.00€ Order Don X
+2018/03/13 255.00€ Transfer Don X
 
 2018/03/27 -10.20€ Order Banque X
 
@@ -212,9 +212,9 @@
 2018/04/10 -29.98€ Order Hébergement X
     Dédibox
 
-2018/04/10 220.00€ Order Cotisation X
+2018/04/10 220.00€ Transfer Cotisation X
 
-2018/04/10 90.00€ Order Don X
+2018/04/10 90.00€ Transfer Don X
 
 2018/04/11 -500.00€ Transfer DjangoGirlsBordeaux X
 
@@ -223,7 +223,7 @@
 
 -- Mai 2018
 
-2018/05/08 40.00€ Order Cotisation X
+2018/05/08 40.00€ Transfer Cotisation X
 
 2018/05/09 -42.00€ Order Domiciliation X
 
@@ -238,7 +238,7 @@
 
 -- Juin 2018
 
-2018/06/06 1000.00€ Order PyConFr18 X
+2018/06/06 1000.00€ Transfer PyConFr18 X
     Anybox
 
 2018/06/11 -42.00€ Order Domiciliation X
@@ -246,36 +246,36 @@
 2018/06/11 -29.98€ Order Hébergement X
     Dédibox
 
-2018/06/12 40.00€ Order Cotisation X
+2018/06/12 40.00€ Transfer Cotisation X
 
-2018/06/12 10.00€ Order Don X
+2018/06/12 10.00€ Transfer Don X
 
-2018/06/15 1000.00€ Order PyConFr18 X
+2018/06/15 1000.00€ Transfer PyConFr18 X
     PeopleDoc
 
-2018/06/19 500.00€ Order PyConFr18 X
+2018/06/19 500.00€ Transfer PyConFr18 X
     Algoo
 
-2018/06/20 500.00€ Order PyConFr18 X
+2018/06/20 500.00€ Transfer PyConFr18 X
     Alwaysdata
 
-2018/06/22 500.00€ Order PyConFr18 X
+2018/06/22 500.00€ Transfer PyConFr18 X
     Odoo
 
 2018/06/26 -10.20€ Order Banque X
 
-2018/06/22 500.00€ Order PyConFr18 X
+2018/06/22 500.00€ Transfer PyConFr18 X
     Nexedi
 
 
 -- Juillet 2018
 
-2018/07/05 1000.00€ Order PyConFr18 X
+2018/07/05 1000.00€ Transfer PyConFr18 X
     Sewan
 
 2018/07/09 -42.00€ Order Domiciliation X
 
-2018/07/12 60.00€ Order Cotisation X
+2018/07/12 60.00€ Transfer Cotisation X
 
 2018/07/13 -500.00€ Transfer DjangoGirlsAbidjan X
 
@@ -284,21 +284,21 @@
 
 2018/07/16 -32.00€ Order CommissionBanque X
 
-2018/07/16 1000.00€ Order PyConFr18 X
+2018/07/16 1000.00€ Transfer PyConFr18 X
     Budget Insight
 
-2018/07/18 500.00€ Order PyConFr18 X
+2018/07/18 500.00€ Transfer PyConFr18 X
     Yaal
 
-2018/07/23 1000.00€ Order PyConFr18 X
+2018/07/23 1000.00€ Transfer PyConFr18 X
     Makina Corpus
 
-2018/07/25 2000.00€ Order PyConFr18 X
+2018/07/25 2000.00€ Transfer PyConFr18 X
     Jung / Back Market
 
 2018/07/26 -10.20€ Order Banque X
 
-2018/07/27 1000.00€ Order PyConFr18 X
+2018/07/27 1000.00€ Transfer PyConFr18 X
     IT Link
 
 2018/07/30 -480.00€ Transfer PyConFr18 X
@@ -307,23 +307,23 @@
 2018/07/30 -40.50€ Transfer BoursePyConFr18 X
     Bourse LB
 
-2018/07/30 3000.00€ Order PyConFr18 X
+2018/07/30 3000.00€ Transfer PyConFr18 X
     Sewan
 
-2018/07/31 1000.00€ Order PyConFr18 X
+2018/07/31 1000.00€ Transfer PyConFr18 X
     Invivoo
 
 
 -- Août 2018
 
-2018/08/03 40.00€ Order Cotisation X
+2018/08/03 40.00€ Transfer Cotisation X
 
 2018/08/09 -42.00€ Order Domiciliation X
 
 2018/08/10 -29.98€ Order Hébergement X
     Dédibox
 
-2018/08/10 500.00€ Order PyConFr18 X
+2018/08/10 500.00€ Transfer PyConFr18 X
     B2CK
 
 2016/08/16 -100.00€ Transfer CotisationApril X
@@ -332,3 +332,69 @@
 
 2018/08/31 -40.50€ Transfer BoursePyConFr18 X
     Bourse FC
+
+
+-- Septembre 2018
+
+
+2018/09/03 1000.00€ Transfer PyConFr18 X
+    CIM
+
+2018/09/04 1000.00€ Transfer PyConFr18 X
+    Planet-Work
+
+2018/09/07 -42.00€ Order Domiciliation X
+
+2018/09/10 1000.00€ Transfer PyConFr18 X
+    Dolead
+
+2018/09/11 1000.00€ Transfer PyConFr18 X
+    Octobus
+
+2018/09/12 -29.98€ Order Hébergement X
+    Dédibox
+
+2018/09/13 -1000.00€ Transfer PyConFr18 X
+    Bocaux Locaux
+
+2018/09/13 5.00€ Transfer Don X
+
+2018/09/13 40.00€ Transfer Cotisation X
+
+2018/09/13 10.00€ Transfer PyConFr18 X
+    T-shirts
+
+2018/09/17 -2387.27€ Transfer PyConFr18 X
+    JJ Câbles USB / T-shirts / Gemma
+
+2018/09/17 -420.60€ Transfer PyConFr18 X
+    Tours de cou
+
+2018/09/17 500.00€ Transfer PyConFr18 X
+    Legalstart
+
+2018/09/18 1000.00€ Transfer PyConFr18 X
+    Numberly
+
+2018/09/19 -400.00€ Transfer PyConFr18 X
+    Miss Cuisine Traiteur Acompte
+
+2018/10/20 322.79€ Paypal VirementInterne X
+
+2018/10/20 -322.79€ Order VirementInterne X
+
+2018/10/24 -10.20€ Order Banque X
+
+2018/10/26 -600.00€ Transfer DjangoGirlsMarseille X
+
+2018/09/26 -541.22€ Transfer PyConFr18 X
+    Paniers Léa Samedi Acompte 541,22
+
+2018/09/26 -541.22€ Transfer PyConFr18 X
+    Paniers Léa Dimanche Acompte 541,22
+
+2018/09/26 -541.22€ Transfer PyConFr18 X
+    AV Vin 238,56
+
+2018/09/26 -200.00€ Transfer BoursePyConFr18 X
+    Bourse KP
