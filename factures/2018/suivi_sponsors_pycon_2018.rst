@@ -96,12 +96,10 @@ Tableau de suivi du sponsoring PyCon 2018
 | Invivoo                  | Argent          | 1000 (1184) | Nouveau sponsor             |         |
 |                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
-| Numberly                 | Argent          | 1000 (1185) | Nouveau sponsor             | TODO    |
-|                          |                 |             | En attente de paiement      |         |
-+--------------------------+-----------------+-------------+-----------------------------+---------+
-| Planet-Work              | Argent          | 1000 (1186) | En attente de description   |         |
-|                          |                 |             | (dernière relance envoyée)  |         |
+| Numberly                 | Argent          | 1000 (1185) | Nouveau sponsor             |         |
 |                          |                 |             | Payé                        |         |
++--------------------------+-----------------+-------------+-----------------------------+---------+
+| Planet-Work              | Argent          | 1000 (1186) | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | B2CK                     | Bronze          | 500 (1187)  | Nouveau sponsor             |         |
 |                          |                 |             | Payé                        |         |
@@ -113,9 +111,6 @@ Tableau de suivi du sponsoring PyCon 2018
 |                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Octobus                  | Argent          | 1000 (1190) | Nouveau sponsor             |         |
-|                          |                 |             | En attente de description   |         |
-|                          |                 |             | en anglais (dernière relance|         |
-|                          |                 |             | envoyée)                    |         |
 |                          |                 |             | Payé                        |         |
 +--------------------------+-----------------+-------------+-----------------------------+---------+
 | Citusdata                | Bronze          | 500 (1191)  | Nouveau sponsor             | TODO    |
