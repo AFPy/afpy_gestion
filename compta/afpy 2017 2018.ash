@@ -326,7 +326,7 @@
 2018/08/10 500.00€ Transfer PyConFr18 X
     B2CK
 
-2016/08/16 -100.00€ Transfer CotisationApril X
+2018/08/16 -100.00€ Transfer CotisationApril X
 
 2018/08/28 -10.20€ Order Banque X
 
