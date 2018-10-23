@@ -26,6 +26,8 @@ Pour information, voici les élus sortants du Comité Directeur cette année :
 - Gael Lickindorf
 - Arthur Lutz
 
+Stéphane Wirtel est démissionnaire.
+
 Si jamais vous souhaitez participer au futur comité directeur ou au futur bureau, merci de l'indiquer en répondant à cet email.
 
 Pour rappel, il faut être à jour de cotisation pour pouvoir voter à l'assemblée générale. Si ce n'est pas le cas pour vous, merci de cotiser sur https://www.helloasso.com/associations/afpy/adhesions/formulaire-d-adhesion-a-l-afpy

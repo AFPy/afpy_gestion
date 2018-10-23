@@ -1,0 +1,27 @@
+- première mise à jour en préfecture depuis longtemps
+- domiciliation de l'asso à lyon (avec une boite aux lettres accessible !)
+- point mensuel du cd
+- transmission banque et assurance à Guillaume
+- site web : amélioration continues au cours de l'année et sprint
+- gestion des serveurs : toujours un problème, migration freebsd depuis pau, peu d'autonomie de la part des membres actifs ; mise à jour pendant sprint merci Lucie
+- tentative de mobilisation en afrique (Algérie, au Mali, au Sénégal et au Togo)
+- campagne d'adhésion en début d'année
+    - 54 adhésions
+    - adhésion plus simple en gestion sur helloasso
+- ateliers de traduction de la doc à Paris (3) et Lyon (2)
+- financement
+    - rencontres django
+    - django girls bordeaux
+    - django girls marseille
+    - django girls abidjan
+- Ludovic a organisé in extremis des présentations Python au Fosdem
+- PyConFr :
+    - budget record
+    - action diversite :
+        - visibilié code de conduite
+        - dejeuner pyladies
+        - transcription
+    - 3 plénières, 5 sessions en parallèle + 3 ateliers
+    - session en anglais
+    - atelier mixteen
+- projet de refonte des statuts et du réglement intérieur
