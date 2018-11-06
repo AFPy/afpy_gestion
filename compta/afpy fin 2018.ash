@@ -38,8 +38,24 @@
 2018/10/11 -29.98€ Order Hébergement X
     Dédibox
 
+2018/10/11 2000.00€ Transfer PyConFr18 X
+    Repas samedi soir
+
+2018/10/11 1030.00€ Transfer PyConFr18 X
+    T-Shirts
+
+2018/09/13 190.00€ Transfer Cotisation X
+
+2018/09/13 35.00€ Transfer Don X
+
 2018/10/16 -312.75€ Transfer PyConFr18 X
     Atelier Mixteen LLH
+
+2018/10/18 1000.00€ Check PyConFr18 X
+    Ecreall
+
+2018/10/18 80.00€ Check PyConFr18 X
+    T-Shirts
 
 2018/10/23 -26.88€ Transfer Meetup X
     Meetup AV

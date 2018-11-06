@@ -330,7 +330,7 @@
 
 2018/08/28 -10.20€ Order Banque X
 
-2018/08/31 -40.50€ Transfer BoursePyConFr18 X
+2018/08/31 -133.28€ Transfer BoursePyConFr18 X
     Bourse FC
 
 
