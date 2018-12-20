@@ -42,7 +42,7 @@ Outils validés par l'AFPY
 Bilan financements sur 2017-2018
 --------------------------------
 
-- 1600€ de financements pour 3 évènements en 2017-2018 (entre les PyconFR
+- 1600€ de financements pour 3 évènements en 2017-2018 (entre les PyconFR)
 - Soit on reste sur le même budget pour 2019 (400€ / trimestre)
 - Soit on prend une partie du budget de PyconFR : informer à la déclaration de la prochaine PyconFR pour indiquer aux sponsors l'utilisation des fonds
 
