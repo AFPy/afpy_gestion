@@ -83,3 +83,33 @@
 2018/11/02 -150.00€ Transfer BoursePyConFr18 X
     Bourse AA
 
+2018/11/09 -42.00€ Order Domiciliation X
+
+2018/11/09 -41.98€ Order Hébergement X
+    Dédibox
+
+2018/11/13 570.00€ Transfer Cotisation X
+
+2018/11/13 90.00€ Transfer Don X
+
+2018/11/13 90.00€ Transfer PyConFr18 X
+    T-Shirts
+
+2018/11/14 -481.25€ Transfer PyConFr18 X
+    Sécurité
+
+2018/11/27 -10.20€ Order Banque X
+
+
+-- Décembre
+
+2018/12/07 -41.98€ Order Hébergement X
+    Dédibox
+
+2018/12/10 -42.00€ Order Domiciliation X
+
+2018/12/11 60.00€ Transfer Cotisation X
+
+2018/12/11 5.00€ Transfer Don X
+
+2018/12/26 -10.20€ Order Banque X
