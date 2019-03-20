@@ -46,7 +46,7 @@ PyConFR 2019
 - Découragement de Vincent
 - Pas de candidat sérieux
 - Motivation pour Paris mais problématique de locaux (prix excessif ?) : Jules / Julien
-- Budget 2018 environs 6000€
+- Budget 2018 environs 20000€
 - Pour PyConFR Rennes on était plus sur 10 000€, le tout c'est d'équilibrer les entrées
 - Dans mon souvenir les foodtrucks c'est les participants qui paient, donc rien à payer de notre côté
 - Proposition de décaler au Printemps 2020 en dernier recours
