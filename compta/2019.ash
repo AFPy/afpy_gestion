@@ -39,3 +39,15 @@
     Dédibox
 
 2019/03/12 40.00€ Transfer Cotisation X
+
+2019/03/26 -10.20€ Order Banque X
+
+
+-- Avril
+
+2019/04/08 -42.00€ Order Domiciliation X
+
+2019/04/08 -41.98€ Order Hébergement X
+    Dédibox
+
+2019/04/10 50.00€ Transfer Cotisation X
