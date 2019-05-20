@@ -34,7 +34,7 @@ Actions menées le mois dernier
 PyConFR
 -------
 
-- Marc en contact avec Bordeau :
+- Marc en contact avec Bordeaux :
   - capacité de fournir un amphi et 2-3 salles de classe
   - Univ pas de problème pour amener des foodtrucks
   - Traiteur contre rémunération
