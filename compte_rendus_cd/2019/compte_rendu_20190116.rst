@@ -70,7 +70,7 @@ Envoyer un mail sur la liste membre et publier la version PDF sur le site de la 
 Rémy s'en occupe
 
 
-Subventions meetups
+Subventions
 -----------
 
 Proposition : Allouer une somme de 200€/mois. 2 400€ sur l'année
