@@ -1,0 +1,88 @@
+{% set lines = [
+  ['Subvention pour PyConFr 2019 à Bordeaux, France', 5648, 1],
+] %}
+
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8"/>
+    {% if number == 'lettre' %}
+      <title>AFPY - Lettre</title>
+    {% else %}
+      <title>AFPy − {{ 'Devis' if quotation else 'Facture' }} n°{{ number }}</title>
+    {% endif %}
+    <link type="text/css" rel="stylesheet" href="../commun/style.css" />
+  </head>
+
+  <body>
+    <header>
+      <address id="from">
+        {%- block address_from -%}
+          Association Francophone Python
+          2, rue Professeur Zimmermann
+          69007 LYON
+          FRANCE
+          504 398 355 00017
+        {%- endblock address_from -%}
+      </address>
+      <address id="to">
+        {%- block address_to -%}
+          Python Software Foundation
+          9450 SW Gemini Dr.
+          ECM# 90772
+          Beaverton, OR 97008
+          USA
+        {%- endblock address_to -%}
+      </address>
+    </header>
+
+    {% block content %}
+      <dl>
+        <dt>Date</dt>
+        <dd>{{ date }}</dd>
+        <dt>N° de {{ 'devis' if quotation else 'facture' }}</dt>
+        <dd>{{ number }}</dd>
+      </dl>
+
+      <table>
+        {% set total = [0] %}
+        {% for designation, price, quantity in lines %}
+          {% if loop.first %}
+            <thead>
+              <th>Désignation</th>
+              <th>Prix unitaire</th>
+              <th>Quantité</th>
+              <th>Total</th>
+            </thead>
+            <tbody>
+          {% endif %}
+
+          <tr>
+            <td>{{ designation }}</td>
+            <td>${{ price }} USD</td>
+            <td>{{ quantity }}</td>
+            <td>${{ quantity * price }} USD</td>
+          </tr>
+          {{ total.append(quantity * price) or '' }}
+
+          {% if loop.last %}
+            </tbody>
+            <tfoot>
+              <th colspan="3">Total T.T.C. à payer</th>
+              <td>${{ total | sum }} USD</td>
+            </tfoot>
+          {% endif %}
+        {% endfor %}
+      </table>
+
+      <footer>
+        <p>
+          Taxe sur la valeur ajoutée non applicable, article 293 B du CGI.
+        </p>
+        <p>
+          En votre aimable règlement, au comptant via PayPal. Compte PayPal : tresorier@afpy.org.
+        </p>
+      </footer>
+    {% endblock content %}
+  </body>
+</html>
