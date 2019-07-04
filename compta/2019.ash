@@ -79,3 +79,29 @@
 2019/06/12 160.00€ Transfer Cotisation X
 
 2019/06/12 42.00€ Transfer Don X
+
+2019/06/18 -41.98€ Order Hébergement X
+    Dédibox
+
+2019/06/25 -10.20€ Order Banque X
+
+2019/06/25 50.00€ Transfer PyConFr19 X
+    Mergify
+
+2019/06/27 -47.00€ Transfer Meetup X
+    JP
+
+
+-- Juillet
+
+2019/07/01 1000.00€ Transfer PyConFr19 X
+    Logilab
+
+2019/07/01 600.00€ Transfer Don X
+    Logilab
+
+2019/07/01 200.00€ Transfer PyConFr19 X
+    OctopusMind
+
+2019/07/02 2000.00€ Transfer PyConFr19 X
+    Clever Cloud

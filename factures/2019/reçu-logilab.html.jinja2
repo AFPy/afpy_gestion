@@ -1,0 +1,79 @@
+{% set lines = [
+  ['Don', 600, 1],
+] %}
+
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>AFPy − Attestation de don</title>
+    <link type="text/css" rel="stylesheet" href="../commun/style.css" />
+  </head>
+
+  <body>
+    <header>
+      <address id="from">
+        {%- block address_from -%}
+          Association Francophone Python
+          2, rue Professeur Zimmermann
+          69007 LYON
+          FRANCE
+          504 398 355 00017
+        {%- endblock address_from -%}
+      </address>
+      <address id="to">
+        {%- block address_to -%}
+          Logilab
+          104 boulevard Louis-Auguste Blanqui
+          75013 Paris
+        {%- endblock address_to -%}
+      </address>
+    </header>
+
+    {% block content %}
+      <dl>
+        <dt>Objet</dt>
+        <dd>Attestation de don</dd>
+        <dt>Date</dt>
+        <dd>{{ date }}</dd>
+      </dl>
+
+      <table>
+        {% set total = [0] %}
+        {% for designation, price, quantity in lines %}
+          {% if loop.first %}
+            <thead>
+              <th>Désignation</th>
+              <th>Prix unitaire</th>
+              <th>Quantité</th>
+              <th>Total</th>
+            </thead>
+            <tbody>
+          {% endif %}
+
+          <tr>
+            <td>{{ designation }}</td>
+            <td>{{ price }} €</td>
+            <td>{{ quantity }}</td>
+            <td>{{ quantity * price }} €</td>
+          </tr>
+          {{ total.append(quantity * price) or '' }}
+
+          {% if loop.last %}
+            </tbody>
+            <tfoot>
+              <th colspan="3">Total</th>
+              <td>{{ total | sum }} €</td>
+            </tfoot>
+          {% endif %}
+        {% endfor %}
+      </table>
+
+      <footer>
+        <p>
+          Taxe sur la valeur ajoutée non applicable.
+        </p>
+      </footer>
+    {% endblock content %}
+  </body>
+</html>
