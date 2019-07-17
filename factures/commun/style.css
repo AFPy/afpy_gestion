@@ -24,6 +24,11 @@ body::after {
   width: 20cm;
 }
 
+sup {
+  font-size: 0.7em;
+  vertical-align: 0.6;
+}
+
 address {
   font-style: normal;
   white-space: pre-line;
