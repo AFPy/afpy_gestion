@@ -1,5 +1,5 @@
-Compte rendu point CD AFPy 19 juin 2019
-=======================================
+Compte rendu point CD AFPy 17 juillet 2019
+==========================================
 
 
 *Début 18h07*
@@ -81,7 +81,7 @@ Donc viser 30 000 € maximum si possible.
     - Les contacter pour savoir ce qu'il peuvent / veulent faire.
     - Remplir la partie Trucs et astuces du site ?
     - Demander des conseils pour la soirée du samedi soir.
-    - Marc les contact
+    - Marc les contacte
 - Changement de méthode de communication avec les sponsors : Présenter la facture en premier lieu et discuter ensuite des modalités.
 
 Cloture de l'appel à sponsors le 15 septembre (pour l'impression c'est bien d'avoir une petite marge). TODO Guillaume : À mettre sur le site.
