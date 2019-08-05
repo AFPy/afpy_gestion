@@ -65,28 +65,36 @@
           {% endif %}
         {% endfor %}
       </table>
+    {% endblock content %}
 
-      <footer>
+    <footer>
+      {% block footer %}
         <p>
           Taxe sur la valeur ajoutée non applicable, article 293 B du CGI.
         </p>
-        <p>
-          En votre aimable règlement, au comptant par chèque bancaire ou virement.
-        </p>
+        {% if paypal %}
+          <p>
+            En votre aimable règlement, au comptant, sur notre compte PayPal : tresorier@afpy.org.
+          </p>
+        {% else %}
+          <p>
+            En votre aimable règlement, au comptant par chèque bancaire ou virement.
+          </p>
 
-        <address>
-          Société Générale Lyon République
-          6, rue de la République
-          69206 LYON
-        </address>
+          <address>
+            Société Générale Lyon République
+            6, rue de la République
+            69206 LYON
+          </address>
 
-        <dl>
-          <dt>IBAN</dt>
-          <dd>FR76 3000 3031 2000 0507 6517 116</dd>
-          <dt>BIC/SWIFT</dt>
-          <dd>SOGEFRPPLPC</dd>
-        </dl>
-      </footer>
-    {% endblock content %}
+          <dl>
+            <dt>IBAN</dt>
+            <dd>FR76 3000 3031 2000 0507 6517 116</dd>
+            <dt>BIC/SWIFT</dt>
+            <dd>SOGEFRPPLPC</dd>
+          </dl>
+        {% endif %}
+      {% endblock footer %}
+    </footer>
   </body>
 </html>

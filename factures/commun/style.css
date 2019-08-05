@@ -122,3 +122,17 @@ p {
 p.right-aligned {
   margin: 2em 0 2em 60%;
 }
+
+hr {
+  border: 0;
+  color: inherit;
+  margin: 1em;
+  opacity: 0.8;
+}
+
+hr::before {
+  content: '☙';
+  display: block;
+  font-size: 1.3em;
+  text-align: center;
+}
