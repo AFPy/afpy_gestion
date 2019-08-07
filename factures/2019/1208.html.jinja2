@@ -1,0 +1,34 @@
+{% set quotation = true %}
+{% set paypal = true %}
+
+{% extends '_layout.jinja2' %}
+
+{% set lines = [
+  ['Sponsorship for PyConFr 2019, "Platinum − Transcript" level', 4000, 1],
+] %}
+
+{% block footer %}
+  <p>
+    The "Platinum − Transcript" sponsorship level includes the following
+    counterparts:
+  </p>
+  <ul>
+    <li>Name and logo on the "Sponsors" page of the website</li>
+    <li>1000-character presntation on the "Sponsors" page of the website</li>
+    <li>Logo on the index page of the website</li>
+    <li>Logo on posters and printed documents</li>
+    <li>Kakemono in conference rooms</li>
+    <li>Presentation of the enterprise at the conferences kick-off</li>
+    <li>Stand in the hall</li>
+    <li>Logo on the transcription screen and on subtitled videos</li>
+  </ul>
+  <hr />
+  {{ super() }}
+{% endblock footer %}
+
+{% block address_to %}
+  Lynette Gaddi
+  Google LLC
+  1600 Amphitheatre Parkway
+  Mountain View, CA 94043
+{% endblock address_to %}
