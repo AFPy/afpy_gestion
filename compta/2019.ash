@@ -105,3 +105,60 @@
 
 2019/07/02 2000.00€ Transfer PyConFr19 X
     Clever Cloud
+
+2019/07/05 -41.98€ Order Hébergement X
+    Dédibox
+
+2019/07/05 -42.00€ Order Domiciliation X
+
+2019/07/08 1000.00€ Transfer PyConFr19 X
+    Entr'ouvert
+
+2019/07/11 500.00€ Transfer PyConFr19 X
+    Oslandia
+
+2019/07/12 1000.00€ Transfer PyConFr19 X
+    Yaal
+
+2019/07/15 1000.00€ Transfer PyConFr19 X
+    PeopleDoc
+
+2019/07/15 30.00€ Transfer Cotisation X
+
+2019/07/25 500.00€ Transfer PyConFr19 X
+    Gandi
+
+2019/07/26 -10.20€ Order Banque X
+
+2019/07/26 500.00€ Transfer PyConFr19 X
+    Anybox
+
+
+-- Août
+
+2019/08/06 4910,96€ PayPal PyConFr19 X
+    PSF
+
+2019/08/08 -41.98€ Order Hébergement X
+    Dédibox
+
+2019/08/08 -42.00€ Order Domiciliation X
+
+2019/08/15 240.00€ Transfer Cotisation X
+
+2018/08/16 -100.00€ Transfer CotisationApril X
+
+2019/08/19 -85,00€ PayPal PyConFr19 X
+    Bourse MK
+
+2019/08/26 500.00€ Transfer PyConFr19 X
+    Invivoo
+
+2019/08/26 -10.20€ Order Banque X
+
+
+-- Septembre
+
+2019/09/03 -400,00€ PayPal PyConFr19 X
+    Bourse AS
+
