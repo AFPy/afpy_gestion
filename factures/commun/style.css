@@ -24,6 +24,11 @@ body::after {
   width: 20cm;
 }
 
+h1 {
+  font-size: 1em;
+  font-weight: normal;
+}
+
 sup {
   font-size: 0.7em;
   vertical-align: 60%;

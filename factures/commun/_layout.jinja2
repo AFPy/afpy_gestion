@@ -1,12 +1,38 @@
+{% if language == 'en' %}
+  {% if number == 'lettre' %}
+    {% set title = 'Letter' %}
+  {% else %}
+    {% set name = 'Quotation' if quotation else 'Invoice' %}
+    {% set title = '{} #{}'.format(name, number) %}
+  {% endif %}
+  {% set date_string = 'Date' %}
+  {% set number_string = 'Number' %}
+  {% set description_string = 'Description' %}
+  {% set unit_price_string = 'Unit Price' %}
+  {% set quantity_string = 'Quantity' %}
+  {% set total_string = 'Total' %}
+  {% set total_to_pay_string = 'Total to pay' %}
+{% else %}
+  {% if number == 'lettre' %}
+    {% set title = 'Lettre' %}
+  {% else %}
+    {% set name = 'Devis' if quotation else 'Facture' %}
+    {% set title = '{} n°{}'.format(name, number) %}
+  {% endif %}
+  {% set date_string = 'Date' %}
+  {% set number_string = 'Numéro' %}
+  {% set description_string = 'Désignation' %}
+  {% set unit_price_string = 'Prix unitaire' %}
+  {% set quantity_string = 'Quantité' %}
+  {% set total_string = 'Total' %}
+  {% set total_to_pay_string = 'Total à payer' %}
+{% endif %}
+
 <!DOCTYPE html>
 <html lang="fr">
   <head>
     <meta charset="UTF-8"/>
-    {% if number == 'lettre' %}
-      <title>AFPY - Lettre</title>
-    {% else %}
-      <title>AFPy − {{ 'Devis' if quotation else 'Facture' }} n°{{ number }}</title>
-    {% endif %}
+    <title>AFPY − {{ title }}</title>
     <link type="text/css" rel="stylesheet" href="../commun/style.css" />
   </head>
 
@@ -28,10 +54,13 @@
     </header>
 
     {% block content %}
+      {% if name %}
+        <h1>{{ name }}</h1>
+      {% endif %}
       <dl>
-        <dt>Date</dt>
+        <dt>{{ date_string }}</dt>
         <dd>{{ date }}</dd>
-        <dt>N° de {{ 'devis' if quotation else 'facture' }}</dt>
+        <dt>{{ number_string }}</dt>
         <dd>{{ number }}</dd>
       </dl>
 
@@ -40,10 +69,10 @@
         {% for designation, price, quantity in lines %}
           {% if loop.first %}
             <thead>
-              <th>Désignation</th>
-              <th>Prix unitaire</th>
-              <th>Quantité</th>
-              <th>Total</th>
+              <th>{{ description_string }}</th>
+              <th>{{ unit_price_string }}</th>
+              <th>{{ quantity_string }}</th>
+              <th>{{ total_string }}</th>
             </thead>
             <tbody>
           {% endif %}
@@ -59,7 +88,7 @@
           {% if loop.last %}
             </tbody>
             <tfoot>
-              <th colspan="3">Total T.T.C. à payer</th>
+              <th colspan="3">{{ total_to_pay_string }}</th>
               <td>{{ total | sum }} €</td>
             </tfoot>
           {% endif %}
@@ -70,21 +99,43 @@
     <footer>
       {% block footer %}
         <p>
-          Taxe sur la valeur ajoutée non applicable, article 293 B du CGI.
+          {% if language == 'en' %}
+            Value added tax not applicable.
+          {% else %}
+            Taxe sur la valeur ajoutée non applicable, article 293 B du CGI.
+          {% endif %}
         </p>
+        {% if quotation %}
+          <p>
+            {% if language == 'en' %}
+              This quotation is valid for 1 month.
+            {% else %}
+              Ce devis est valable 1 mois.
+            {% endif %}
+          </p>
+        {% endif %}
         {% if paypal %}
           <p>
-            En votre aimable règlement, au comptant, sur notre compte PayPal : tresorier@afpy.org.
+            {% if language == 'en' %}
+              Please pay on our PayPal account: tresorier@afpy.org.
+            {% else %}
+              En votre aimable règlement, au comptant, sur notre compte PayPal : tresorier@afpy.org.
+            {% endif %}
           </p>
         {% else %}
           <p>
-            En votre aimable règlement, au comptant par chèque bancaire ou virement.
+            {% if language == 'en' %}
+              Please pay by bank transfer.
+            {% else %}
+              En votre aimable règlement, au comptant par virement.
+            {% endif %}
           </p>
 
           <address>
             Société Générale Lyon République
             6, rue de la République
-            69206 LYON
+            69206 Lyon
+            France
           </address>
 
           <dl>
