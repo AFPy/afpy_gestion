@@ -162,3 +162,32 @@
 2019/09/03 -400,00€ PayPal PyConFr19 X
     Bourse AS
 
+2019/09/05 500,00€ Transfer PyConFr19 X
+    IT Link
+
+2019/09/06 -41.98€ Order Hébergement X
+    Dédibox
+
+2019/09/09 -42.00€ Order Domiciliation X
+
+2019/09/11 500,00€ Transfer PyConFr19 X
+    Alves Info
+
+2019/09/15 70.00€ Transfer Cotisation X
+
+2019/09/18 2000,00€ Transfer PyConFr19 X
+    Jet Brains
+
+2019/09/25 -10.20€ Order Banque X
+
+2019/09/30 500,00€ Transfer PyConFr19 X
+    BearsTech
+
+
+-- Octobre
+
+2019/10/02 -3906,00€ Transfer PyConFr19 X
+    Acompte captation HF Prod
+
+2019/10/02 1000,00€ Transfer PyConFr19 X
+    Falguière - MeilleursAgents
