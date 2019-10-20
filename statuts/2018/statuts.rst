@@ -148,7 +148,7 @@ Le nombre de membres renouvelés est égal au tiers des membres du Comité
 Directeur pour l'année en cours, arrondi à la valeur inférieure, avec un
 minimum égal au nombre des démissionnaires.
 
-Les membres renouvelées nos démissionnaires sont ceux dont la dernière élection
+Les membres renouvelés nos démissionnaires sont ceux dont la dernière élection
 au Comité Directeur est la plus ancienne. En cas d'égalité de la date
 d'élection, on renouvellera alors celui ou ceux dont l'adhésion à l'Association
 est la plus récente.
