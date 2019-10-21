@@ -229,94 +229,94 @@
 -- À venir
 
 
-2019/12/31 4000.00€ Transfer PyConFr19 X
+2019/12/31 4000.00€ Transfer PyConFr19 P
     Google Cloud
 
-2019/12/31 2000.00€ Transfer PyConFr19 X
+2019/12/31 2000.00€ Transfer PyConFr19 P
     Backmarket
 
-2019/12/31 1000.00€ Transfer PyConFr19 X
+2019/12/31 1000.00€ Transfer PyConFr19 P
     Aiyo
 
-2019/12/31 1000.00€ Transfer PyConFr19 X
+2019/12/31 1000.00€ Transfer PyConFr19 P
     Makina Corpus
 
-2019/12/31 500.00€ Transfer PyConFr19 X
+2019/12/31 500.00€ Transfer PyConFr19 P
     Tempo consulting
 
-2019/12/31 500.00€ Transfer PyConFr19 X
+2019/12/31 500.00€ Transfer PyConFr19 P
     Algoo
 
-2019/12/31 3000.00€ Transfer PyConFr19 X
+2019/12/31 3000.00€ Transfer PyConFr19 P
     T-shirts
 
-2019/12/31 3100.00€ Transfer PyConFr19 X
+2019/12/31 3100.00€ Transfer PyConFr19 P
     Repas samedi
 
-2019/12/31 500.00€ Transfer PyConFr19 X
+2019/12/31 500.00€ Transfer PyConFr19 P
     Boissons samedi soir
 
 
 
 
-2019/12/31 -100.00€ Transfer PyConFr19 X
+2019/12/31 -100.00€ Transfer PyConFr19 P
     Impression
 
-2019/12/31 -3154.00€ Transfer PyConFr19 X
+2019/12/31 -3154.00€ Transfer PyConFr19 P
     Paniers de Léa petit déjeuner reste
 
-2019/12/31 -8400.00€ Transfer PyConFr19 X
+2019/12/31 -8400.00€ Transfer PyConFr19 P
     Captation HF Prod reste
 
-2019/12/31 -4500.00€ Transfer PyConFr19 X
+2019/12/31 -4500.00€ Transfer PyConFr19 P
     Transcription
 
-2019/12/31 -3000.00€ Transfer PyConFr19 X
+2019/12/31 -3000.00€ Transfer PyConFr19 P
     Nettoyage et sécurité
 
-2019/12/31 -1500.00€ Transfer PyConFr19 X
+2019/12/31 -1500.00€ Transfer PyConFr19 P
     Plénières
 
-2019/12/31 -1500.00€ PayPal PyConFr19 X
+2019/12/31 -1500.00€ PayPal PyConFr19 P
     Bourses
 
-2019/12/31 -1500.00€ Transfer PyConFr19 X
+2019/12/31 -1500.00€ Transfer PyConFr19 P
     Cap sciences salle samedi soir
 
-2019/12/31 -1000.00€ Transfer PyConFr19 X
+2019/12/31 -1000.00€ Transfer PyConFr19 P
     Courses
 
-2019/12/31 -2700.00€ Transfer PyConFr19 X
+2019/12/31 -2700.00€ Transfer PyConFr19 P
     Repas samedi
 
-2019/12/31 -400.00€ Transfer PyConFr19 X
+2019/12/31 -400.00€ Transfer PyConFr19 P
     Boissons samedi soir
 
 
 
 
-2019/10/25 -10.20€ Order Banque X
+2019/10/25 -10.20€ Order Banque P
 
 
 
 
-2019/11/06 -41.98€ Order Hébergement X
+2019/11/06 -41.98€ Order Hébergement P
     Dédibox
 
-2019/11/11 -42.00€ Order Domiciliation X
+2019/11/11 -42.00€ Order Domiciliation P
 
-2019/11/15 400.00€ Transfer Cotisation X
+2019/11/15 400.00€ Transfer Cotisation P
 
-2019/11/25 -10.20€ Order Banque X
-
-
+2019/11/25 -10.20€ Order Banque P
 
 
-2019/12/06 -41.98€ Order Hébergement X
+
+
+2019/12/06 -41.98€ Order Hébergement P
     Dédibox
 
-2019/12/12 -42.00€ Order Domiciliation X
+2019/12/12 -42.00€ Order Domiciliation P
 
-2019/12/15 50.00€ Transfer Cotisation X
+2019/12/15 50.00€ Transfer Cotisation P
 
-2019/12/25 -10.20€ Order Banque X
+2019/12/25 -10.20€ Order Banque P
