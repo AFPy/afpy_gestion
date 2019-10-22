@@ -220,6 +220,9 @@
 2019/10/21 -400.00€ PayPal PyConFr19 X
     Bourse TS
 
+2019/10/22 -400.70€ PayPal PyConFr19 X
+    Rubans badges JP
+
 
 
 
