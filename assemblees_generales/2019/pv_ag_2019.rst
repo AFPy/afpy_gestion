@@ -155,6 +155,15 @@ Vote du renouvellement du CD :
   - Lucien Deleu : 1 contre - 2 abstentions - 15 pour
   - Julien Palard : 0 contre - 2 abstentions - 16 pour
 
++ Pour rappel, les autres membres du CD sont :
+
+  - Jules Lasne (élu en 2018)
+  - Rémy Hubscher (élu en 2018)
+  - Victor Stinner (élu en 2018)
+  - Pierre Charlet (élu en 2017)
+  - Marc Debureaux (élu en 2017)
+  - Guillaume Ayoub (élu en 2017)
+
 
 Election du président
 =====================

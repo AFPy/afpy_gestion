@@ -15,4 +15,5 @@ Pour cela il faut :
 - Choisir "ASSOCIATION FRANCOPHONE PYTHON (AFPY) (espace association)"
 - Dans la liste des motifs, choisir "A - Un changement dans la liste des personnes chargées de l'administration de l'association"
 - Le déclarant doit remplir ses informations personnelles
-- Il faut ensuite remplir les informations de chaque membre du comité de direction et leur fonction au seis de l'association. Pour les membre du bureaux, choisir la fonction correspondante, pour les autres, choisir administrateur. La saisie peut être enregistré et reprise plus tard.
+- Identification de l'association : le numéros RNA (W751171901) est pré-remplie, cliquer sur rechercher, les informations se remplissent automatiquement. Cliquer sur suivant.
+- Il faut ensuite remplir les informations de chaque membre du comité de direction et leur fonction au seis de l'association. Pour les membres du bureau, choisir la fonction correspondante, pour les autres, choisir administrateur. La saisie peut être enregistré et reprise plus tard.
