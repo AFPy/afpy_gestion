@@ -1,3 +1,0 @@
-- Lieux ? 
-- Appel à lieux ? Oui
-- Comment ameliorer la communication de l'association ?
