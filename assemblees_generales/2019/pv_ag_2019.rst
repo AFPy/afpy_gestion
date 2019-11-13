@@ -133,9 +133,9 @@ Rapport financier par le trésorier
 ==================================
 
 cf bilans :
-  - bilan-financier-2018.rst_
-  - bilan-financier-2019.rst_
-  - bilan-financier-pyconfr-2019.md_
+  - `<bilan-financier-2018.rst>`_
+  - `<bilan-financier-2019.rst>`_
+  - `<bilan-financier-pyconfr-2019.md>`_
 
 Vote du renouvellement du CD :
 ==============================
