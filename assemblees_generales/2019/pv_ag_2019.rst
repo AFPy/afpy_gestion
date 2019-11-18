@@ -1,0 +1,180 @@
+================================
+Assemblée Générale du 03/11/2019
+================================
+
+L'assemblé délibère à titre ordinaire
+
+Marc Debureaux (Président) préside l'assemblée.
+
+Lucien Deleu (vice-secrétaire) rédige ce rapport.
+
+Feuille de présence :
+=====================
+
++ présent : 15
+
+  - Anglade Lucie
+  - Ayoub Guillaume
+  - Bonicoli Pierre-Louis
+  - Bousquié Pierre
+  - David Pierre-Yves
+  - Debureaux Marc
+  - Dupuy Mathieu
+  - Lasne Jules
+  - Mendoza Laura
+  - Palard Julien
+  - Rozo Antoine
+  - Stinner Victor
+  - vuillard arthur
+  - Wecxsteen Antoine
+  - Deleu Lucien
+
+
++ Pouvoir : 3
+
+  - Charlet Pierre
+  - Peroux Yannick
+  - Picard Laurent
+
+Ordre du jour
+=============
+
+- Rapport Moral de l'année par le Pdt
+- Rapport financier par le trésorier
+- Vote du renouvellement du CD
+- Election du président
+
+Rapport Moral de l'année par le Pdt.
+====================================
+
+Service de paiement
+-------------------
+
+Cette année nous avons créé un compte Paypal Buisness au nom de l'Afpy.
+L'usage concerne les bourses et les personnes sans compte SEPA.
+
+
+Les serveurs
+------------
+
+- Mise en place d'un gestionnaire de mot de passe centralisé
+- Création d'un dépôt "infra" sur le Github de l'Afpy
+- Intervention sur le serveur pour réparer le service de mail
+
+
+Cotisations
+-----------
+
+Il y a eu une hausse de 30% en terme de membres inscrits.
+
+
+Financement
+-----------
+
+- Traductions de la documentation Python : 1 session par mois
+- Remise en route des Afpyros à Paris via Meetup
+- Django girls financé par l'Afpy
+
+
+Fosdem
+------
+
+Python maintenu présent.
+
+
+Pyconfr
+-------
+
+Points notables
+...............
+
+- Les sponsors (spécialement la PSF et Euro Python)
+- Toujours gratuit
+- Le lieu apprécié
+- La soirée
+- Il y a eu une amélioration de la diversité
+- Les plénières étaient uniquements féminines
+- Défraiement des déplacements pour les oratrices des plénières.
+- Retransmission vidéo excellente
+- Atelier en anglais
+
+Pistes d'améliorations
+......................
+
+- Retranscription maintenu mais la qualité n'est pas forcément au rendez-vous
+
+
+Objectifs pour l'année prochaine
+--------------------------------
+
+- Faire s'investir plus les membres
+- Améliorer l'organisation pour anticiper des problèmes récurrents (gestion des repas dans la diversité, ...)
+- Améliorer la diversité
+
+
+Propositions
+------------
+
+- Faire un stand au nom de l'Afpy
+- Nettoyer la *mailing list* "membres" qui contient beaucoup de personne désormais non-membres
+- Créer des sous groupes de bourses (à discuter)
+- Acheter des tours de cou et des gobelets géneriques "Afpy" ou "Pyconfr", afin de pouvoir les réutiliser chaque année
+
+
+Vote:
+  + 18 pour (dont 3 procurations)
+  + 0 contre
+  + 0 abstentions
+
+  Le rapport est adopté à l'unanimité des votes exprimé
+
+
+Rapport financier par le trésorier
+==================================
+
+cf bilans :
+  - `<bilan-financier-2018.rst>`_
+  - `<bilan-financier-2019.rst>`_
+  - `<bilan-financier-pyconfr-2019.md>`_
+
+Vote du renouvellement du CD :
+==============================
+
++ tiers sortant :
+
+  - Pierre-Yves David
+  - Lucien Deleu
+
++ démissions :
+
+  - Jean-Michel Armand
+
++ Nouveaux Candidats :
+
+  - Lucie Anglade : 1 contre - 2 abstentions - 15 pour
+  - Lucien Deleu : 1 contre - 2 abstentions - 15 pour
+  - Julien Palard : 0 contre - 2 abstentions - 16 pour
+
++ Pour rappel, les autres membres du CD sont :
+
+  - Jules Lasne (élu en 2018)
+  - Rémy Hubscher (élu en 2018)
+  - Victor Stinner (élu en 2018)
+  - Pierre Charlet (élu en 2017)
+  - Marc Debureaux (élu en 2017)
+  - Guillaume Ayoub (élu en 2017)
+
+
+Election du président
+=====================
+
+Le CD se réuni et propose la canditature de Marc Debureaux en tant que président de l'AFPy
+
+  + 0 contre
+  + 2 abstentions
+  + 16 pour
+
+Marc Debureaux est élu président
+
+
+L’ordre du jour étant épuisé, la séance est levée à 12h.
