@@ -3,7 +3,7 @@
 =============================================================
 
 .. Le PDF peut être généré avec Docutils et WeasyPrint
-.. rst2html5.py --language=fr --initial-header-level=2 --stylesheet=style.css conduite.rst | weasyprint - conduite.pdf
+.. rst2html5.py --language=fr --initial-header-level=2 --stylesheet=style-conduite.css conduite.rst | weasyprint - conduite.pdf
 
 Le but de l’Association Francophone Python (AFPy) est d’assurer la promotion du
 langage de programmation Python auprès du plus large public possible. Nous

@@ -1,0 +1,9 @@
+@import "style.css";
+
+h1 {
+  margin: 1em 0;
+}
+
+h2 {
+  break-before: auto;
+}
