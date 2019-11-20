@@ -1,26 +1,23 @@
-#Compte rendu point CD AFPy
+Compte rendu point CD AFPy 20 Novembre 2019
+===========================================
 
 https://github.com/AFPy/afpy\_gestion/tree/master/compte\_rendus\_cd/2019
 https://framatalk.org/afpy
 
-##20 Novembre 2019
-
-**Début : 18h00**
+*Début 18h00*
 
 Présents :
+  -  Jules Lasne
+  -  Victor Stinner
+  -  Julien Palard
+  -  Marc Debureaux
+  -  Guillaume Ayoub (s’est absenté)
+  -  Lucie Anglade
+  -  Lucien Deleu
+  -  Laura Mendoza
 
--  Jules Lasne
--  Victor Stinner
--  Julien Palard
--  Marc Debureaux
--  Guillaume Ayoub (s’est absenté)
--  Lucie Anglade
--  Lucien Deleu
--  Laura Mendoza
-
-##Ordre du jour
-
-###PyConFR 2020 à Strasbourg
+PyConFR 2020 à Strasbourg
+-------------------------
 
 -  L’UFR de Strasbourg est *super* motivé pour une PyCon Fr 2020. Ils
    ont commencé un `framapad`_}
@@ -41,9 +38,10 @@ Laura à demandé si on peut utiliser un autre bâtiment dans l’université.
 Ça arrange plusieurs personnes si les PyCon tombent durant les vacances
 scolaires.
 
-###Une future PyConFR sur la région Parisienne
 
--  
+Une future PyConFR sur la région Parisienne
+-------------------------------------------
+
 -  Julien a pris contact avec le LIP6, l’INRIA, l’ISC-PIF,
    telecom-paristech
 -  L’INRIA pense que les dates et la jauge ne sont pas compatible avec
@@ -56,23 +54,29 @@ scolaires.
    bon contacts interne on peut essayer de faire quelque chose.
 -  Ça me fait penser, as-on déjà essayé le CNAM ? → TODO debnet.
 
-##Divers
+
+Divers
+------
 
 -  Debnet a reçu un mail de bordeaux pour demander ce qu’ils font des
    tours de cou …
 -  Il faut remplir un formulaire pour l’établissement de la facture,
-   debnet transfère à Guillaume
+   debnet transfère à Guillaume.
 -  Lancer un appel officiel sur twitter/mastodon/liste AFPy membres pour
-   chercher un lieu et des personnes sur place prêtes à être bénévoles
+   chercher un lieu et des personnes sur place prêtes à être bénévoles.
 
-###Une future PyConFR à Genève
+
+Une future PyConFR à Genève
+---------------------------
 
 Un « Paul » avait envoyé un message à Jules. TODO Jules recontacter Paul
 avec la liste des prérequis qu’a construit Laura.
 
 https://usercontent.irccloud-cdn.com/file/xUC6tyN8/Screenshot%202019-11-17%20at%2022.08.21.png
 
-###Rétrospective de PyConFR
+
+Rétrospective de PyConFR
+------------------------
 
 -  Qu’est-ce qui s’est-il bien passé, qu’est-ce qui s’est mal passé,
    qu’est-ce qu’on peut améliorer
