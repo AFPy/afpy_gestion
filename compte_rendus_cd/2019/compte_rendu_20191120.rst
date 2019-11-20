@@ -1,7 +1,7 @@
 #Compte rendu point CD AFPy
 
-:raw-latex:`\url{https://github.com/AFPy/afpy\_gestion/tree/master/compte\_rendus\_cd/2019}`
-:raw-latex:`\url{https://framatalk.org/afpy}`
+https://github.com/AFPy/afpy\_gestion/tree/master/compte\_rendus\_cd/2019
+https://framatalk.org/afpy
 
 ##20 Novembre 2019
 
@@ -49,10 +49,10 @@ scolaires.
 -  L’INRIA pense que les dates et la jauge ne sont pas compatible avec
    leurs offres, ils nous redirigent vers l’IHP (Henri Pointcarré dans
    le 5ème) et le site des Cordeliers
-   (:raw-latex:`\url{https://www.hal.inserm.fr/SU-SCIENCES)}`.
+   (https://www.hal.inserm.fr/SU-SCIENCES).
 -  Les locaux du siège du CNRS et de l’ISC-PIF ne sont pas assez grands
 -  Le LIP6 est un peu cher
-   :raw-latex:`\url{http://www.locations.espaces.upmc.fr/}` mais avec de
+   http://www.locations.espaces.upmc.fr/ mais avec de
    bon contacts interne on peut essayer de faire quelque chose.
 -  Ça me fait penser, as-on déjà essayé le CNAM ? → TODO debnet.
 
@@ -70,7 +70,7 @@ scolaires.
 Un « Paul » avait envoyé un message à Jules. TODO Jules recontacter Paul
 avec la liste des prérequis qu’a construit Laura.
 
-:raw-latex:`\url{https://usercontent.irccloud-cdn.com/file/xUC6tyN8/Screenshot%202019-11-17%20at%2022.08.21.png}`
+https://usercontent.irccloud-cdn.com/file/xUC6tyN8/Screenshot%202019-11-17%20at%2022.08.21.png
 
 ###Rétrospective de PyConFR
 
@@ -93,7 +93,7 @@ avec la liste des prérequis qu’a construit Laura.
 
 -  Il y aura des enregistrements vidéos, d’ici décembre
 
--  L’événement reste gratuit :raw-latex:`\o`/ et le restera toujours.
+-  L’événement reste gratuit \o/ et le restera toujours.
 
    Pas bien
 
