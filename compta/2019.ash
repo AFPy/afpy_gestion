@@ -247,6 +247,9 @@
 2019/11/05 -159.00€ Transfer PyConFr19 X
     Keynote NC
 
+2019/11/05 -459.85€ Transfer PyConFr19 X
+    Repas vendredi midi GB
+
 2019/11/06 -400.00€ PayPal PyConFr19 X
     Bourse GD
 
@@ -274,6 +277,12 @@
     T-Shirts
 
 2019/11/15 360.00€ Transfer Cotisation X
+
+2019/11/19 -3940.00€ Transfer PyConFr19 X
+    Transcription Scribovox
+
+2019/11/22 -1476.00€ Transfer PyConFr19 X
+    Cap sciences salle samedi soir
 
 2019/11/25 -10.20€ Order Banque X
 
@@ -312,27 +321,8 @@
 2019/12/31 -8400.00€ Transfer PyConFr19 P
     Captation HF Prod reste
 
-2019/12/31 -4500.00€ Transfer PyConFr19 P
-    Transcription
-
-2019/12/31 -3000.00€ Transfer PyConFr19 P
+2019/12/31 -2946.05€ Transfer PyConFr19 P
     Nettoyage et sécurité
-
-2019/12/31 -1500.00€ Transfer PyConFr19 P
-    Plénières
-
-2019/12/31 -1500.00€ Transfer PyConFr19 P
-    Cap sciences salle samedi soir
-
-2019/12/31 -1000.00€ Transfer PyConFr19 P
-    Courses
-
-2019/12/31 -400.00€ Transfer PyConFr19 P
-    Boissons samedi soir
-
-
-
-
 
 
 
