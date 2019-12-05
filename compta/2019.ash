@@ -292,9 +292,6 @@
     Google Cloud
 
 2019/12/31 1000.00€ Transfer PyConFr19 P
-    Aiyo
-
-2019/12/31 1000.00€ Transfer PyConFr19 P
     Makina Corpus
 
 2019/12/31 500.00€ Transfer PyConFr19 P
