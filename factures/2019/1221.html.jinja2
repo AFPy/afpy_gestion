@@ -1,0 +1,14 @@
+{% set language = 'en' %}
+
+{% extends '_layout.jinja2' %}
+
+{% set lines = [
+  ['Sponsorship for PyconFr 2019, "Gold" level', 2000, 1],
+  ['Advance payment paid in September 2019', -2000, 1],
+] %}
+
+{% block address_to %}
+  JetBrains s.r.o.
+  Kavčí Hory Office Park, Na hřebenech II 1718/10
+  Praha 4 - Nusle - 140 00, Czech Republic
+{% endblock address_to %}

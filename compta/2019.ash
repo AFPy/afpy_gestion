@@ -287,6 +287,23 @@
 2019/11/25 -10.20€ Order Banque X
 
 
+-- Décembre
+
+2019/12/10 500.00€ Transfer PyConFr19 X
+    Tempo consulting
+
+2019/12/12 -42.00€ Order Domiciliation X
+
+2019/12/15 200.00€ Transfer Cotisation X
+
+2019/12/15 20.00€ Transfer Don X
+
+2019/12/15 75.00€ Transfer PyConFr19 X
+    Repas samedi soir
+
+2019/12/15 10.00€ Transfer PyConFr19 X
+    T-Shirts
+
 
 
 
@@ -302,9 +319,6 @@
 
 2019/12/31 1000.00€ Transfer PyConFr19 P
     Makina Corpus
-
-2019/12/31 500.00€ Transfer PyConFr19 P
-    Tempo consulting
 
 2019/12/31 500.00€ Transfer PyConFr19 P
     Algoo
@@ -329,9 +343,5 @@
 
 2019/12/06 -41.98€ Order Hébergement P
     Dédibox
-
-2019/12/12 -42.00€ Order Domiciliation P
-
-2019/12/15 50.00€ Transfer Cotisation P
 
 2019/12/25 -10.20€ Order Banque P
