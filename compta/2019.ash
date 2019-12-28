@@ -289,59 +289,49 @@
 
 -- Décembre
 
-2019/12/10 500.00€ Transfer PyConFr19 X
+2019/12/09 -42.00€ Order Domiciliation X
+
+2019/12/09 500.00€ Transfer PyConFr19 X
     Tempo consulting
 
-2019/12/12 -42.00€ Order Domiciliation X
+2019/12/10 -41.98€ Order Hébergement P
+    Dédibox
 
-2019/12/15 200.00€ Transfer Cotisation X
+2019/12/11 200.00€ Transfer Cotisation X
 
-2019/12/15 20.00€ Transfer Don X
+2019/12/11 20.00€ Transfer Don X
 
-2019/12/15 75.00€ Transfer PyConFr19 X
+2019/12/11 75.00€ Transfer PyConFr19 X
     Repas samedi soir
 
-2019/12/15 10.00€ Transfer PyConFr19 X
+2019/12/11 10.00€ Transfer PyConFr19 X
     T-Shirts
 
+2019/12/13 1000.00€ Transfer PyConFr19 X
+    Makina Corpus
 
+2019/12/19 -8385.00€ Transfer PyConFr19 X
+    Captation HF Prod reste
 
+2019/12/23 3000.00€ Transfer PyConFr19 X
+    EuroPython
+
+2019/12/26 -10.20€ Order Banque X
+
+2019/12/30 825.00€ Transfer PyConFr19 X
+    GA - T-shirts + EcoCups + Boissons samedi soir
 
 
 -- À venir
 
 
-2019/12/31 3000.00€ Transfer PyConFr19 P
-    EuroPython
-
 2019/12/31 4000.00€ Transfer PyConFr19 P
     Google Cloud
-
-2019/12/31 1000.00€ Transfer PyConFr19 P
-    Makina Corpus
 
 2019/12/31 500.00€ Transfer PyConFr19 P
     Algoo
 
-2019/12/31 825.00€ Transfer PyConFr19 P
-    T-shirts + EcoCups + Boissons samedi soir
 
-
-
-
-2019/12/31 -100.00€ Transfer PyConFr19 P
-    Impression
-
-2019/12/31 -8400.00€ Transfer PyConFr19 P
-    Captation HF Prod reste
 
 2019/12/31 -2946.05€ Transfer PyConFr19 P
     Nettoyage et sécurité
-
-
-
-
-2019/12/06 -41.98€ Order Hébergement P
-    Dédibox
-
-2019/12/25 -10.20€ Order Banque P
