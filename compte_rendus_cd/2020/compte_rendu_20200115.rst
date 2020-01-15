@@ -1,4 +1,5 @@
-#Compte rendu point CD AFPy
+Compte rendu point CD AFPy
+==========================
 
 https://github.com/AFPy/afpy\_gestion/tree/master/compte\_rendus\_cd/2020
 https://framatalk.org/afpy
@@ -23,7 +24,8 @@ Présents :
    Mendoza)sout sout- [ ] Pierre-Yves Davidsout
 -  ☐ Pierre Charlet
 
-##Ordre du jour
+Ordre du jour
+=============
 
 -  Mail demande de formation pour les débutants permettant d’avoir des
    bases solides en python => personne ne sait rien…
@@ -53,6 +55,7 @@ Victor, Julien. Contre: personne !
    https://djangogirls.org/abidjan/ Adopté à l’unanimité ! 4/4
 
 Actions
+=======
 
 -  Guillaume: Envoyer des sous à Abidjan :-D
 -  Victor: contacter Laura/Jeff pour Strasbourg. Signer une convention
