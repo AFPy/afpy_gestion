@@ -1,3 +1,7 @@
+++ SociétéGénérale (Order,Transfer,Cash,Check): 8195.54
+++ PayPal (PayPal): 2821.27
+
+
 -- Janvier
 
 2020/01/07 -381.41€ Order Assurance X

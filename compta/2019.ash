@@ -1,3 +1,7 @@
+++ SociétéGénérale (Order,Transfer,Cash,Check): 5258.99
+++ PayPal (PayPal): 0
+
+
 -- Janvier
 
 2019/01/07 -374.15€ Order Assurance X
@@ -88,7 +92,13 @@
 2019/06/25 50.00€ Transfer PyConFr19 X
     Mergify
 
-2019/06/27 -47.00€ Transfer Meetup X
+2019/06/27 -47.00€ PayPal Meetup X
+    JP
+
+2019/06/27 47.00€ PayPal Meetup X
+    JP
+
+2019/06/27 -47.00€ Order Meetup X
     JP
 
 
@@ -146,7 +156,7 @@
 
 2019/08/15 240.00€ Transfer Cotisation X
 
-2019/08/16 -100.00€ Transfer CotisationApril X
+2019/08/16 -100.00€ Transfer April X
 
 2019/08/19 -85.00€ PayPal PyConFr19 X
     Bourse MK
@@ -170,7 +180,7 @@
 
 2019/09/09 -42.00€ Order Domiciliation X
 
-2019/09/11 500.00€ Transfer PyConFr19 X
+2019/09/11 100.00€ Transfer PyConFr19 X
     Alves Info
 
 2019/09/15 70.00€ Transfer Cotisation X
@@ -217,7 +227,7 @@
 
 2019/10/14 220.00€ Transfer Cotisation X
 
-2019/10/21 -400.00€ PayPal PyConFr19 X
+2019/10/21 -403.99€ PayPal PyConFr19 X
     Bourse TS
 
 2019/10/22 -400.70€ PayPal PyConFr19 X
@@ -240,6 +250,9 @@
 
 2019/11/01 -40.00€ Cash PyConFr19 X
     Boissons samedi soir
+
+2019/11/01 40.00€ Cash PyConFr19 X
+    T-shirts + EcoCups
 
 2019/11/05 -356.56€ Check PyConFr19 X
     Boissons samedi soir
@@ -273,7 +286,7 @@
 2019/11/15 3125.00€ Transfer PyConFr19 X
     Repas samedi soir
 
-2019/11/15 1250.00€ Transfer PyConFr19 X
+2019/11/15 1170.00€ Transfer PyConFr19 X
     T-Shirts
 
 2019/11/15 360.00€ Transfer Cotisation X
@@ -294,7 +307,7 @@
 2019/12/09 500.00€ Transfer PyConFr19 X
     Tempo consulting
 
-2019/12/10 -41.98€ Order Hébergement P
+2019/12/10 -41.98€ Order Hébergement X
     Dédibox
 
 2019/12/11 200.00€ Transfer Cotisation X
@@ -323,7 +336,7 @@
 
 
 
--- 2020
+-- Payé en 2020 pour des factures 2019
 
 2020/01/08 4000.00€ Transfer PyConFr19 X
     Google Cloud
