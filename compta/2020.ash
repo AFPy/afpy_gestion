@@ -1,4 +1,4 @@
-++ SociétéGénérale (Order,Transfer,Cash,Check): 8195.54
+++ SociétéGénérale (Order,Transfer,Cash,Check): 8695.54
 ++ PayPal (PayPal): 2821.27
 
 
@@ -11,3 +11,6 @@
 
 2020/01/14 -69.98€ Order Hébergement X
     Dédibox
+
+2020/01/28 -10.20€ Order Banque X
+
