@@ -346,10 +346,5 @@
 2020/01/24 500.00€ Transfer PyConFr19 X
     Algoo
 
-
-
--- À venir
-
-
-2019/12/31 -2946.05€ Transfer PyConFr19 P
+2020/02/13 -2946.05€ Transfer PyConFr19 X
     Nettoyage et sécurité
