@@ -26,3 +26,22 @@
 
 2020/02/13 -129.00€ Transfer Meetup X
     Remboursement MD Pizzas traduction
+
+2020/02/14 -500.00€ Transfer Sponsor X
+    Django Girls Abidjan
+
+2020/02/14 -26.40€ Order Banque X
+    Commission Django Girls Abidjan
+
+2020/02/25 -10.20€ Order Banque X
+
+
+-- Mars
+
+2020/03/09 -42.00€ Order Domiciliation X
+
+2020/03/11 -52.76€ Order Hébergement X
+    Dédibox
+
+2019/03/16 60.00€ Transfer Cotisation X
+
