@@ -45,3 +45,10 @@
 
 2019/03/16 60.00€ Transfer Cotisation X
 
+2020/03/26 -10.20€ Order Banque X
+
+
+-- Avril
+
+2020/04/04 -52.77€ Transfer Meetup X
+    GA
