@@ -22,7 +22,7 @@
 2020/02/11 -52.76€ Order Hébergement X
     Dédibox
 
-2019/02/12 140.00€ Transfer Cotisation X
+2020/02/12 140.00€ Transfer Cotisation X
 
 2020/02/13 -129.00€ Transfer Meetup X
     Remboursement MD Pizzas traduction
@@ -43,12 +43,38 @@
 2020/03/11 -52.76€ Order Hébergement X
     Dédibox
 
-2019/03/16 60.00€ Transfer Cotisation X
+2020/03/16 60.00€ Transfer Cotisation X
 
 2020/03/26 -10.20€ Order Banque X
 
 
 -- Avril
 
-2020/04/04 -52.77€ Transfer Meetup X
+2020/04/06 -52.77€ Transfer Meetup X
     GA
+
+2020/04/07 -52.76€ Order Hébergement X
+    Dédibox
+
+2020/04/09 -42.00€ Order Domiciliation X
+
+2020/04/14 20.00€ Transfer Cotisation X
+
+2020/04/25 -10.20€ Order Banque X
+
+
+-- Mai
+
+2020/05/11 -52.76€ Order Hébergement X
+    Dédibox
+
+2020/05/13 -42.00€ Order Domiciliation X
+
+2020/05/13 280.00€ Transfer Don X
+
+2020/05/13 60.00€ Transfer Cotisation X
+
+2020/05/26 -10.20€ Order Banque X
+
+
+-- Juin
