@@ -78,3 +78,44 @@
 
 
 -- Juin
+
+2020/06/09 -52.76€ Order Hébergement X
+    Dédibox
+
+2020/06/09 -42.00€ Order Domiciliation X
+
+2020/06/13 40.00€ Transfer Cotisation X
+
+2020/06/25 -10.20€ Order Banque X
+
+
+-- Juillet
+
+2020/07/09 -52.76€ Order Hébergement X
+    Dédibox
+
+2020/07/09 -42.00€ Order Domiciliation X
+
+2020/06/28 -10.20€ Order Banque X
+
+
+-- Août
+
+2020/08/10 -52.76€ Order Hébergement X
+    Dédibox
+
+2020/08/10 -42.00€ Order Domiciliation X
+
+2020/06/11 100.00€ Transfer Cotisation X
+
+2020/08/17 -100.00€ Order April X
+
+2020/08/26 -10.20€ Order Banque X
+
+
+-- Septembre
+
+2020/09/08 -52.76€ Order Hébergement X
+    Dédibox
+
+2020/08/08 -42.00€ Order Domiciliation X
