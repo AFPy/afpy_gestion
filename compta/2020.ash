@@ -96,7 +96,7 @@
 
 2020/07/09 -42.00€ Order Domiciliation X
 
-2020/06/28 -10.20€ Order Banque X
+2020/07/28 -10.20€ Order Banque X
 
 
 -- Août
@@ -106,7 +106,7 @@
 
 2020/08/10 -42.00€ Order Domiciliation X
 
-2020/06/11 100.00€ Transfer Cotisation X
+2020/08/11 100.00€ Transfer Cotisation X
 
 2020/08/17 -100.00€ Order April X
 
@@ -118,4 +118,20 @@
 2020/09/08 -52.76€ Order Hébergement X
     Dédibox
 
-2020/08/08 -42.00€ Order Domiciliation X
+2020/09/08 -42.00€ Order Domiciliation X
+
+2020/09/11 220.00€ Transfer Cotisation X
+
+2020/09/15 1000.00 Transfer PyConFr18 X
+
+2020/09/25 -10.20 Order Banque X
+
+
+-- Octobre
+
+2020/10/08 -42.00€ Order Domiciliation X
+
+2020/10/12 -52.76€ Order Hébergement X
+    Dédibox
+
+2020/10/27 -10.20 Order Banque X
