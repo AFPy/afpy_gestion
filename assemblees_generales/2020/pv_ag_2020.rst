@@ -1,0 +1,140 @@
+Assemblée Générale du 30/10/2020
+================================
+
+L'assemblé délibère à titre ordinaire
+
+Marc Debureaux (Président) préside l'assemblée.
+
+Lucie Anglade (vice-secrétaire) rédige ce rapport.
+
+Feuille de présence :
+=====================
+
++ présents :
+    - Lucie Anglade
+    - Guillaume Ayoub
+    - Julien Palard
+    - Marc Debureaux
+    - Hervé Sousset
+    - Pierre Bousquié
+    - Antoine Rozo
+    - Arthur Vuillard
+    - Bruno Bonfils
+    - Jules Lasnes
+    - Julien Vitard
+    - Lucien Deleu (pas à jour de cotisation)
+    - Milena Jael Silva
+    - Michael Scherer (pas à jour de cotisation)
+    - Pierre Charlet
+    - Pierre-Louis Bonicoli
+    - Thomas Bouchet
+    - Guillaume Gautier (pas à jour de cotisation)
+    - Philippe Boulanger (arrivé après les votes)
+
++ pouvoirs : 0
+
+Ordre du jour :
+===============
+
+- rapport moral de l’année par le président
+- rapport financier par le trésorier
+- vote du renouvellement du CD
+- élection du président
+
+Rapport moral de l’année par le président :
+===========================================
+
+Implication des membres
+-----------------------
+Les membres de l’association ne sont pas très impliqués dans la vie associative,
+ce que donne lui à des problèmes pour déléguer les choses.
+Cependant, le Comité Directeur (CD) n’a pas non plus cherché à impliquer les
+membres.
+Il y a beaucoup de comptes fantômes sar les mailing-list, par rapport au nombre
+de cotisations (48).
+
+Annulation de la PyConFr
+------------------------
+Le CD a cru pouvoir organiser la PyConFr jusqu’à la fin de l’été. Il y avait des
+gens motivés sur place pour l’organisation. Mais à la vue du contexte actuel,
+l’évènement sur place a été annulé.
+La PyConFr n’a pas été organisée en format en ligne car il n’y a pas la
+logistique nécessaire pour ce format, ni assez de personnes pour gérer pendant
+l’évènement.
+Cependant, l’université de Strasbourg est toujours ok pour accueillir
+l’évènement l’année suivante. Mais il faudra un effort collectif pour
+l’organisation.
+
+Diversité
+---------
+Depuis l’an dernier, il y a une fille au CD, mais ce n’est pas suffisant.
+Il y a eu beaucoup de travail de la part de Victor et Laura sur l’inclusivité.
+L’association cherche d’autres idées pour s’améliorer sur ce point.
+Il y a toujours des contacts avec PyLadies et DjangoGirls qui pourront continuer
+par la suite.
+
+Point mensuel
+-------------
+Chaque mois le CD se réunit, mais tout le monde ne vient pas. Il serait bien que
+plus de monde soit présent.
+Ce point mensuel est une bonne façon de garder le contact avec les différents
+membres car tout le monde n’est pas dans la même ville.
+
+Vote :
+  + pour : 11
+  + contre : 0
+  + abstention : 3
+
+Rapport financier par le trésorier :
+====================================
+
+Voir bilans :
+  - `<bilan_financier_2019.rst>`_
+  - `<bilan_financier_2020_provisoire.rst>`_
+
+Vote bilan financier 2019 :
+  + pour : 13
+  + contre : 0
+  + abstention : 1
+
+Vote du renouvellement du CD :
+==============================
+
++ démissions :
+
+  - Victor Stinner
+  - Pierre Charlet
+  - Rémy Hubscher
+  - Lucien Deleu
+
++ tiers sortant : aucun
+
++ nouveaux candidats :
+
+  - Bruno Bonfils (pour : 11, contre : 0, abs : 4)
+  - Antoine Rozo (pour : 14, contre : 0, abs : 1)
+  - Thomas Bouchet (pour : 8, contre : 0, abs : 7)
+  - Pierre Bousquié (pour : 12, contre : 0, abs : 2)
+
++ les autres membres :
+
+  - Julien Palard (élu en 2019)
+  - Lucie Anglade (élue en 2019)
+  - Jules Lasne (élu en 2018)
+  - Marc Debureaux (élu en 2017)
+  - Guillaume Ayoub (élu en 2017)
+
+Élection du président :
+=======================
+
+Le CD se réunit et propose Marc Debureaux au poste de président de l’AFPy.
+
+Vote :
+  + pour : 13
+  + contre : 0
+  + abstention : 2
+
+Marc Debureaux est élu président.
+
+
+Séance levée à 17h25.
