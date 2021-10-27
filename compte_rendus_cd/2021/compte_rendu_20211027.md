@@ -35,7 +35,7 @@ Présents :
 
 - [x] Julien Palard
 
-- [] Thomas Bouchet
+- [ ] Thomas Bouchet
 
 - [ ] Bruno Bonfils
 
