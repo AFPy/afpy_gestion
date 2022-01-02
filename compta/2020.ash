@@ -135,3 +135,32 @@
     Dédibox
 
 2020/10/27 -10.20 Order Banque X
+
+
+-- Novembre
+
+2020/11/10 320.00€ Transfer Cotisation X
+
+2020/11/10 -42.00€ Order Domiciliation X
+
+2020/11/10 -96.83€ Order Hébergement X
+    Dédibox
+
+2020/11/27 -10.20 Order Banque X
+
+
+-- Décembre
+
+2020/12/08 -73.15€ Order Hébergement X
+    Dédibox
+
+2020/12/09 50.00€ Transfer Cotisation X
+
+2020/12/08 -42.00€ Order Domiciliation X
+
+2020/12/26 -10.20 Order Banque X
+
+
+-- Payé en 2021 pour des factures 2020
+
+2021/01/08 20.00€ Transfer Cotisation X
