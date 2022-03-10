@@ -171,7 +171,7 @@
 
 -- Payé en 2022 pour des factures 2021
 
-2022/01/08 40.00€ Transfer Cotisation X
+2022/01/13 40.00€ Transfer Cotisation X
 
-2022/01/08 -125.20€ Order Meetup X
+2022/01/08 -125.20€ Order Meetup 0
     GA
