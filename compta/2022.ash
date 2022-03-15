@@ -22,3 +22,5 @@
 -- Mars
 
 2022/03/04 -42.00€ Order Domiciliation X
+
+2022/03/10 440.00€ Transfer Cotisation X
