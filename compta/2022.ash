@@ -1,5 +1,5 @@
-++ SociétéGénérale (Order,Transfer,Cash,Check): 4607.29
-++ PayPal (PayPal): 2811.27
+++ SociétéGénérale (Order,Transfer,Cash,Check): 4732.49
+++ PayPal (PayPal): 2686.07
 
 -- Janvier
 

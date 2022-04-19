@@ -173,5 +173,5 @@
 
 2022/01/13 40.00€ Transfer Cotisation X
 
-2022/01/08 -125.20€ Order Meetup 0
+2022/01/08 -125.20€ PayPal Meetup X
     GA
