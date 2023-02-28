@@ -1,0 +1,212 @@
+Assemblée Générale du 09/02/2022
+================================
+
+L'assemblé délibère à titre ordinaire
+Marc Debureaux (Président) préside l'assemblée.
+Antoine Rozo (vice-secrétaire) rédige ce rapport.
+
+La réunion démarre à 18h15.
+
+Feuille de présence :
+=====================
+
++ Membres présents (29) :
+    - Jules Lasne (seluj78)
+    - Julien Palard (mdk)
+    - Bruno Bonfils (asyd)
+    - David Giraud
+    - Frédéric Kingué Makongué
+    - Guillaume Ayoub
+    - Hervé Sousset (HS-157)
+    - Jean Pierre Mac Veigh
+    - Laurine Leulliette
+    - Lucie Anglade
+    - Lucien Deleu
+    - Maxime Pigou (Ezlo)
+    - Jean Lapostolle (Melcore)
+    - Pierre Bousquié
+    - Pierre Charlet
+    - Pierre-Louis Bonicoli (Pilou)
+    - Thomas Loiret
+    - Thomas Bouchet (Mindiell)
+    - Antoine Rozo (entwanne)
+    - Aurthur Vuillard (arthru)
+    - Michael Scherer (misc)
+    - Philippe Boulanger
+    - Florian Guillet
+    - Feth Arezki (feth)
+    - Geoffroy Bailly (JeffD)
+    - Emmanuel S (Fipaddict)
+    - Lajoie Batadiwa
+    - Paul m. p. P. (pmp-p)
+    - Stéphan Dufour
+
++ Pouvoirs : 0
+
+L'AGO se tient exceptionnellement en ligne en raison de la situation sanitaire et l'absence de PyConFR.
+
+Ordre du jour :
+===============
+
+- Rapport moral de l’année 2021 par le président
+- Rapport financier par le trésorier
+- Vote du renouvellement du CD
+- Élection du ou de la président·e
+
+Rapport moral de l’année par le président :
+===========================================
+
+Vie de l'association
+--------------------
+- Presentation des membres du bureau, 9 personnes du CD, 6 personnes au bureau.
+- Rappel des moyens de communication de l'association (site web, discuss, salon IRC, discord, comptes réseaux sociaux), rappel du bridge discord/IRC.
+- Actuellement 50 membres dans l'association (au 9 février 2022), baisse visible depuis 2020 en raison de la crise sanitaire et donc de l'absence de PyConFR, nombre d'adhérents stable par rapport à l'année précédente.
+- Infos fraîches à trouver principalement sur le site web + discuss.afpy.org
+
+PyConFr
+-------
+La PyConFR devait être organisée à l'automne 2020 à Strasbourg (accord de principe signé), mais a été annulée à cause au covid. Le CD avait décidé de ne pas organiser de conférence en ligne (pas les outils ni les personnes ou la volonté pour prendre ça en charge).
+Bon espoir d'organiser une édition 2022 mais il y a pour cela besoin de soutien, de personnes pour épauler / contacter les gens (foodtrucks, restaurateurs, salles d'événement, personnel de sécurité)
+
+Rétrospective 2021
+------------------
+Pas mal de choses faites en 2021 malgré l'inactivité apparente, le CD a continué de se réunir tous les mois pour continuer de faire tourner l'association.
+- Il s'agit principalement de chantiers techniques (emails par Gandi, nettoyage des serveurs, refonte du site avec interface d'admin et BDD, discuss pour réunir la communauté)
+- Mais aussi des meetups en ligne (« En attendant la PyConFR ») avec 5-6 éditions sur l'année. Ils ne seront pas forcément renouvelés cette année en raison de l'organisation d'un événement physique, l'association essaiera aussi d'aider à monter des meetups locaux.
+- Désertification des ateliers de traduction FR de la doc Python
+- Projet HackInScience en cours d'intégration dans l'association
+- Mise en place d'une solution de vidéoconférence pour les membres (BBB)
+
+Qu'est-ce qui ne va pas ?
+-------------------------
+- Nombre de membres qui baisse, mouvance globale constatée dans d'autres associations
+- Les événements en ligne attirent très peu de monde malgré la bonne volonté (on culminait à 50 personnes au maximum)
+- L'association est assez mauvaise pour ce qui est de la communication (chacun s'occupe d'un morceau donc ça crée de la latence et on n'a pas le même discours partout) → on recherche toujours des gens pour aider sur ces sujets
+- Ça implique qu'il y a peu de choses qui se lancent et que l'on a peu d'impact sur les membres et non-membres, on n'arrive pas à s'adresser à de potentiels nouveaux membres (on tourne autour de 50 membres historiques, le noyau dur ne change pas beaucoup)
+- Ça implique aussi qu'il y a un nombre restreint de personnes actrices dans la vie de l'association
+- La PyConFR et le fait d'échanger / rencontrer nous manque à tous, mais son organisation est toujours un enfer. La PyConFR est gratuite et ouverte à tou·te·s, pour réunir un maximum de personnes, mais cela représente aussi un défi. Venez nous aider pour son organisation.
+
+Quelques propositions de membres
+--------------------------------
+- Mettre en place un trombinoscope sur le site
+- Faire des ateliers d'initiation à la programmation
+- Délivrer des certifications Python
+- Participer à des événements tiers autres que la PyConFR (fosdem, april)
+- Possibilité d'embaucher des prestataires pour déléguer certaines tâches de l'association (communication ?)
+- Réflexions sur un système de contreparties pour les sponsors et adhérent·e·s de l'asso
+
+Vote du bilan moral 2021 :
+  + pour : 22
+  + contre : 0
+  + abstention : 1
+
+Rapport financier par le trésorier :
+====================================
+
+Voir bilans :
+  - `<bilan_financier_2020.rst>`_
+  - `<bilan_financier_2021.rst>`_
+
+- 2 bilans financiers à voir pendant cette AG (2020 & 2021) et à voter (deux bilans en raison du décalage de la date de l'AG: il fallait boucler l'année 2020 pour le bilan financier 2020).
+- Activités assez faible pour ces deux années en raison de l'absence de PyConFR
+- Le montant fin 2020 (8350€) reste un matelas suffisant pour organiser une PyConFR (~15k€)
+
+Vote du bilan financier 2020 :
+  + pour : 23
+  + contre : 0
+  + abstention : 0
+
+- Total confortable vu les dépenses de l'année mais qui risque d'être juste pour l'organisation de la PyConFR si on reste sur les montants des dernières éditions
+- On a plus de cotisations que l'année dernière et on a bon espoir d'organiser une PyConFR ce qui devrait amener cotisations et sponsors
+  - On a normalement ce qu'il faut pour l'organiser, l'argent des sponsors étant normalement fourni en avance et que l'on ne dépense pas plus que ce que les sponsors s'engagent à nous donner. L'appel à sponsors a généralement lieu début d'été pour pouvoir commencer à payer les frais à la fin de l'été
+- Reprise en main du compte en banque!
+  - Quelques mois de négo et pas mal d'appel téléphoniques et d'aller-retour /o\.
+
+Vote du bilan financier 2021 :
+  + pour : 22
+  + contre : 0
+  + abstention : 0
+
+Vote du renouvellement du CD :
+==============================
+
+démissions :
+  - Julien Palard
+
+tiers sortant :
+  - Guillaume Ayoub (élu en 2017)
+  - Marc Debureaux (élu en 2017)
+
+candidat·e·s :
+  - Jean Lapostolle
+  - Philippe Boulanger
+  - Laurine Leulliette
+  - Lajoie Batadiwa
+  - Marc Debureaux
+
+Système de vote de Condorcet, tri des candidat·e·s par ordre de préférence :
+  - 23 votant·e·s
+  - Sont élu·e·s (remportent le plus de duels) :
+    - Marc Debureaux
+    - Laurine Leulliette
+    - Jean Lapostolle
+
+Nouvelle composition du CD :
+  - Jules Lasne (élu en 2018)
+  - Lucie Anglade (élue en 2019)
+  - Bruno Bonfils (élu en 2020)
+  - Antoine Rozo (élu en 2020)
+  - Thomas Bouchet (élu en 2020)
+  - Pierre Bousquié (élu en 2020)
+  - Marc Debureaux (élu en 2022)
+  - Laurine Leulliette (élue en 2022)
+  - Jean Lapostolle (élu en 2022)
+
+Élection du président :
+=======================
+
+Le CD se réunit et propose Marc Debureaux au poste de président de l’AFPy.
+
+Vote :
+  + pour : 19
+  + contre : 0
+  + abstention : 0
+
+Marc Debureaux est élu président.
+
+Le CD procède au vote de la composition du bureau.
+
+Jules Lasne est seul à se présenter au poste de vice-président.
+Approbation du vice-président par le CD: 9 votes pour, 0 contre, 0 abstention.
+
+Pierre Bousquié est seul à se présenter au poste de trésorier.
+Approbation du trésorier par le CD: 9 votes pour, 0 contre, 0 abstention.
+
+Thomas Bouchet est seul à se présenter au poste de vice-trésorier.
+Approbation du vice-trésorier par le CD: 9 votes pour, 0 contre, 0 abstention.
+
+Antoine Rozo est seul à se présenter au poste de secrétaire.
+Approbation du secrétaire par le CD: 9 votes pour, 0 contre, 0 abstention.
+
+Jean Lapostolle est seul à se présenter au poste de vice-secrétaire.
+Approbation du vice-secrétaire par le CD: 9 votes pour, 0 contre, 0 abstention.
+
+Composition du bureau :
+  - Président : Marc Debureaux
+  - Vice-président : Jules Lasne
+  - Trésorier : Pierre Bousquié
+  - Vice-trésorier : Thomas Bouchet
+  - Secrétaire : Antoine Rozo
+  - Vice-secrétaire : Jean Lapostolle
+
+Les autres membres du CD (Lucie Anglade, Laurine Leulliette, Bruno Bonfils) sont administrateurs et administratrices.
+
+La comité directeur se réunira le 15 mars pour sa prochaine réunion mensuelle.
+
+Questions et remarques
+======================
+
+- Sponsoring et contreparties : permettre aux entreprises de financer d'autres événements que la PyConFR, ou d'envisager d'autres contreparties
+- Discussion sur le moyen de communication privilégié à adopter pour le CD
+
+Séance levée à 20h07.
